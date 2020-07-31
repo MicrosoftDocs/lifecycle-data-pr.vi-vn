@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync Server 2010
+  description: Microsoft Lync Server 2010 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879474"
+name: Microsoft Lync Server 2010
+summary: >+
+  Microsoft Lync Server 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: doanh nghiệp, bộ công cụ phát triển phần mềm trò chuyện nhóm, SDK, tiêu chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Phiên bản điện thoại Lync](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Phiên bản điện thoại Lync được hỗ trợ với Lync Server 2010 và Lync Server 2013. Ngày hỗ trợ cho phiên bản điện thoại Lync đã được mở rộng 2 năm để phù hợp với vòng đời Lync Server 2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Bộ phát triển phần mềm trò chuyện nhóm\n* Sdk\n* Tiêu chuẩn"
