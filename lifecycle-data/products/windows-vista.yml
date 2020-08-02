@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Vista
+  description: Windows Vista tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846502"
+name: Windows Vista
+summary: >
+  Windows Vista tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: kinh doanh, kinh doanh N, doanh nghiệp, doanh nghiệp X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc, xem bên dưới để biết thông tin di chuyển.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/25/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 04/11/2017
+- version: Service Pack 1
+  startDate: 02/04/2008
+  endDate: 07/12/2011
+- version: Original Release
+  startDate: 01/25/2007
+  endDate: 04/13/2010
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Cân nhắc nâng cấp và di chuyển của Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Kinh doanh\n* Kinh doanh N\n* Doanh nghiệp\n* Doanh nghiệp X64\n* Trang chủ cơ bản\n* Trang chủ BASIC 64-bit\n* Trang chủ cơ bản N\n* Trang chủ cơ bản N 64-bit\n* Trang chủ Premium\n* Trang chủ Premium 64-bit\n* Starter\n* Cuối cùng\n* Cuối cùng 64-bit"

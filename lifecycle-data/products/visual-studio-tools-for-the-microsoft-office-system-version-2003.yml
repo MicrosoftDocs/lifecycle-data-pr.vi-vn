@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Công cụ Visual Studio cho hệ thống Microsoft Office phiên bản 2003
+  description: Công cụ Visual Studio cho hệ thống Microsoft Office phiên bản 2003 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846514"
+name: Công cụ Visual Studio cho hệ thống Microsoft Office phiên bản 2003
+summary: >+
+  Công cụ Visual Studio cho phiên bản hệ thống Microsoft Office 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 12/04/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/04/2003
+  endDate: 01/14/2014
+content: ''

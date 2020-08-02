@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP
+  description: Windows XP tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846500"
+name: Windows XP
+summary: >
+  Windows XP tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Trang chủ, chuyên nghiệp, chuyên nghiệp cho hệ thống nhúng, Starter
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/31/2001
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 04/21/2008
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 09/17/2004
+  endDate: 07/13/2010
+- version: Service Pack 1a
+  startDate: 02/03/2003
+  endDate: 10/10/2006
+- version: Service Pack 1
+  startDate: 08/30/2002
+  endDate: 10/10/2006
+- version: Original Release
+  startDate: 12/31/2001
+  endDate: 08/30/2005
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Nhà\n* Chuyên nghiệp\n* Chuyên nghiệp cho hệ thống nhúng\n* Starter"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Làng winternals
+  description: Winternals tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846499"
+name: Làng winternals
+summary: >+
+  Winternals tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: quản trị viên Pak 5,0, Defrag Manager 3,0, bảo vệ quản lý 2,0, Recovery Manager 3,0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách vòng đời cho Microsoft thu mua](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ cho sản phẩm này là tùy thuộc vào các điều khoản của việc mua lại của nó.\n\n## <a name=\"editions\"></a>Phiên bản \n* Quản trị viên Pak 5,0\n* Quản lý Defrag 3,0\n* Quản lý bảo vệ 2,0\n* Phục hồi Manager 3,0"
