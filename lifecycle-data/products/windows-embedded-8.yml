@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Nhúng Windows 8
+  description: Windows Embedded 8 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846881"
+name: Nhúng Windows 8
+summary: >+
+  Windows Embedded 8 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Pro, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8,1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Khách hàng phải di chuyển sang Windows Emdedded 8,1 vẫn được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* Pro\n* Tiêu chuẩn"

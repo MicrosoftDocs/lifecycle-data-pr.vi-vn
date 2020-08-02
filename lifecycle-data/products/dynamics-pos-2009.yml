@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics POS 2009
+  description: Dynamics POS 2009 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a1ad92ea731fb673d0cc7dd8d4abf893986f5da
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846694"
+name: Dynamics POS 2009
+summary: >+
+  Dynamics POS 2009 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 06/17/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 2
+  startDate: 06/28/2013
+  endDate: 07/09/2019
+- version: Service Pack 1
+  startDate: 10/15/2009
+  endDate: 07/08/2014
+- version: Original Release
+  startDate: 06/17/2009
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://community.dynamics.com/rms/b/rmssupport/archive/2014/07/17/pos-2009-end-of-mainstream-support)\n* [Thông tin sản phẩm](https://dynamics.microsoft.com/en-us/?&WT.srch)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
