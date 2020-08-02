@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2004 dành cho Mac
+  description: Microsoft Office 2004 cho Mac tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846417"
+name: Microsoft Office 2004 dành cho Mac
+summary: >+
+  Microsoft Office 2004 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: chuyên nghiệp, tiêu chuẩn, sinh viên và giáo viên
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/13/2004
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 07/13/2004
+  endDate: 01/10/2012
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Chuyên nghiệp\n* Tiêu chuẩn\n* Sinh viên và giáo viên"

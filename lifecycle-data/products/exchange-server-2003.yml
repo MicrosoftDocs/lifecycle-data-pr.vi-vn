@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ Exchange 2003
+  description: Exchange Server 2003 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846441"
+name: Máy chủ Exchange 2003
+summary: >+
+  Exchange Server 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/28/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 2
+  startDate: 10/19/2005
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 05/25/2004
+  endDate: 01/08/2008
+- version: Original Release
+  startDate: 09/28/2003
+  endDate: 05/25/2005
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"

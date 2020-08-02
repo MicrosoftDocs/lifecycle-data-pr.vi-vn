@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server Cập Nhật dịch vụ cho Windows Server 2016
+  description: Dịch vụ Cập nhật Windows Server cho Windows Server 2016 tuân theo chính sách vòng đời thành phần.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846505"
+name: Windows Server Cập Nhật dịch vụ cho Windows Server 2016
+summary: >+
+  Windows Server Cập Nhật dịch vụ cho Windows Server 2016 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/15/2016
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "> [!TIP]\n> Thành phần này tuân theo vòng đời của sản phẩm mẹ, Windows Server 2016.\n\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"

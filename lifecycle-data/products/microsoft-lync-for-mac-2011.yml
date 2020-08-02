@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Lync dành cho Mac 2011
+  description: Microsoft Lync dành cho Mac 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846421"
+name: Microsoft Lync dành cho Mac 2011
+summary: >+
+  Microsoft Lync dành cho Mac 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Skype for Business trên Mac](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> Hỗ trợ cho Microsoft Lync dành cho Mac 2011 mở rộng như được hiển thị để cung cấp tất cả khách hàng với thời gian chuyển đổi vòng đời Skype dành cho doanh nghiệp trên máy Mac."

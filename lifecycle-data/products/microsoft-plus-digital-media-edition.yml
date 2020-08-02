@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Plus! Phiên bản truyền thông kỹ thuật số
+  description: Microsoft Plus! Digital Media Edition tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846402"
+name: Microsoft Plus! Phiên bản truyền thông kỹ thuật số
+summary: >+
+  Microsoft Plus! Digital Media Edition tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/08/2008
+content: ''
