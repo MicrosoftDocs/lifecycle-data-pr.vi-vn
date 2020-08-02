@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual J# Phiên bản 2,0 Redistributable gói hai Edition
+  description: Microsoft Visual J# Phiên bản 2,0 Redistributable gói Second Edition tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846535"
+name: Microsoft Visual J# Phiên bản 2,0 Redistributable gói hai Edition
+summary: >+
+  Microsoft Visual J# Phiên bản 2,0 Redistributable gói Second Edition tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 08/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 08/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin hỗ trợ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem bên dưới để biết hướng dẫn di chuyển."

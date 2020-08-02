@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual FoxPro 9,0
+  description: Microsoft Visual FoxPro 9,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e21a4d7b031b3a982181f2bf975886672be36735
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846538"
+name: Microsoft Visual FoxPro 9,0
+summary: >+
+  Microsoft Visual FoxPro 9,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: chuyên nghiệp
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 12/22/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 12/22/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Chuyên nghiệp"
