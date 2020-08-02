@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Speech Server 2004 R2
+  description: Microsoft Speech Server 2004 R2 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fec0057e87207a97afdba55581f475ab1c6fb0d9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846540"
+name: Microsoft Speech Server 2004 R2
+summary: >+
+  Microsoft Speech Server 2004 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/22/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 07/22/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"

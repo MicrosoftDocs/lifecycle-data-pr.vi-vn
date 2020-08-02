@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual SourceSafe 2005
+  description: Microsoft Visual SourceSafe 2005 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f7cb8183628d197cfa31aecea78d5bd99de34b9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846526"
+name: Microsoft Visual SourceSafe 2005
+summary: >+
+  Microsoft Visual SourceSafe 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: tiêu chuẩn
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 07/11/2017
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn"

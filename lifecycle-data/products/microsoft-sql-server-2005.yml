@@ -1,0 +1,46 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846545"
+name: Microsoft SQL Server 2005
+summary: >
+  Microsoft SQL Server 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: nhỏ gọn, nhà phát triển, nhúng, doanh nghiệp, doanh nghiệp cho hệ thống dựa trên Itanium, doanh nghiệp X64, Express, Express với dịch vụ nâng cao, tiêu chuẩn, tiêu chuẩn cho hệ thống dựa trên Itanium, tiêu chuẩn X64, nhóm làm việc
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 01/14/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 4
+  startDate: 12/13/2010
+  endDate: 04/12/2016
+- version: Service Pack 3
+  startDate: 12/15/2008
+  endDate: 01/10/2012
+- version: Service Pack 2
+  startDate: 02/19/2007
+  endDate: 01/12/2010
+- version: Service Pack 1
+  startDate: 04/18/2006
+  endDate: 04/08/2008
+- version: Original Release
+  startDate: 01/14/2006
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition phát hành ngày 19 tháng 2 năm 2007.\n\n## <a name=\"editions\"></a>Phiên bản \n* Compact\n* Phát triển\n* Nhúng\n* Doanh nghiệp\n* Doanh nghiệp cho hệ thống dựa trên Itanium\n* Doanh nghiệp X64\n* Express\n* Express với dịch vụ nâng cao\n* Tiêu chuẩn\n* Tiêu chuẩn cho hệ thống dựa trên Itanium\n* Tiêu chuẩn X64\n* Workgroup"

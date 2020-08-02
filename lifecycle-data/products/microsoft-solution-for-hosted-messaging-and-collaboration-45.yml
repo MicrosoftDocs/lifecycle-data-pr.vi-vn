@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Giải pháp của Microsoft cho lưu trữ tin nhắn và cộng tác 4,5
+  description: Giải pháp Microsoft dành cho lưu trữ tin nhắn và cộng tác 4,5 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846635"
+name: Giải pháp của Microsoft cho lưu trữ tin nhắn và cộng tác 4,5
+summary: >+
+  Giải pháp Microsoft dành cho lưu trữ tin nhắn và cộng tác 4,5 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/11/2008
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 09/11/2008
+  endDate: 12/12/2011
+content: ''
