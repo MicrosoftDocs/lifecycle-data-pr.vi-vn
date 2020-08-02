@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ lưu trữ Windows 2008
+  description: Windows Storage Server 2008 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846337"
+name: Máy chủ lưu trữ Windows 2008
+summary: >
+  Windows Storage Server 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Basic, BASIC 32-bit, BASIC 64-bit, BASIC Embedded, BASIC Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+
+
+  > [!IMPORTANT]
+
+  > Sản phẩm này đã đạt kết thúc hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+- version: Service Pack 2
+  startDate: 07/19/2009
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Thông tin nâng cấp máy chủ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Cơ bản 32-bit\n* Cơ bản 64-bit\n* Cơ bản nhúng\n* Cơ bản Embedded 32-bit\n* Doanh nghiệp\n* Doanh nghiệp nhúng\n* Tiêu chuẩn\n* Tiêu chuẩn nhúng\n* Workgroup"

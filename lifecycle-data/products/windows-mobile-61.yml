@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Mobile 6,1
+  description: Windows Mobile 6,1 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846344"
+name: Windows Mobile 6,1
+summary: >
+  Windows Mobile 6,1 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: bộ thích ứng, chuyên nghiệp, tiêu chuẩn
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/01/2008
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 07/01/2008
+  endDate: 01/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Thích ứng Kit\n* Chuyên nghiệp\n* Tiêu chuẩn"

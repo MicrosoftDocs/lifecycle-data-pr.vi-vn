@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (không gian làm việc, nhà thiết kế)
+  description: Microsoft SharePoint 2010 (không gian làm việc, thiết kế) tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846397"
+name: Microsoft SharePoint 2010 (không gian làm việc, nhà thiết kế)
+summary: >+
+  Microsoft SharePoint 2010 (không gian làm việc, thiết kế) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: nhà thiết kế, Workspace
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Tài liệu dành cho nhà phát triển](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Tài liệu sản phẩm](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Thiết kế\n* Workspace"
