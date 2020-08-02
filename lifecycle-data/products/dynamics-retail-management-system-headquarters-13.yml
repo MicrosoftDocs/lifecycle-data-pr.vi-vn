@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Hệ thống quản lý bán lẻ Dynamics 1,3
+  description: Hệ thống quản lý bán lẻ Dynamics 1,3 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846686"
+name: Hệ thống quản lý bán lẻ Dynamics 1,3
+summary: >+
+  Hệ thống quản lý bán lẻ Dynamics 1,3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: trụ sở chính, Cửa hàng hoạt động
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/31/2006
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 01/31/2006
+  endDate: 04/12/2011
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trụ sở\n* Hoạt động lưu trữ"

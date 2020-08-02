@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Embedded cho điểm dịch vụ
+  description: Windows Embedded cho điểm dịch vụ tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846874"
+name: Windows Embedded cho điểm dịch vụ
+summary: >
+  Windows Embedded cho điểm dịch vụ tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/06/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 06/06/2005
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ Windows Embedded for Point of Service](https://support.microsoft.com/help/18581)"
