@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Nhà xuất bản 2010
+  description: Nhà xuất bản 2010 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: edb6c6caacc0e7d246a043d454934fe19b72fa52
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846376"
+name: Nhà xuất bản 2010
+summary: >+
+  Nhà xuất bản 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: tiêu chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn"
