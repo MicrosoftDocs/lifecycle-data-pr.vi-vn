@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (cho các trang web Internet, cho các ứng dụng nội bộ)
+  description: FAST Search Server 2010 (cho các trang Internet, cho các ứng dụng nội bộ) tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847114"
+name: FAST Search Server 2010 (cho các trang web Internet, cho các ứng dụng nội bộ)
+summary: >+
+  FAST Search Server 2010 (cho các trang Internet, cho các ứng dụng nội bộ) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: ứng dụng nội bộ, trang Internet
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Vòng đời hỏi đáp-chung](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ cho sản phẩm này là tùy thuộc vào các điều khoản của việc mua lại của nó.\n\n## <a name=\"editions\"></a>Phiên bản \n* Ứng dụng nội bộ\n* Các trang Internet"

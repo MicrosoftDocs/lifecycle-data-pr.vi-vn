@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Gói HPC 2008
+  description: HPC gói 2008 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847102"
+name: Gói HPC 2008
+summary: >
+  HPC gói 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/29/2008
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 05/12/2010
+  endDate: 04/14/2014
+- version: Service Pack 1
+  startDate: 08/12/2009
+  endDate: 07/10/2012
+- version: Original Release
+  startDate: 12/29/2008
+  endDate: 10/11/2011
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

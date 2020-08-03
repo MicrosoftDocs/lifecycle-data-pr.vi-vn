@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel 2008 cho Mac
+  description: Excel 2008 cho Mac tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aec33c5351d53108f34d6d36a6db1ba5d1a4b5c4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847122"
+name: Excel 2008 cho Mac
+summary: >
+  Excel 2008 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''

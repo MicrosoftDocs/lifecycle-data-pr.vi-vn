@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: FAST Search Server 2010 (dành cho SharePoint, cho các trang Internet SharePoint)
+  description: FAST Search Server 2010 (dành cho SharePoint, cho SharePoint Internet Sites) tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847117"
+name: FAST Search Server 2010 (dành cho SharePoint, cho các trang Internet SharePoint)
+summary: >+
+  FAST Search Server 2010 (dành cho SharePoint, cho SharePoint Internet Sites) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: dành cho SharePoint, cho các trang Internet SharePoint
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/16/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/24/2011
+  endDate: 07/23/2014
+- version: Original Release
+  startDate: 06/16/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ cho sản phẩm này là tùy thuộc vào các điều khoản của việc mua lại của nó.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho SharePoint\n* cho các trang web SharePoint Internet"

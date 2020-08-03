@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics CRM 4,0
+  description: Dynamics CRM 4,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 852d493a2b4693fdc4b3b7cc1e40b30afe880704
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847137"
+name: Dynamics CRM 4,0
+summary: >+
+  Dynamics CRM 4,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 02/29/2008
+  end: 04/09/2013
+  extendedEnd: 04/10/2018
+releases:
+- version: Original Release
+  startDate: 02/29/2008
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://cloudblogs.microsoft.com/dynamics365/)"

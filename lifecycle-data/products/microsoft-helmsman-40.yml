@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft helmsman 4,0
+  description: Microsoft helmsman 4,0 tuân thủ chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e873dcff7f9c115e7c0aa006d0a89b275f51c1a2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847369"
+name: Microsoft helmsman 4,0
+summary: >+
+  Microsoft helmsman 4,0 tuân thủ chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 01/14/2014
+content: ''

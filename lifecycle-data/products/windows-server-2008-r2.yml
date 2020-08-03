@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2008 R2
+  description: Windows Server 2008 R2 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a6c6adf73d2ed1b58f9ce3f1458f7a11cd1ae494
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847224"
+name: Windows Server 2008 R2
+summary: "Windows Server 2008 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: Datacenter, Enterprise, HPC Edition, Hệ thống dựa trên Itanium, Standard, web\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin nâng cấp máy chủ](/windows-server/upgrade/upgrade-overview)\n* [Mở rộng bảo mật Cập Nhật chương trình (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bản Cập Nhật bảo mật mở rộng (ESU) có sẵn thông qua các chương trình cấp phép số lượng lớn cụ thể cho các phiên bản Trung tâm dữ liệu, tiêu chuẩn, doanh nghiệp và nhúng của các sản phẩm này, cho đến khi có thêm ba năm qua kết thúc hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft để tìm hiểu thêm. \n\nPhát hành-------------------------------ngày bắt đầu----ngày kết thúc\n\nCập Nhật bảo mật mở rộng năm 3---01/11/2022---01/10/2023\n\nCập Nhật bảo mật mở rộng năm 2---01/12/2021---01/11/2022\n\nCập Nhật bảo mật mở rộng năm 1---01/14/2020---01/12/2021\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Doanh nghiệp\n* Phiên bản HPC\n* Hệ thống dựa trên Itanium\n* Tiêu chuẩn\n* Web"
