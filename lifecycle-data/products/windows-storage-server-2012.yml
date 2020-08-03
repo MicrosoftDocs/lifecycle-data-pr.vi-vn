@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ lưu trữ Windows 2012
+  description: Windows Storage Server 2012 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865897"
+name: Máy chủ lưu trữ Windows 2012
+summary: >+
+  Windows Storage Server 2012 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Hỗ trợ Mainstream và Extended cho sản phẩm này đã được mở rộng để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn\n* Workgroup"

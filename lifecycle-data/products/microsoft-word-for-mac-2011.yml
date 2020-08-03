@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Word dành cho Mac 2011
+  description: Microsoft Word dành cho Mac 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866130"
+name: Microsoft Word dành cho Mac 2011
+summary: "Microsoft Word dành cho Mac 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng thời gian chuyển đổi vòng đời tiêu chuẩn"

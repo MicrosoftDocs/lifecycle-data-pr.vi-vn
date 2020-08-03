@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 quản lý bảo vệ dữ liệu
+  description: Microsoft System Center 2012 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866090"
+name: Microsoft System Center 2012 quản lý bảo vệ dữ liệu
+summary: >+
+  Microsoft System Center 2012 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Tài nguyên hệ thống Trung tâm](https://www.microsoft.com/system-center/resources)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

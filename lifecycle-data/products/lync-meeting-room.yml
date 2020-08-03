@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Phòng họp Lync
+  description: Phòng họp Lync tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866028"
+name: Phòng họp Lync
+summary: "Phòng họp Lync tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/01/2013
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 09/01/2013
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

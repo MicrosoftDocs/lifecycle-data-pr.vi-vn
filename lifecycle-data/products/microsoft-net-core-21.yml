@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Core
+  description: Microsoft .NET Core tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ec4cd98c7576838861d440b6f5c1856a1414d93f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865989"
+name: Microsoft .NET Core
+summary: >+
+  Microsoft .NET Core tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- dotnet
+policyType: modern-on-prem
+supportDates:
+  start: 06/27/2016
+releases:
+- version: Original Release
+  startDate: 06/27/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình .NET](https://github.com/dotnet/core/blob/master/roadmap.md)\n* [Thông tin dịch vụ](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Câu hỏi thường gặp về vòng đời-.NET Core](/lifecycle/faq/dotnet-core)"

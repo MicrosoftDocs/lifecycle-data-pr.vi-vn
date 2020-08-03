@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure bảo vệ thông tin khách hàng
+  description: Azure bảo vệ thông tin khách hàng tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865864"
+name: Azure bảo vệ thông tin khách hàng
+summary: >+
+  Azure bảo vệ thông tin khách hàng tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> Cung cấp một trải nghiệm khách hàng thống nhất và tinh gọn, Azure bảo vệ thông tin khách hàng (cổ điển) và quản lý nhãn trong cổng Azure đang được chấp nhận tính từ ngày 31, 2021. Khung thời gian này cho phép tất cả khách hàng bảo vệ thông tin Azure hiện tại chuyển sang giải pháp ghi nhãn thống nhất của chúng tôi bằng nền tảng ghi nhãn hợp nhất bảo vệ thông tin của Microsoft."

@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2012
+  description: Visual Studio 2012 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866077"
+name: Visual Studio 2012
+summary: >+
+  Visual Studio 2012 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: đại lý, cộng đồng 2013, Express cho web, Express cho Windows 8, Express cho Windows Desktop, IntelliTrace Collector, Microsoft Azure công cụ, cao cấp, chuyên nghiệp, công cụ từ xa, Shell (tích hợp), Shell (Isolated), công cụ dữ liệu SQL Server, nhóm Explorer, kiểm tra chuyên nghiệp 2013, Ultimate
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/31/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Update 5
+  startDate: 08/21/2015
+  endDate: 01/10/2023
+- version: Update 4
+  startDate: 11/12/2013
+  endDate: 10/08/2019
+- version: Original Release
+  startDate: 10/31/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Visual Studio sản phẩm vòng đời và dịch vụ](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Cộng đồng 2013\n* Express dành cho web\n* Express dành cho Windows 8\n* Express dành cho Windows Desktop\n* Bộ sưu tập IntelliTrace\n* Công cụ Microsoft Azure\n* Premium\n* Chuyên nghiệp\n* Công cụ từ xa\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Công cụ dữ liệu SQL Server\n* Thám hiểm nhóm\n* Kiểm tra chuyên nghiệp 2013\n* Cuối cùng\n* Visual C++ Redistributable\n* Phần mở rộng công cụ web"

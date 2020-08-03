@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cửa sổ 8
+  description: Windows 8 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866122"
+name: Cửa sổ 8
+summary: >
+  Windows 8 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise, Enterprise N, N, Pro với Media Center, chuyên nghiệp, chuyên nghiệp N
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc. Khách hàng phải cập nhật lên Windows 8,1 để duy trì hỗ trợ.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-Windows 8,1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Doanh nghiệp N\n* N\n* Pro với Media Center\n* Chuyên nghiệp\n* N chuyên nghiệp"

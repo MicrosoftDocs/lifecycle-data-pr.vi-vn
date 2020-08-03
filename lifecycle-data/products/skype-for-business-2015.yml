@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Skype cho doanh nghiệp 2015
+  description: Skype cho doanh nghiệp 2015 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866265"
+name: Skype cho doanh nghiệp 2015
+summary: >+
+  Skype cho doanh nghiệp 2015 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n> [!NOTE]\n> Khách hàng: Skype dành cho khách hàng doanh nghiệp 2015 phát hành là bản Cập Nhật cho khách hàng Lync 2013 và sẽ theo cùng một vòng đời sản phẩm."

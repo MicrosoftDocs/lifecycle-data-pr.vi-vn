@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2016
+  description: Windows Server 2016 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866327"
+name: Windows Server 2016
+summary: >+
+  Windows Server 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Datacenter, Essentials, MultiPoint Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows-server/get-started/server-basics)\n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Các câu cần thiết\n* MultiPoint cao cấp\n* Tiêu chuẩn"

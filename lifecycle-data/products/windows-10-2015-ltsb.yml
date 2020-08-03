@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cửa sổ 10 2015 LTSB
+  description: Windows 10 2015 LTSB tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 191d7db0755e317ae2faadd116b46046b90cd071
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866283"
+name: Cửa sổ 10 2015 LTSB
+summary: >+
+  Windows 10 2015 LTSB tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/29/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows như một dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 tháng Cập Nhật (Phiên bản 1809) phát hành lại](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp"

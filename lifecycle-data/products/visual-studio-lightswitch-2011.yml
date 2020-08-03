@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio LightSwitch 2011
+  description: Visual Studio LightSwitch 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866124"
+name: Visual Studio LightSwitch 2011
+summary: >+
+  Visual Studio LightSwitch 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/30/2011
+  end: 01/10/2017
+  extendedEnd: 01/11/2022
+releases:
+- version: Original Release
+  startDate: 10/30/2011
+  endDate: 01/11/2022
+content: "\n## <a name=\"links\"></a>Liên kết \n* [LightSwitch](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [Ứng dụng điện](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> Visual Studio 2015 là phiên bản cuối cùng của Visual Studio bao gồm các công cụ LightSwitch. Chúng tôi khuyên bạn nên sử dụng Microsoft PowerApps cho bất kỳ phát triển ứng dụng mới."

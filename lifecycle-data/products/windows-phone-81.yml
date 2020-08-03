@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Điện thoại Windows 8,1
+  description: Windows Phone 8,1 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866166"
+name: Điện thoại Windows 8,1
+summary: >
+  Windows Phone 8,1 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Windows Phone 8,1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft sẽ cung cấp các bản Cập Nhật cho hệ điều hành, bao gồm các bản Cập Nhật bảo mật, tối thiểu là 36 tháng sau ngày bắt đầu vòng đời. Các bản Cập Nhật sẽ tăng, với mỗi bản Cập Nhật được xây dựng trên bản Cập Nhật trước đó. Khách hàng cần cài đặt mỗi bản Cập Nhật để được hỗ trợ. Việc phân phối các bản Cập Nhật gia tăng này có thể được điều khiển bởi nhà cung cấp dịch vụ di động hoặc hãng sản xuất điện thoại mà bạn đã mua điện thoại và cài đặt sẽ yêu cầu điện thoại của bạn có bất kỳ bản Cập Nhật nào trước đó. Cập Nhật tính khả dụng cũng sẽ khác nhau theo quốc gia, khu vực và khả năng phần cứng."

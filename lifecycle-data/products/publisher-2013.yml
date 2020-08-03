@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Nhà xuất bản 2013
+  description: Nhà xuất bản 2013 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 706d07656f1c22220f7f96382c5aff14ac9d9d91
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866360"
+name: Nhà xuất bản 2013
+summary: >+
+  Nhà xuất bản 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: tiêu chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn"

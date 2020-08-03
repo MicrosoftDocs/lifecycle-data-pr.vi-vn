@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Quản lý luồng công việc 1,0
+  description: Quản lý luồng công việc 1,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866164"
+name: Quản lý luồng công việc 1,0
+summary: >+
+  Quản lý luồng công việc 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: máy khách
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [SharePoint 2016 thông tin dịch vụ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 thông tin dịch vụ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Khi quản lý luồng công việc là một phần của SharePoint Server 2016 hoặc SharePoint Server 2013, nó sẽ được hỗ trợ theo ngày kết thúc hỗ trợ của phiên bản SharePoint Server tương ứng.\n\n## <a name=\"editions\"></a>Phiên bản \n* Máy khách"

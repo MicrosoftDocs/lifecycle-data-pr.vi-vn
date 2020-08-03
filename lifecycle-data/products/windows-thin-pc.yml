@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy tính Windows Thin
+  description: Windows Thin PC tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 69f6537ffd5ab3d93b955bcaf9801eb52d241415
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866111"
+name: Máy tính Windows Thin
+summary: >+
+  Windows Thin PC tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/01/2011
+  end: 10/11/2016
+  extendedEnd: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 07/01/2011
+  endDate: 10/12/2021
+content: ''

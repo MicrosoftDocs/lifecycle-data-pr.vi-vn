@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure gói (trên Windows Server 2016)
+  description: Windows Azure gói (trên Windows Server 2016) tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865907"
+name: Windows Azure gói (trên Windows Server 2016)
+summary: >+
+  Windows Azure gói (trên Windows Server 2016) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/12/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin thêm](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Azure gói cho Windows Server là một giải pháp đám mây kết hợp mang công nghệ Windows Azure đến Trung tâm dữ liệu của bạn. Nó cho phép khách hàng của Microsoft cung cấp một đám mây phong phú, tự phục vụ, nhiều người thuê trên phần cứng của Trung tâm dữ liệu của bạn mà không mất thêm chi phí."

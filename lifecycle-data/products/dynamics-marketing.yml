@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Tiếp thị của Dynamics
+  description: Dynamics Marketing tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866322"
+name: Tiếp thị của Dynamics
+summary: >+
+  Dynamics Marketing tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 05/30/2014
+  end: 05/15/2018
+releases:
+- version: Original Release
+  startDate: 05/30/2014
+  endDate: 05/15/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

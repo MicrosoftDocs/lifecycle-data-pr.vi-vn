@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Azure Virtual Machine (cổ điển) (xác nhận với Azure trước khi xuất bản-không có ngày kết thúc trên lưới ngày)
+  description: Microsoft Azure Virtual Machine (Classic) (xác nhận với Azure trước khi xuất bản-không có ngày kết thúc vào ngày lưới) tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866202"
+name: Microsoft Azure Virtual Machine (cổ điển) (xác nhận với Azure trước khi xuất bản-không có ngày kết thúc trên lưới ngày)
+summary: >+
+  Microsoft Azure Virtual Machine (Classic) (xác nhận với Azure trước khi xuất bản-không có ngày kết thúc vào ngày lưới) tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/virtual-machines/classic-vm-deprecation)"

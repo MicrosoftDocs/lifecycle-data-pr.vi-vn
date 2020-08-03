@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 ứng dụng điều khiển
+  description: Microsoft System Center 2012 ứng dụng điều khiển tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866092"
+name: Microsoft System Center 2012 ứng dụng điều khiển
+summary: >+
+  Microsoft System Center 2012 ứng dụng điều khiển tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 bao gồm các thành phần: quản lý cấu hình dữ liệu bảo vệ quản lý hoạt động quản lý soạn thảo dịch vụ quản lý Dịch vụ quản lý tự động máy ảo quản lý cung cấp dịch vụ nền tảng"

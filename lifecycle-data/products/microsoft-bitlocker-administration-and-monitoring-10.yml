@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft BitLocker quản trị và giám sát 1,0
+  description: Microsoft BitLocker quản trị và giám sát 1,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eba1e1f6926dc0bf600e61ea3db5c3eda1ec86
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866200"
+name: Microsoft BitLocker quản trị và giám sát 1,0
+summary: >+
+  Microsoft BitLocker quản trị và giám sát 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 08/03/2011
+  end: 09/13/2016
+  extendedEnd: 09/14/2021
+releases:
+- version: Original Release
+  startDate: 08/03/2011
+  endDate: 09/14/2021
+content: ''
