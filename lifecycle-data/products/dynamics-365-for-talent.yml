@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 cho Talent
+  description: Dynamics 365 cho Talent tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873188"
+name: Dynamics 365 cho Talent
+summary: >+
+  Dynamics 365 cho Talent tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+  Điều này áp dụng cho các phiên bản sau: onboard
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Yêu cầu hệ thống](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [Hướng dẫn di chuyển](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> Thu hút và các ứng dụng trên tàu sẽ được nghỉ hưu vào ngày 02 tháng 2, 2022.  Core HR relaunched như Dynamics 365 nhân tài nguyên vào ngày 1, 2020, xem hướng dẫn di chuyển để biết thêm thông tin.\n\n## <a name=\"editions\"></a>Phiên bản \n* Onboard"

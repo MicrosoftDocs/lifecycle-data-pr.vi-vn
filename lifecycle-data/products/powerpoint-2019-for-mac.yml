@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PowerPoint 2019 cho Mac
+  description: PowerPoint 2019 cho Mac tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3473ecb168eda39862d4e2c93f248d1105f892a3
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873264"
+name: PowerPoint 2019 cho Mac
+summary: >+
+  PowerPoint 2019 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/10/2023
+content: ''

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Phiên bản điện thoại Lync Microsoft
+  description: Phiên bản điện thoại Lync Microsoft tuân theo chính sách vòng đời cố định.
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
+  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/31/2020
+  ms.locfileid: "879547"
+name: Phiên bản điện thoại Lync Microsoft
+summary: >+
+  Phiên bản điện thoại Lync Microsoft tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin bổ sung](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Phiên bản điện thoại Lync được hỗ trợ với Lync Server 2010 và Lync Server 2013. Ngày hỗ trợ cho phiên bản điện thoại Lync đã được mở rộng 2 năm để phù hợp với vòng đời Lync Server 2013."
