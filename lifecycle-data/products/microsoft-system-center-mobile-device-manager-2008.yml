@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft hệ thống Trung tâm quản lý thiết bị di động 2008
+  description: Microsoft hệ thống Trung tâm điện thoại di động quản lý thiết bị 2008 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846941"
+name: Microsoft hệ thống Trung tâm quản lý thiết bị di động 2008
+summary: >+
+  Microsoft hệ thống Trung tâm điện thoại di động quản lý thiết bị 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/14/2008
+  end: 07/09/2013
+  extendedEnd: 07/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2008
+  endDate: 07/10/2018
+- version: Original Release
+  startDate: 05/14/2008
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

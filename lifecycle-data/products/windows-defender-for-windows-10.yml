@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Defender dành cho Windows 10
+  description: Windows Defender cho Windows 10 tuân theo chính sách vòng đời thành phần.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846884"
+name: Windows Defender dành cho Windows 10
+summary: >+
+  Windows Defender cho Windows 10 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> Bản phát hành này được biết đến như một thành phần mà sau vòng đời của sản phẩm mẹ, Windows 10."

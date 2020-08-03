@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Word 2010
+  description: Microsoft Word 2010 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4dc0eea07b8fda561c124386c9483135851e2c2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846912"
+name: Microsoft Word 2010
+summary: >+
+  Microsoft Word 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Trang chủ và sinh viên, tiêu chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trang chủ và sinh viên\n* Tiêu chuẩn"

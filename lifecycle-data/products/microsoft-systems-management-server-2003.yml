@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ quản lý hệ thống Microsoft 2003
+  description: Microsoft hệ thống quản lý máy chủ 2003 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846927"
+name: Máy chủ quản lý hệ thống Microsoft 2003
+summary: >+
+  Microsoft hệ thống quản lý máy chủ 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/20/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 3
+  startDate: 04/27/2007
+  endDate: 01/13/2015
+- version: Service Pack 2
+  startDate: 02/10/2006
+  endDate: 07/08/2008
+- version: Service Pack 1
+  startDate: 09/10/2004
+  endDate: 04/10/2007
+- version: Original Release
+  startDate: 01/20/2004
+  endDate: 09/10/2005
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Word 2008 dành cho Mac
+  description: Microsoft Word 2008 cho Mac tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 275b237ac46d4769b7d8fbc434351c0cb156b638
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846916"
+name: Microsoft Word 2008 dành cho Mac
+summary: >+
+  Microsoft Word 2008 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''
