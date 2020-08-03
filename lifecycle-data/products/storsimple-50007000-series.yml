@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dòng StorSimple 5000/7000
+  description: StorSimple 5000/7000 Series tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866358"
+name: Dòng StorSimple 5000/7000
+summary: "StorSimple 5000/7000 Series tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+products:
+- azure
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/15/2012
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 11/15/2012
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

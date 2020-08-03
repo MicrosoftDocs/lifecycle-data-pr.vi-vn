@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft System Center 2012 quản lý hoạt động
+  description: Microsoft hệ thống Trung tâm 2012 Operations Manager tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 837eee5f41fd4a6fe7ae7bee9c04af085e831004
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866088"
+name: Microsoft System Center 2012 quản lý hoạt động
+summary: >+
+  Microsoft hệ thống Trung tâm 2012 Operations Manager tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Tài liệu trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Tài nguyên hệ thống Trung tâm](https://www.microsoft.com/system-center/resources)"

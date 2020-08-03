@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics CRM 2011
+  description: Dynamics CRM 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0598408582a54cda647bf2c81147a104f54f216
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866241"
+name: Dynamics CRM 2011
+summary: >+
+  Dynamics CRM 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/18/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release (ver 5.0)
+  startDate: 05/18/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [Thông tin hỗ trợ](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"

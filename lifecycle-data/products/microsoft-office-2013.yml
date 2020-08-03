@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office 2013
+  description: Microsoft Office 2013 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866321"
+name: Microsoft Office 2013
+summary: >+
+  Microsoft Office 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Trang chủ và doanh nghiệp, nhà và sinh viên, chuyên nghiệp, chuyên nghiệp Plus, chuyên nghiệp Plus sử dụng nhà chương trình, tiêu chuẩn, máy chủ web Apps
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Gói dịch vụ 1 không áp dụng cho phiên bản máy chủ web Apps. \n\n## <a name=\"editions\"></a>Phiên bản \n* Trang chủ và kinh doanh\n* Trang chủ và sinh viên\n* Chuyên nghiệp\n* Chuyên nghiệp Plus\n* Chương trình sử dụng nhà chuyên nghiệp Plus\n* Tiêu chuẩn\n* Máy chủ web Apps"

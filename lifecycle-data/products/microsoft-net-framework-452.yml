@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Framework 4.5.2
+  description: Microsoft .NET Framework 4.5.2 tuân theo chính sách vòng đời thành phần.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c893ea681fc98a81689a258a44b5b320b82b2582
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866320"
+name: Microsoft .NET Framework 4.5.2
+summary: >+
+  Microsoft .NET Framework 4.5.2 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 05/05/2014
+releases:
+- version: Original Release
+  startDate: 05/05/2014
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-452)\n* [Câu hỏi thường gặp về .NET Framework Lifecycle](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET Framework là một cấu phần của hệ điều hành Windows. Các thành phần nhận được sự hỗ trợ tương tự như sản phẩm mẹ hoặc nền tảng của họ."

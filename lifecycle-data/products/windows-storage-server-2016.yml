@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ lưu trữ Windows 2016
+  description: Windows Storage Server 2016 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866071"
+name: Máy chủ lưu trữ Windows 2016
+summary: >+
+  Windows Storage Server 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn\n* Workgroup"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Gói HPC 2012
+  description: HPC gói 2012 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 965bf24743a042a2aeda7973d670e4daf90327c4
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866043"
+name: Gói HPC 2012
+summary: >+
+  HPC gói 2012 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/11/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 03/11/2013
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về Microsoft HPC gói](/powershell/high-performance-computing/overview-of-microsoft-hpc-pack?view=hpc19-ps)"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio 2015 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866125"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio 2015 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: đại lý, cộng đồng, doanh nghiệp, Express cho web, Express dành cho Windows 10, Express dành cho Windows Desktop, mô hình SDK, chuyên nghiệp, quản lý phát hành, công cụ từ xa, SDK, vỏ (tích hợp), Shell (Isolated), kiểm tra chuyên nghiệp, Visual C++ Redistributable
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Comunity\n* Doanh nghiệp\n* Express dành cho web\n* Express dành cho Windows 10\n* Express dành cho Windows Desktop\n* Mô hình SDK\n* Chuyên nghiệp\n* Quản lý phát hành\n* Công cụ từ xa\n* Sdk\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Kiểm tra chuyên nghiệp\n* Visual C++ Redistributable"

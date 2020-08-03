@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Report Viewer 2012 thời gian chạy
+  description: Microsoft Report Viewer 2012 Runtime tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866188"
+name: Microsoft Report Viewer 2012 thời gian chạy
+summary: >+
+  Microsoft Report Viewer 2012 Runtime tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/13/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 07/13/2014
+  endDate: 07/12/2022
+content: ''

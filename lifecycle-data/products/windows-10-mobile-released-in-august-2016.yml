@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 Mobile, phát hành vào tháng 8 năm 2016
+  description: Windows 10 Mobile, phát hành vào tháng 8 năm 2016 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b9e0a074c7472ba059b79bac77a05a001e76d8c3
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "865963"
+name: Windows 10 Mobile, phát hành vào tháng 8 năm 2016
+summary: >
+  Windows 10 Mobile, phát hành vào tháng 8 năm 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/16/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 08/16/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời của Device OS](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile đã kết thúc hỗ trợ vào ngày 10 tháng 12 năm 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

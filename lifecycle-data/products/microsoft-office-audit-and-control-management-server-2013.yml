@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Office kiểm tra và điều khiển quản lý máy chủ 2013
+  description: Microsoft Office kiểm tra và điều khiển quản lý máy chủ 2013 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 96d9fdc88fbd6ccfcd2a97e1b0a0703c2532411d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866316"
+name: Microsoft Office kiểm tra và điều khiển quản lý máy chủ 2013
+summary: >+
+  Microsoft Office kiểm tra và điều khiển quản lý máy chủ 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/16/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 07/16/2013
+  endDate: 10/10/2023
+content: ''

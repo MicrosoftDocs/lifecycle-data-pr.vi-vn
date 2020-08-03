@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows MultiPoint Server 2011
+  description: Windows MultiPoint Server 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866112"
+name: Windows MultiPoint Server 2011
+summary: >+
+  Windows MultiPoint Server 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: cao cấp, tiêu chuẩn
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/12/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release
+  startDate: 05/12/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/get-started/installation-and-upgrade)\n* [Thông tin sản phẩm](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Premium\n* Tiêu chuẩn"

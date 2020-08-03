@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL Server 2016
+  description: SQL Server 2016 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1b41e2eeed9a3b7fa2038070a84e468866dd633c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866128"
+name: SQL Server 2016
+summary: >+
+  SQL Server 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: developer, Enterprise, Enterprise Core, Express, Standard, web
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 06/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Service Pack 2
+  startDate: 04/24/2018
+  endDate: 07/14/2026
+- version: Service Pack 1
+  startDate: 11/16/2016
+  endDate: 07/09/2019
+- version: Original Release
+  startDate: 06/01/2016
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Phát triển\n* Doanh nghiệp\n* Doanh nghiệp Core\n* Express\n* Tiêu chuẩn\n* Web"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cổng 1,1 cho Windows Server
+  description: Cổng 1,1 cho Windows Server tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866050"
+name: Cổng 1,1 cho Windows Server
+summary: >+
+  Cổng 1,1 cho Windows Server tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/11/2012
+  end: 04/11/2017
+  extendedEnd: 04/12/2022
+releases:
+- version: Original Release
+  startDate: 02/11/2012
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Mở rộng vòng đời](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"

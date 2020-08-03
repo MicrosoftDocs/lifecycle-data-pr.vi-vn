@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics GP 2016
+  description: Dynamics GP 2016 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a2fcedc81e89f4dbdaaf6178f4c4ace466bd73f7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "866045"
+name: Dynamics GP 2016
+summary: >+
+  Dynamics GP 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 05/01/2016
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin bổ sung và hướng dẫn di chuyển](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [Thông tin sản phẩm](/dynamics-gp/)"
