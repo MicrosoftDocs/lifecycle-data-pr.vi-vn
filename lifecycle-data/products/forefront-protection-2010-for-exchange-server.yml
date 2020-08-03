@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Forefront Protection 2010 cho Exchange Server
+  description: Forefront Protection 2010 cho Exchange Server tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847111"
+name: Forefront Protection 2010 cho Exchange Server
+summary: "Forefront Protection 2010 cho Exchange Server tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Lộ trình cho các sản phẩm bảo mật trong thương hiệu Forefront đã thay đổi. Sản phẩm này ngừng hoạt động vào ngày 31 tháng 12, 2015. Vui lòng xem hướng dẫn di chuyển. \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/01/2009
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 11/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"

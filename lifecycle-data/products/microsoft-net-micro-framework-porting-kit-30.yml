@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft .NET Micro Framework porting Kit 3,0
+  description: Microsoft .NET Micro Framework porting Kit 3,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bceaa4d262839239519b3ea3244f762d88982921
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847360"
+name: Microsoft .NET Micro Framework porting Kit 3,0
+summary: >
+  Microsoft .NET Micro Framework porting Kit 3,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 01/25/2009
+  end: 04/08/2014
+  extendedEnd: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 01/25/2009
+  endDate: 07/11/2017
+content: ''

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dịch vụ thông tin Internet của Microsoft 7,5
+  description: Dịch vụ thông tin Internet của Microsoft 7,5 tuân theo chính sách vòng đời thành phần.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847365"
+name: Dịch vụ thông tin Internet của Microsoft 7,5
+summary: >+
+  Dịch vụ thông tin Internet của Microsoft 7,5 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/22/2009
+releases:
+- version: Original Release
+  startDate: 10/22/2009
+content: "> [!TIP]\n> Phiên bản này được biết đến như là một cấu phần mà sau vòng đời hỗ trợ của sản phẩm chính của cha mẹ, Windows 7 và Windows Server 2008 R2\n\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2008 R2](/lifecycle/products/windows-server-2008-r2)"

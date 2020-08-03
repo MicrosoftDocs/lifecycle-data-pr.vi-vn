@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel dành cho Mac 2011
+  description: Excel dành cho Mac 2011 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847119"
+name: Excel dành cho Mac 2011
+summary: >+
+  Excel dành cho Mac 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời chuẩn."

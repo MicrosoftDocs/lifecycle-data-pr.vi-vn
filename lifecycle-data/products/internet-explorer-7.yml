@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 7
+  description: Internet Explorer 7 tuân theo chính sách vòng đời thành phần.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847090"
+name: Internet Explorer 7
+summary: >+
+  Internet Explorer 7 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 10/18/2006
+releases:
+- version: Original Release
+  startDate: 10/18/2006
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/itpro/microsoft-edge)\n* [Câu hỏi thường gặp về chính sách vòng đời của Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Bắt đầu từ ngày 12 tháng 1 2016, chỉ có phiên bản Internet Explorer hiện tại nhất có sẵn cho hệ điều hành được hỗ trợ sẽ nhận được các bản Cập Nhật bảo mật và hỗ trợ kỹ thuật."

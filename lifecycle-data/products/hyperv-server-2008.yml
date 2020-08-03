@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ Hyper-V 2008
+  description: Hyper-V Server 2008 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bd8d2e95bcfd7b35689eea4aab205a9e22550440
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847100"
+name: Máy chủ Hyper-V 2008
+summary: "Hyper-V Server 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2008
+  end: 01/14/2014
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 12/30/2008
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/get-started/modernize-windows-server-2008)"
