@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (cho các trang web Internet)
+  description: Microsoft SharePoint 2010 (cho các trang web Internet) tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846961"
+name: Microsoft SharePoint 2010 (cho các trang web Internet)
+summary: >+
+  Microsoft SharePoint 2010 (cho các trang web Internet) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: cho các trang web Internet doanh nghiệp, cho các trang web tiêu chuẩn Internet
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu sản phẩm](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Tài liệu dành cho nhà phát triển](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Ngày kết thúc hỗ trợ của sản phẩm này đã được mở rộng từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho các trang web Internet doanh nghiệp\n* cho các trang Internet tiêu chuẩn"
