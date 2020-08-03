@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Powershell
+  description: PowerShell tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8a266b1b67dabbffada1a481cba644726300a38b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873259"
+name: Powershell
+summary: >+
+  PowerShell tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 01/19/2018
+releases:
+- version: PowerShell 7.x
+  startDate: 03/04/2020
+  endDate: 12/03/2022
+- version: PowerShell 6.x
+  startDate: 01/19/2018
+  endDate: 09/04/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Đối với phiên bản phụ của PowerShell ngày kết thúc hỗ trợ, hãy xem thông tin chi tiết về vòng đời PowerShell tại liên kết thông tin dịch vụ."

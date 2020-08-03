@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Phân tích Windows
+  description: Windows Analytics tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873205"
+name: Phân tích Windows
+summary: >
+  Windows Analytics tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 03/02/2017
+releases:
+- version: Original Release
+  startDate: 03/02/2017
+  endDate: 01/31/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"

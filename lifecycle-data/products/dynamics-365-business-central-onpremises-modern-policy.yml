@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 Business Central tại chỗ (chính sách hiện đại)
+  description: Dynamics 365 Business Central tại chỗ (chính sách hiện đại) tuân theo chính sách vòng đời hiện đại.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 90a0c0c35688097614382dcffd624f46c4bac173
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873178"
+name: Dynamics 365 Business Central tại chỗ (chính sách hiện đại)
+summary: >+
+  Dynamics 365 Business Central tại chỗ (chính sách hiện đại) tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+products:
+- dynamics
+policyType: modern-on-prem
+supportDates:
+  start: 10/01/2019
+releases:
+- version: 2020 release wave 1, version 16.x
+  startDate: 04/01/2020
+  endDate: 10/12/2021
+- version: 2019 release wave 2, version 15.x
+  startDate: 10/01/2019
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Lộ trình Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Yêu cầu hệ thống](/dynamics365/business-central/product-requirements)\n* [Câu hỏi thường gặp](/dynamics365/business-central/dev-itpro/faq)"

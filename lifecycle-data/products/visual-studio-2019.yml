@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2019
+  description: Visual Studio 2019 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873219"
+name: Visual Studio 2019
+summary: >+
+  Visual Studio 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: đại lý, xây dựng công cụ, cộng đồng, doanh nghiệp, cho Mac, IntelliTrace độc lập Collector, công cụ hiệu suất, chuyên nghiệp, công cụ từ xa, nhóm thám hiểm, Visual C++ Redistributable
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 04/02/2019
+  end: 04/09/2024
+  extendedEnd: 04/10/2029
+releases:
+- version: Version 16.4
+  startDate: 12/03/2019
+  endDate: 04/10/2029
+- version: Version 16.0
+  startDate: 04/02/2019
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông báo](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Thông tin dịch vụ](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Xây dựng công cụ\n* Comunity\n* Doanh nghiệp\n* cho Mac\n* IntelliTrace độc lập Collector\n* Công cụ hiệu suất\n* Chuyên nghiệp\n* Công cụ từ xa\n* Thám hiểm nhóm\n* Visual C++ Redistributable"

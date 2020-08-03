@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL Server 2017
+  description: SQL Server 2017 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873295"
+name: SQL Server 2017
+summary: >+
+  SQL Server 2017 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: trên Linux (Tất cả các phiên bản), trên Windows (Tất cả các phiên bản)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> Bắt đầu với SQL Server 2017, không có gói dịch vụ sẽ được phát hành.\n\n## <a name=\"editions\"></a>Phiên bản \n* trên Linux (Tất cả các phiên bản)\n* trên Windows (Tất cả các phiên bản)"

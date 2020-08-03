@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio 2019
+  description: Visio 2019 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 422dd095a540b9f07639a7238c533052ffe588ae
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "873243"
+name: Visio 2019
+summary: >+
+  Visio 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: chuyên nghiệp, tiêu chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Chuyên nghiệp\n* Tiêu chuẩn"
