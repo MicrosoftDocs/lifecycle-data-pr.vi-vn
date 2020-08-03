@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Khung chăm sóc khách hàng của Microsoft 2005
+  description: Microsoft Customer Care Framework 2005 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 695d74ea0f987a8abb0956f71852655df785ee73
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847015"
+name: Khung chăm sóc khách hàng của Microsoft 2005
+summary: >
+  Microsoft Customer Care Framework 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 11/05/2005
+  end: 04/13/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 11/05/2005
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

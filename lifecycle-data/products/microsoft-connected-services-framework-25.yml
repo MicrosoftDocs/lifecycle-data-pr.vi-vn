@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft kết nối dịch vụ Framework 2,5
+  description: Microsoft Connected Services Framework 2,5 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847021"
+name: Microsoft kết nối dịch vụ Framework 2,5
+summary: >+
+  Microsoft Connected Services Framework 2,5 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: xử lý lệnh sự kiện doanh nghiệp tiêu chuẩn 2,5, máy chủ, nhà cung cấp dịch vụ
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 07/26/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 07/26/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Xử lý đơn hàng sự kiện kinh doanh tiêu chuẩn 2,5\n* Máy chủ\n* Nhà cung cấp dịch vụ"

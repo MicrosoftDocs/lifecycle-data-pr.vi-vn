@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft kết nối dịch vụ Framework 3,0
+  description: Microsoft Connected Services Framework 3,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847018"
+name: Microsoft kết nối dịch vụ Framework 3,0
+summary: >+
+  Microsoft Connected Services Framework 3,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: thanh toán tiêu chuẩn kinh doanh sự kiện, xử lý đơn hàng sự kiện doanh nghiệp tiêu chuẩn, máy chủ, tiêu chuẩn, máy chủ tiêu chuẩn với sự kiện tiêu chuẩn kinh doanh
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Thanh toán tiêu chuẩn kinh doanh sự kiện\n* Xử lý đơn hàng sự kiện kinh doanh tiêu chuẩn\n* Máy chủ\n* Tiêu chuẩn\n* Máy chủ chuẩn với sự kiện tiêu chuẩn kinh doanh"

@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Ảo hóa ứng dụng của Microsoft 4,6
+  description: Microsoft ứng dụng ảo hóa 4,6 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847074"
+name: Ảo hóa ứng dụng của Microsoft 4,6
+summary: >+
+  Microsoft ứng dụng ảo hóa 4,6 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: cho các dịch vụ máy tính để bàn từ xa, cho Windows Desktop, sequencer
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 3
+  startDate: 12/02/2013
+  endDate: 07/14/2020
+- version: Service Pack 2
+  startDate: 10/01/2012
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 01/26/2011
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4,6 sử dụng máy chủ 4,5 App-V, máy chủ ứng dụng-V 4,5 sẽ tiếp tục được hỗ trợ theo ngày vòng đời của 4,6 App-V khi sử dụng với máy khách App-V 4,6 hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho dịch vụ máy tính từ xa\n* cho máy tính để bàn Windows\n* Sequencer"

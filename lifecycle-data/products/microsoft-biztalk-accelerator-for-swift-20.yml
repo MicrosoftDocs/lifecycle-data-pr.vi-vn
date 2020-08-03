@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Chương trình tăng tốc Microsoft BizTalk cho SWIFT 2,0
+  description: Chương trình tăng tốc Microsoft BizTalk cho SWIFT 2,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847061"
+name: Chương trình tăng tốc Microsoft BizTalk cho SWIFT 2,0
+summary: >+
+  Chương trình tăng tốc Microsoft BizTalk cho SWIFT 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 09/25/2004
+  end: 10/13/2009
+  extendedEnd: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 09/25/2004
+  endDate: 10/14/2014
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp"

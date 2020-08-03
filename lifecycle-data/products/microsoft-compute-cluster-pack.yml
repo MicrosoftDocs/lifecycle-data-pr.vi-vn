@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Gói cụm điện toán Microsoft
+  description: Gói cụm điện toán Microsoft tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847023"
+name: Gói cụm điện toán Microsoft
+summary: >
+  Gói cụm điện toán Microsoft tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/06/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 1
+  startDate: 03/07/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 09/06/2006
+  endDate: 04/08/2008
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
