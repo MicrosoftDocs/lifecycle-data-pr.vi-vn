@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Forefront Threat Management Gateway web bảo vệ dịch vụ
+  description: Microsoft Forefront Threat Management Gateway web bảo vệ dịch vụ tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846995"
+name: Microsoft Forefront Threat Management Gateway web bảo vệ dịch vụ
+summary: >+
+  Microsoft Forefront Threat Management Gateway web bảo vệ dịch vụ tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình Forefront](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> Lộ trình cho các sản phẩm bảo mật trong thương hiệu Forefront đã thay đổi.Sản phẩm này ngừng hoạt động vào ngày 31 tháng 12, 2015."
