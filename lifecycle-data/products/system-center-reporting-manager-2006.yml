@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Quản lý báo cáo trung tâm hệ thống 2006
+  description: Quản lý báo cáo trung tâm hệ thống 2006 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846898"
+name: Quản lý báo cáo trung tâm hệ thống 2006
+summary: >
+  Quản lý báo cáo trung tâm hệ thống 2006 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+
+  > [!IMPORTANT]
+
+  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 09/17/2006
+  end: 10/11/2011
+  extendedEnd: 10/11/2016
+releases:
+- version: Original Release
+  startDate: 09/17/2006
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/momteam/2016/10/06/microsoft-system-center-reporting-manager-2006-end-of-support)"

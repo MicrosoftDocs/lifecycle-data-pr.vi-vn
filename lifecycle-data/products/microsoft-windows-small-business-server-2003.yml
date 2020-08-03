@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Windows Small Business Server 2003
+  description: Microsoft Windows Small Business Server 2003 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8ac087fd1710a2deb48d9507f342d447d9c96b2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "846921"
+name: Microsoft Windows Small Business Server 2003
+summary: >+
+  Microsoft Windows Small Business Server 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: cao cấp, tiêu chuẩn
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/16/2003
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 05/19/2005
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 12/16/2003
+  endDate: 07/10/2007
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các lifecycles tương ứng với sản phẩm của từng thành phần. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.\n> [!NOTE]\n> Ngày bắt đầu cho Windows Small Business Server 2003 Standard Edition là 16 tháng 12 năm 2003. \n\n## <a name=\"editions\"></a>Phiên bản \n* Premium\n* Tiêu chuẩn"
