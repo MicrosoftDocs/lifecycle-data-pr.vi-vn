@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Tăng tốc Microsoft BizTalk cho HIPAA 3,0
+  description: Tăng tốc Microsoft BizTalk cho HIPAA 3,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847065"
+name: Tăng tốc Microsoft BizTalk cho HIPAA 3,0
+summary: >+
+  Tăng tốc Microsoft BizTalk cho HIPAA 3,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/28/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 12/28/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"

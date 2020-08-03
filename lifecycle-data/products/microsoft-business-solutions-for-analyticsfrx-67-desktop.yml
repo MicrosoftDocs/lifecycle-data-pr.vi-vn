@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Giải pháp kinh doanh của Microsoft cho Analytics--FRx 6,7 màn hình
+  description: Microsoft Business Solutions for Analytics--FRx 6,7 máy tính để bàn tuân theo chính sách vòng đời cố định.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "847040"
+name: Giải pháp kinh doanh của Microsoft cho Analytics--FRx 6,7 màn hình
+summary: >+
+  Microsoft doanh nghiệp giải pháp cho Analytics--FRx 6,7 màn hình theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> FRx hỗ trợ kết thúc vào ngày chỉ ra trừ khi phân phối là một phần của sản phẩm Dynamics. Khi phân phối với một sản phẩm Dynamics, Dynamics vòng đời ngày ghi đè ngày FRx."
