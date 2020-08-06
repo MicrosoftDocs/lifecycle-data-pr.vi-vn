@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Phiên bản Trung tâm phương tiện của Microsoft Windows XP 2004
+  description: Phiên bản Trung tâm phương tiện của Microsoft Windows XP 2004 tuân theo chính sách vòng đời cố định.
+  ms.date: 08/05/2020
+  ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
+  ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/05/2020
+  ms.locfileid: "883533"
+name: Phiên bản Trung tâm phương tiện của Microsoft Windows XP 2004
+summary: >+
+  Phiên bản Trung tâm phương tiện của Microsoft Windows XP 2004 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau đây: Trung tâm phương tiện
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/27/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 10/27/2003
+  endDate: 10/10/2006
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trung tâm phương tiện"
