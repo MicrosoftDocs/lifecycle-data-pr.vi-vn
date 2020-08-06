@@ -1,13 +1,13 @@
 ---
 title: Xuất sản phẩm
 description: Xuất thông tin vòng đời sản phẩm
-ms.date: 08/05/2020
-ms.openlocfilehash: 148d4d16dbf7e35fa5b5a44704867ac04d614e19
-ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+ms.date: 08/06/2020
+ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
+ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "885051"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "885207"
 ---
 # <a name="export"></a>Ngạch
 
