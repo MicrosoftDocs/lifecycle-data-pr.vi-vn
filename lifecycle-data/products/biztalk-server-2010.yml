@@ -2,19 +2,19 @@
 metadata:
   title: BizTalk Server 2010
   description: BizTalk Server 2010 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/06/2020
+  ms.openlocfilehash: 95ff78ba6073c8bc72f1f20e188a98747e4acf75
+  ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847269"
+  ms.lasthandoff: 08/06/2020
+  ms.locfileid: "885133"
 name: BizTalk Server 2010
 summary: >+
   BizTalk Server 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: chi nhánh, nhà phát triển, doanh nghiệp, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau: chi nhánh, nhà phát triển, doanh nghiệp, RFID, tiêu chuẩn
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Thông tin Phiên bản](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Chi nhánh\n* Phát triển\n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [Thông tin Phiên bản](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Nẵng\n* 'S\n* EBM\n* RFID cho doanh nghiệp\n* Thông"
