@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007 R2
-  description: Microsoft Office Communications Server 2007 R2 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office Communications Server 2007 R2 theo chính sách vòng đời cố định.
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847355"
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885852"
 name: Microsoft Office Communications Server 2007 R2
-summary: >+
-  Microsoft Office Communications Server 2007 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
-
-
-  Điều này áp dụng cho các phiên bản sau: XMPP Gateway
-
+summary: "Microsoft Office Communications Server 2007 R2 theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nThao tác này áp dụng cho các phiên bản sau đây: tất cả các cổng kết nối, doanh nghiệp, XMPP\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển. \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway phát hành vào ngày 9/28/2009.\n\n## <a name=\"editions\"></a>Phiên bản \n* Cổng XMPP"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> Cổng kết nối XMPP được phát hành trên 9/28/2009.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả áp dụng\n* EBM\n* Cổng kết nối XMPP"
