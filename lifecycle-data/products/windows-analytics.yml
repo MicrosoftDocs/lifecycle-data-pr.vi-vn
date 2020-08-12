@@ -2,13 +2,13 @@
 metadata:
   title: Phân tích Windows
   description: Windows Analytics tuân theo chính sách vòng đời hiện đại.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873205"
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887878"
 name: Phân tích Windows
 summary: >
   Windows Analytics tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
@@ -23,8 +23,9 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
   endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
