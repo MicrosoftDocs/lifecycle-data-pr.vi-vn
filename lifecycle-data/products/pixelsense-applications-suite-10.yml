@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Bộ ứng dụng PixelSense 1,0
+  description: Ứng dụng PixelSense Suite 1,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892123"
+name: Bộ ứng dụng PixelSense 1,0
+summary: >+
+  Ứng dụng PixelSense Suite 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2009
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 1
+  startDate: 08/09/2009
+  endDate: 01/08/2019
+- version: Original Release
+  startDate: 01/01/2009
+  endDate: 01/08/2019
+content: ''
