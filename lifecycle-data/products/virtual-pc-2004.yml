@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy tính ảo 2004
+  title: Virtual PC 2004
   description: Virtual PC 2004 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 869a0829186bfc00b527cb9196a97356020ea033
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846893"
-name: Máy tính ảo 2004
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893299"
+name: Virtual PC 2004
 summary: >
   Virtual PC 2004 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Express, Standard
+  Điều này áp dụng cho các phiên bản sau đây: Express, Standard
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express phát hành vào ngày 13 tháng 4, 2006.\n\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Express\n* Tiêu chuẩn"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express đã phát hành vào ngày 13 tháng 4 2006.\n\n## <a name=\"links\"></a>Mối \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Bày\n* Thông"
