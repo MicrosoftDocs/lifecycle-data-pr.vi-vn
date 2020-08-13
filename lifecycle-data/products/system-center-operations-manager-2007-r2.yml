@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống Trung tâm Operations Manager 2007 R2
-  description: Hệ thống Trung tâm Operations Manager 2007 R2 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1ab9c0a078bf449f1b4118876bcc435d642215fd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Trình quản lý trung tâm hệ thống Operations 2007 R2
+  description: Hệ thống quản lý trung tâm Operations 2007 R2 theo chính sách vòng đời cố định.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846366"
-name: Hệ thống Trung tâm Operations Manager 2007 R2
-summary: "Hệ thống Trung tâm Operations Manager 2007 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892522"
+name: Trình quản lý trung tâm hệ thống Operations 2007 R2
+summary: "Hệ thống quản lý trung tâm Operations 2007 R2 theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

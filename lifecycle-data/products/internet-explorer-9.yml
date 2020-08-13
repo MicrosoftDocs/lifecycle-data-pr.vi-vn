@@ -2,13 +2,13 @@
 metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 tuân theo chính sách vòng đời thành phần.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866027"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893632"
 name: Internet Explorer 9
 summary: >+
   Internet Explorer 9 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/itpro/microsoft-edge)\n* [Câu hỏi thường gặp về chính sách vòng đời của Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Bắt đầu từ ngày 12 tháng 1 2016, chỉ có phiên bản Internet Explorer hiện tại nhất có sẵn cho hệ điều hành được hỗ trợ sẽ nhận được các bản Cập Nhật bảo mật và hỗ trợ kỹ thuật."
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](https://www.microsoft.com/itpro/microsoft-edge)\n* [Câu hỏi thường gặp về chính sách vòng đời Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Bắt đầu từ 12 tháng 1, 2016, chỉ Phiên bản mới nhất của Internet Explorer sẵn dùng cho hệ điều hành được hỗ trợ sẽ nhận được các bản Cập Nhật bảo mật và hỗ trợ kỹ thuật."

@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Expression
-  description: Biểu thức tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Biểu
+  description: Biểu thức theo chính sách vòng đời cố định.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867388"
-name: Expression
-summary: "Biểu thức tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: Blend, thiết kế, encoder, Studio\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. \n"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893410"
+name: Biểu
+summary: "Biểu thức theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau đây: hỗn hợp, thiết kế, bộ mã hóa, Studio\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 07/27/2007
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Ngày bắt đầu cho Expression Blend là ngày 13, 2007. \n\n## <a name=\"editions\"></a>Phiên bản \n* Sự pha trộn\n* Thiết kế\n* Encoder\n* Studio"
+content: "\n\n> [!NOTE]\n> Ngày bắt đầu để pha trộn biểu thức là 13 tháng 7, 2007. \n\n## <a name=\"editions\"></a>Phiên bản \n* Lẫn\n* Thiết kế\n* Hóa\n* Studio"

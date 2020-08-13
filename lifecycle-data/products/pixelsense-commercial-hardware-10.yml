@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 1,0 phần cứng thương mại PixelSense
+  description: Phần cứng PixelSense thương mại 1,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894285"
+name: 1,0 phần cứng thương mại PixelSense
+summary: >+
+  Phần cứng PixelSense thương mại 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/25/2008
+  end: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 09/25/2008
+  endDate: 10/08/2013
+content: ''

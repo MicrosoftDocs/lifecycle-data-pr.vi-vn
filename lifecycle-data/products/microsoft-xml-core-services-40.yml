@@ -1,15 +1,15 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft XML Core Services 4,0
+  title: Dịch vụ Microsoft XML Core 4,0
   description: Microsoft XML Core Services 4,0 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846911"
-name: Microsoft XML Core Services 4,0
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893077"
+name: Dịch vụ Microsoft XML Core 4,0
 summary: >+
   Microsoft XML Core Services 4,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> Hỗ trợ cho XML Core Services 4,0 đã kết thúc. Hỗ trợ chỉ có sẵn cho gói dịch vụ 3."
+content: "\n\n> [!NOTE]\n> Hỗ trợ cho XML Core Services 4,0 đã kết thúc. Hỗ trợ chỉ sẵn dùng cho gói dịch vụ 3."

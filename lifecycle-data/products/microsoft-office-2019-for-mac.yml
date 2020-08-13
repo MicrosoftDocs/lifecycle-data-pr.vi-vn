@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2019 dành cho Mac
+  title: Microsoft Office 2019 cho Mac
   description: Microsoft Office 2019 cho Mac tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee537a1a128351f1b720e245f9725a267dcd6df5
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873275"
-name: Microsoft Office 2019 dành cho Mac
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892596"
+name: Microsoft Office 2019 cho Mac
 summary: >+
   Microsoft Office 2019 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: học thuật, nhà và kinh doanh, nhà và sinh viên, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau đây: học tập, Home and Business, Home và Student, Standard
 
 products:
 - office
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Học\n* Trang chủ và kinh doanh\n* Trang chủ và sinh viên\n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Dục\n* Trang chủ và doanh nghiệp\n* Home and Student\n* Thông"

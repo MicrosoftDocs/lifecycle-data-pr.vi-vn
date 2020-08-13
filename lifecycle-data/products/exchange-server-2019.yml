@@ -2,19 +2,19 @@
 metadata:
   title: Máy chủ Exchange 2019
   description: Exchange Server 2019 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2b89856ef853d493fbe844e99ba7fb0df8c8a722
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 08/12/2020
+  ms.openlocfilehash: bdb446d3018cd0b854d01572662f0d39a1778df5
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879065"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892485"
 name: Máy chủ Exchange 2019
 summary: >+
   Exchange Server 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+  Điều này áp dụng cho các phiên bản sau đây: Enterprise, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn dịch vụ](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn phục vụ](/Exchange/new-features/updates?view=exchserver-2019)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* EBM\n* Thông"
