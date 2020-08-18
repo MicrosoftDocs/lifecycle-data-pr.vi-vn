@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Tìm kiếm thông tin về vòng đời sản phẩm và dịch vụ (xem trước)
+title: Tìm kiếm thông tin vòng đời sản phẩm và dịch vụ (bản xem trước)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Trang này đang được phát triển. Để có danh sách đầy đủ các sản phẩm của Microsoft và các dòng thời gian hỗ trợ và chi tiết, vui lòng truy cập [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Xuất thông tin vòng đời từ trang [xuất vòng đời](/lifecycle/export/products) .\n\n\nVòng đời của Microsoft cung cấp các hướng dẫn nhất quán và có dự đoán để hỗ trợ trong suốt cuộc đời của một sản phẩm, giúp khách hàng quản lý các khoản đầu tư và môi trường CNTT trong khi lập kế hoạch chiến lược cho tương lai.\n\n\nTìm kiếm dưới đây để biết danh sách các sản phẩm và dịch vụ thương mại của Microsoft và sau đó chọn kết quả của bạn để tìm hỗ trợ và thời hạn dịch vụ, yêu cầu Cập Nhật, thông tin di chuyển và yêu cầu hệ thống."
+summary: "\n\n> [!IMPORTANT]\n> Trang này đang được phát triển và sẽ hoàn toàn trực tiếp vào ngày 2 tháng 9. Trong lúc này, bạn có thể xem danh sách đầy đủ các sản phẩm Microsoft với các đường thời gian hỗ trợ và chi tiết tại [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Xuất thông tin vòng đời từ trang [xuất vòng đời](/lifecycle/export/products) .\n\n\nMicrosoft Lifecycle cung cấp hướng dẫn nhất quán và dự đoán để hỗ trợ trong suốt cuộc sống của một sản phẩm, giúp khách hàng quản lý các khoản đầu tư và môi trường của họ trong khi lập kế hoạch chiến lược cho tương lai.\n\n\nTìm kiếm dưới đây để biết danh sách các dịch vụ và sản phẩm thương mại Microsoft và sau đó chọn kết quả của bạn để tìm các đường thời gian hỗ trợ và phục vụ, các bản Cập Nhật bắt buộc, thông tin di chuyển và yêu cầu hệ thống."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882459"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899862"
