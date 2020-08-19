@@ -3,18 +3,18 @@ metadata:
   title: GPOVault
   description: GPOVault theo chính sách vòng đời cố định.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 53a695653e0c7ea800e0b2f78d8a0ec9be49e9c7
-  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903414"
+  ms.locfileid: "903750"
 name: GPOVault
 summary: >+
   GPOVault theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau đây: 1,0, 1,0 Enterprise, 2,0, Enterprise 2,0
+  Điều này áp dụng cho các phiên bản sau đây: 1,0, 2,0, Enterprise 1,0, Enterprise 2,0
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này tuân theo các điều khoản về việc mua lại của nó. \n\n## <a name=\"editions\"></a>Phiên bản \n* 1,0\n* 1,0 Enterprise\n* 2,0\n* Doanh nghiệp 2,0"
+content: "\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này tuân theo các điều khoản về việc mua lại của nó. \n\n## <a name=\"editions\"></a>Phiên bản \n* 1,0\n* 2,0\n* Doanh nghiệp 1,0\n* Doanh nghiệp 2,0"
