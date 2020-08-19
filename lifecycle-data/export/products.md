@@ -1,27 +1,27 @@
 ---
-title: Xuất sản phẩm
+title: Xuất dữ liệu vòng đời
 description: Xuất thông tin vòng đời sản phẩm
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899825"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902425"
 ---
-# <a name="export"></a>Ngạch
+# <a name="lifecycle-data-export"></a>Xuất dữ liệu vòng đời
 
 > [!IMPORTANT]
 > Trang này đang được phát triển.
 
 ## <a name="export-all-products"></a>Xuất tất cả sản phẩm
-Xuất tất cả sản phẩm mà không có bất kỳ bộ lọc nào.
+Xuất dữ liệu vòng đời cho tất cả các sản phẩm bằng cách bấm vào dưới đây:
 
 > [!div class="nextstepaction"]
 > [Xuất tất cả sản phẩm](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>Xuất sản phẩm theo thể loại
-Chọn một nhóm để xuất:
+## <a name="export-products-by-family-and-group"></a>Xuất sản phẩm theo gia đình và nhóm
+Chọn một gia đình và sau đó chọn một nhóm để xuất. Ghi chú: xuất sẽ bắt đầu khi chọn giá trị nhóm. 
 
 > [!div class="op_multi_selector" title1="Đình" title2="Nhóm"]
 > - [(.NET | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ Chọn một nhóm để xuất:
 > - [(Windows | Thống](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Vụ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>Xuất sản phẩm theo cuối năm hỗ trợ
-Chọn một năm để xuất dịch vụ kết thúc sản phẩm trong năm đó:
+## <a name="export-products-by-end-of-support-date"></a>Xuất sản phẩm bằng cách kết thúc ngày hỗ trợ
+Chọn một năm để xem các sản phẩm đến cuối phần hỗ trợ. Ghi chú: xuất sẽ bắt đầu khi giá trị năm được chọn.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
