@@ -2,13 +2,13 @@
 metadata:
   title: BizTalk Server 2010
   description: BizTalk Server 2010 tuân theo chính sách vòng đời cố định.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 4eaeb3eeb55e6f077e3ebafd96e68d56daf1dbcc
-  ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
+  ms.date: 08/19/2020
+  ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/14/2020
-  ms.locfileid: "894931"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903713"
 name: BizTalk Server 2010
 summary: >+
   BizTalk Server 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
