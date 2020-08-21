@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio 2015 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866125"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio 2015 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: đại lý, cộng đồng, doanh nghiệp, Express cho web, Express dành cho Windows 10, Express dành cho Windows Desktop, mô hình SDK, chuyên nghiệp, quản lý phát hành, công cụ từ xa, SDK, vỏ (tích hợp), Shell (Isolated), kiểm tra chuyên nghiệp, Visual C++ Redistributable
+  Bài viết này áp dụng với các phiên bản sau: Agents, Community, Enterprise, Express cho web, Express cho Windows 10, Express cho Windows Desktop, Modeling SDK, Professional, Release Management, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Comunity\n* Doanh nghiệp\n* Express dành cho web\n* Express dành cho Windows 10\n* Express dành cho Windows Desktop\n* Mô hình SDK\n* Chuyên nghiệp\n* Quản lý phát hành\n* Công cụ từ xa\n* Sdk\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Kiểm tra chuyên nghiệp\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Community\n* Enterprise\n* Express cho Web\n* Express cho Windows 10\n* Express cho Windows Desktop\n* Modeling SDK\n* Professional\n* Release Management\n* Công cụ Từ xa\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Test Professional\n* Visual C++ Redistributable"

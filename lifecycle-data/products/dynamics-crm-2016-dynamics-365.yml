@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
-  description: Dynamics CRM 2016 (Dynamics 365) tuân theo chính sách vòng đời cố định.
+  description: Dynamics CRM 2016 (Dynamics 365) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878804"
 name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
-  Dynamics CRM 2016 (Dynamics 365) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics CRM 2016 (Dynamics 365) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chương trình di chuyển Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Thông tin hỗ trợ](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chương trình Di chuyển Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Thông tin Hỗ trợ](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

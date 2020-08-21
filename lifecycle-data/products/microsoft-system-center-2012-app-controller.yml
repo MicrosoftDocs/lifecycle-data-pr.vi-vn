@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 ứng dụng điều khiển
-  description: Microsoft System Center 2012 ứng dụng điều khiển tuân theo chính sách vòng đời cố định.
+  title: Trình điều khiển Ứng dụng Microsoft System Center 2012
+  description: Trình điều khiển Ứng dụng Microsoft System Center 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866092"
-name: Microsoft System Center 2012 ứng dụng điều khiển
+name: Trình điều khiển Ứng dụng Microsoft System Center 2012
 summary: >+
-  Microsoft System Center 2012 ứng dụng điều khiển tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình điều khiển Ứng dụng Microsoft System Center 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 bao gồm các thành phần: quản lý cấu hình dữ liệu bảo vệ quản lý hoạt động quản lý soạn thảo dịch vụ quản lý Dịch vụ quản lý tự động máy ảo quản lý cung cấp dịch vụ nền tảng"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin System Center](/system-center/#pivot=components&panel=components-all)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 bao gồm các thành phần: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation\n\n\n\n"

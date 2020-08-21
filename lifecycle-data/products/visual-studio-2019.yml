@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2019
-  description: Visual Studio 2019 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio 2019 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873219"
 name: Visual Studio 2019
 summary: >+
-  Visual Studio 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio 2019 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: đại lý, xây dựng công cụ, cộng đồng, doanh nghiệp, cho Mac, IntelliTrace độc lập Collector, công cụ hiệu suất, chuyên nghiệp, công cụ từ xa, nhóm thám hiểm, Visual C++ Redistributable
+  Bài viết này áp dụng với các phiên bản sau: Agents, Build Tools, Community, Enterprise, dành cho Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông báo](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Thông tin dịch vụ](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Xây dựng công cụ\n* Comunity\n* Doanh nghiệp\n* cho Mac\n* IntelliTrace độc lập Collector\n* Công cụ hiệu suất\n* Chuyên nghiệp\n* Công cụ từ xa\n* Thám hiểm nhóm\n* Visual C++ Redistributable"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông báo](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [Thông tin dịch vụ](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* cho máy Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Công cụ Từ xa\n* Team Explorer\n* Visual C++ Redistributable"

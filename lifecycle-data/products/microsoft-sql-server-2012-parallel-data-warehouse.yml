@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2012 Parallel Data Warehouse (hệ thống nền tảng phân tích)
-  description: Microsoft SQL Server 2012 Parallel Data Warehouse (hệ thống nền tảng phân tích) tuân theo chính sách vòng đời cố định.
+  title: Microsoft SQL Server 2012 Parallel Data Warehouse (Hệ thống Nền tảng Phân tích)
+  description: Microsoft SQL Server 2012 Parallel Data Warehouse (Hệ thống Nền tảng Phân tích) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873297"
-name: Microsoft SQL Server 2012 Parallel Data Warehouse (hệ thống nền tảng phân tích)
+name: Microsoft SQL Server 2012 Parallel Data Warehouse (Hệ thống Nền tảng Phân tích)
 summary: >
-  Microsoft SQL Server 2012 Parallel Data Warehouse (hệ thống nền tảng phân tích) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft SQL Server 2012 Parallel Data Warehouse (Hệ thống Nền tảng Phân tích) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > SQL Server 2012 Parallel Data Warehouse (PDW) đã được thương hiệu là APS (hệ thống nền tảng Analytics)
+  > SQL Server 2012 Parallel Data Warehouse (PDW)  đã được đổi tên thương hiệu thành APS (Hệ thống Nền tảng Phân tích).
 products:
 - sql-server
 policyType: fixed

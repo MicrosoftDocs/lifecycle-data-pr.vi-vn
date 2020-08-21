@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft hệ thống Trung tâm 2012 Endpoint Protection
-  description: Microsoft System Center 2012 Endpoint Protection tuân theo chính sách vòng đời cố định.
+  title: Microsoft System Center 2012 Endpoint Protection
+  description: Microsoft System Center 2012 Endpoint Protection tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 831df2c41a088376f7cb34fb117163dc45ade4ed
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866089"
-name: Microsoft hệ thống Trung tâm 2012 Endpoint Protection
+name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
-  Microsoft System Center 2012 Endpoint Protection tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft System Center 2012 Endpoint Protection tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: dành cho Mac
+  Chính sách này áp dụng cho các phiên bản sau: cho máy Mac
 
 products:
 - msc
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Tài liệu trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Khách hàng phải ở hiện tại với bản Cập Nhật nền tảng chống phần mềm độc hại mới nhất được hỗ trợ đầy đủ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Mac"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Khách hàng phải cập nhật phiên bản nền tảng chống phần mềm độc hại mới nhất được hỗ trợ đầy đủ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho máy Mac"

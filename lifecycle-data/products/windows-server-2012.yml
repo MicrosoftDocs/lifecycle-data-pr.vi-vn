@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2012
-  description: Windows Server 2012 tuân theo chính sách vòng đời cố định.
+  description: Windows Server 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866334"
 name: Windows Server 2012
 summary: >+
-  Windows Server 2012 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Server 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Datacenter, Essentials, cho hệ thống nhúng, Foundation, Standard
+  Bài viết này áp dụng với các phiên bản sau: Datacenter, Essentials, cho Hệ thống Nhúng, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n* [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hỗ trợ Mainstream và Extended cho sản phẩm này đã được mở rộng để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 2 tháng 1, 2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Các câu cần thiết\n* cho hệ thống nhúng\n* Foundation\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n* [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 02/01/2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* cho Hệ thống Nhúng\n* Foundation\n* Tiêu Chuẩn"
