@@ -1,27 +1,27 @@
 ---
 title: Xuất dữ liệu vòng đời
 description: Xuất thông tin vòng đời sản phẩm
-ms.date: 08/20/2020
-ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
-ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+ms.date: 08/21/2020
+ms.openlocfilehash: 0be7bc850f64e829e30a48e25bf6d9af21dd9099
+ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "905254"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "906345"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="1163c-103">Xuất dữ liệu vòng đời</span><span class="sxs-lookup"><span data-stu-id="1163c-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="9d23f-103">Xuất dữ liệu vòng đời</span><span class="sxs-lookup"><span data-stu-id="9d23f-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="1163c-104">Trang này đang được phát triển.</span><span class="sxs-lookup"><span data-stu-id="1163c-104">This page is under development.</span></span>
+> <span data-ttu-id="9d23f-104">Trang này đang được phát triển.</span><span class="sxs-lookup"><span data-stu-id="9d23f-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="1163c-105">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="1163c-105">Export all products</span></span>
-<span data-ttu-id="1163c-106">Xuất dữ liệu vòng đời cho tất cả các sản phẩm bằng cách bấm vào dưới đây:</span><span class="sxs-lookup"><span data-stu-id="1163c-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="9d23f-105">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="9d23f-105">Export all products</span></span>
+<span data-ttu-id="9d23f-106">Xuất dữ liệu vòng đời cho tất cả các sản phẩm bằng cách bấm vào dưới đây:</span><span class="sxs-lookup"><span data-stu-id="9d23f-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="1163c-107">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="1163c-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="9d23f-107">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="9d23f-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="1163c-108">Xuất sản phẩm theo gia đình và nhóm</span><span class="sxs-lookup"><span data-stu-id="1163c-108">Export products by Family and Group</span></span>
-<span data-ttu-id="1163c-109">Chọn một gia đình và sau đó chọn một nhóm để xuất.</span><span class="sxs-lookup"><span data-stu-id="1163c-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="1163c-110">Ghi chú: xuất sẽ bắt đầu khi chọn giá trị nhóm.</span><span class="sxs-lookup"><span data-stu-id="1163c-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="9d23f-108">Xuất sản phẩm theo gia đình và nhóm</span><span class="sxs-lookup"><span data-stu-id="9d23f-108">Export products by Family and Group</span></span>
+<span data-ttu-id="9d23f-109">Chọn một gia đình và sau đó chọn một nhóm để xuất.</span><span class="sxs-lookup"><span data-stu-id="9d23f-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="9d23f-110">Ghi chú: xuất sẽ bắt đầu khi chọn giá trị nhóm.</span><span class="sxs-lookup"><span data-stu-id="9d23f-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Đình" title2="Nhóm"]
 > - [(.NET | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -52,6 +52,8 @@ ms.locfileid: "905254"
 > - [(Khung dịch vụ được liên kết của Microsoft | Khung dịch vụ được kết nối)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
 > - [(Khung chăm sóc khách hàng của Microsoft | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework')
 > - [(Khung chăm sóc khách hàng của Microsoft | Khuôn khổ chăm sóc khách hàng)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework'%20and%20parent/parent/name%20eq%20'Customer%20Care%20Framework')
+> - [(Microsoft Edge | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge')
+> - [(Microsoft Edge | Lợi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge'%20and%20parent/parent/name%20eq%20'Edge')
 > - [(Microsoft Internet Explorer | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer')
 > - [(Microsoft Internet Explorer | Internet Explorer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer'%20and%20parent/parent/name%20eq%20'Internet%20Explorer')
 > - [(Microsoft Office | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Office')
@@ -81,8 +83,8 @@ ms.locfileid: "905254"
 > - [(Windows | Thống](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Vụ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="1163c-169">Xuất sản phẩm bằng cách kết thúc ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="1163c-169">Export products by end of support date</span></span>
-<span data-ttu-id="1163c-170">Chọn một năm để xem các sản phẩm đến cuối phần hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="1163c-170">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="1163c-171">Ghi chú: xuất sẽ bắt đầu khi giá trị năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="1163c-171">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="9d23f-171">Xuất sản phẩm bằng cách kết thúc ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="9d23f-171">Export products by end of support date</span></span>
+<span data-ttu-id="9d23f-172">Chọn một năm để xem các sản phẩm đến cuối phần hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="9d23f-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="9d23f-173">Ghi chú: xuất sẽ bắt đầu khi giá trị năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="9d23f-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

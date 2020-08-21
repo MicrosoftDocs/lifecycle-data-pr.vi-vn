@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft hệ thống Trung tâm quản lý thiết bị di động 2008
-  description: Microsoft hệ thống Trung tâm điện thoại di động quản lý thiết bị 2008 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008
+  description: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008 tuân theo chính sách vòng đời cố định.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846941"
-name: Microsoft hệ thống Trung tâm quản lý thiết bị di động 2008
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906308"
+name: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008
 summary: >+
-  Microsoft hệ thống Trung tâm điện thoại di động quản lý thiết bị 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
+
+  Điều này áp dụng cho các phiên bản sau đây: tất cả áp dụng, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả áp dụng\n* wSQL"
