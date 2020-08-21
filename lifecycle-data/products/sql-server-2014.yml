@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SQL Server 2014
-  description: SQL Server 2014 tuân theo chính sách vòng đời cố định.
+  description: SQL Server 2014 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e0e209968b254d731dcf393a09d7353899d837ef
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866299"
 name: SQL Server 2014
 summary: >+
-  SQL Server 2014 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  SQL Server 2014 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: kinh doanh thông minh, phát triển, doanh nghiệp, doanh nghiệp Core, Express, tiêu chuẩn, web
+  Bài viết này áp dụng với các phiên bản sau: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Kinh doanh thông minh\n* Phát triển\n* Doanh nghiệp\n* Doanh nghiệp Core\n* Express\n* Tiêu chuẩn\n* Web"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Tiêu Chuẩn\n* Web"

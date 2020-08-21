@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2019
-  description: Windows Server 2019 tuân theo chính sách vòng đời cố định.
+  description: Windows Server 2019 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873202"
 name: Windows Server 2019
 summary: >+
-  Windows Server 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Server 2019 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Datacenter, Essentials, Standard
+  Bài viết này áp dụng với các phiên bản sau: Datacenter, Essentials, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows-server/get-started-19/whats-new-19)\n* [Cập Nhật trên Windows Server 2019 sẵn có](https://aka.ms/WSRelaunchBlog)\n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 và Windows Server, phiên bản 1809 được phát hành lại vào ngày 13 tháng 11, 2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Các câu cần thiết\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows-server/get-started-19/whats-new-19)\n* [Cập nhật trên bản có sẵn Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 và Windows Server, phiên bản 1809 được phát hành lại vào ngày 13/11/2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* Tiêu Chuẩn"

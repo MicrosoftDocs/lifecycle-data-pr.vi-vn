@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Identity quản lý 2016
-  description: Microsoft Identity Manager 2016 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Identity Manager 2016
+  description: Microsoft Identity Manager 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866005"
-name: Microsoft Identity quản lý 2016
+name: Microsoft Identity Manager 2016
 summary: >+
-  Microsoft Identity Manager 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Identity Manager 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Azure hỗ trợ có sẵn cho các cấu phần tích hợp Azure AD đến cuối mở rộng hỗ trợ cho Microsoft Identity Manager 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Gói hỗ trợ Azure.](https://azure.microsoft.com/support/plans/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Thông tin sản phẩm](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Dịch vụ hỗ trợ của Azure có sẵn đối với các thành phần tích hợp Azure AD cho đến cuối Dịch vụ hỗ trợ Mở rộng đối với Trình quản lý Danh tính Microsoft 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Kế hoạch hỗ trợ Azure.](https://azure.microsoft.com/support/plans/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Thông tin sản phẩm](/microsoft-identity-manager/microsoft-identity-manager-2016)"

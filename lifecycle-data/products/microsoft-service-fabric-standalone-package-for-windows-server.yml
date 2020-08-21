@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dịch vụ vải độc lập gói cho Windows Server
-  description: Gói độc lập dịch vụ vải cho Windows Server tuân theo chính sách vòng đời hiện đại.
+  title: Gói độc lập Service Fabric cho Windows Server
+  description: Gói độc lập Service Fabric cho Windows Server tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866187"
-name: Dịch vụ vải độc lập gói cho Windows Server
+name: Gói độc lập Service Fabric cho Windows Server
 summary: >+
-  Gói độc lập dịch vụ vải cho Windows Server tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Gói độc lập Service Fabric cho Windows Server tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

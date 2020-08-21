@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ lưu trữ Windows 2008 R2
-  description: Windows Storage Server 2008 R2 tuân theo chính sách vòng đời cố định.
+  title: Windows Storage Server 2008 R2
+  description: Windows Storage Server 2008 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866242"
-name: Máy chủ lưu trữ Windows 2008 R2
+name: Windows Storage Server 2008 R2
 summary: >
-  Windows Storage Server 2008 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Essentials, Standard
+  Bài viết này áp dụng với các phiên bản sau: Essentials, Standard
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Kết thúc thông tin hỗ trợ](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Cập Nhật bảo mật mở rộng FAQ](/lifecycle/faq/extended-security-updates)\n* [Thông tin nâng cấp máy chủ](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Essentials Phiên bản phát hành vào ngày 28 tháng 6 năm 2011.\n\n## <a name=\"editions\"></a>Phiên bản \n* Các câu cần thiết\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Kết thúc Hỗ trợ](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Câu hỏi thường gặp về Chương trình Cập nhật Bảo mật Mở rộng](/lifecycle/faq/extended-security-updates)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> Phiên bản Essentials phát hành vào ngày 28/6/2011.\n\n## <a name=\"editions\"></a>Phiên bản \n* Essentials\n* Tiêu Chuẩn"

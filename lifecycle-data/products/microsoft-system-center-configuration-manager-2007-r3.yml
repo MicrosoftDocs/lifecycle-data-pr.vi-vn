@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quản lý cấu hình Microsoft System Center 2007 R3
-  description: Microsoft System Center Configuration Manager 2007 R3 tuân theo chính sách vòng đời cố định.
+  title: Bộ quản lý Cấu hình Microsoft System Center 2007 R3
+  description: Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft 2007 R3 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866305"
-name: Quản lý cấu hình Microsoft System Center 2007 R3
+name: Bộ quản lý Cấu hình Microsoft System Center 2007 R3
 summary: >
-  Quản lý cấu hình Microsoft System Center 2007 R3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Cấu hình Hệ thống Trung tâm của Microsoft 2007 R3 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 12/19/2010
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Hướng dẫn di chuyển bổ sung](/mem/configmgr/core/migration/planning-for-migration)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [Hướng dẫn chuyển đổi bổ sung](/mem/configmgr/core/migration/planning-for-migration)"

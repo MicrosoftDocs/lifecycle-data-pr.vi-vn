@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office cho Mac 2011
-  description: Microsoft Office cho Mac 2011 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office for Mac 2011
+  description: Microsoft Office cho Mac 2011 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865975"
-name: Microsoft Office cho Mac 2011
+name: Microsoft Office for Mac 2011
 summary: >+
-  Microsoft Office cho Mac 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office cho Mac 2011 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: học thuật, nhà và doanh nghiệp, Home and Business Home sử dụng chương trình, nhà và sinh viên, tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Academic, Home và Business, Home và Business Home Use Program, Home và Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Học\n* Trang chủ và kinh doanh\n* Trang chủ và kinh doanh Trang chủ sử dụng chương trình\n* Trang chủ và sinh viên\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Home và Business\n* Chương trình Sử dụng Home và Business\n* Home and Student\n* Tiêu Chuẩn"

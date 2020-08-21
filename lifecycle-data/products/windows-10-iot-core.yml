@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT Core
-  description: Windows 10 IoT Core tuân theo chính sách vòng đời hiện đại.
+  description: Windows 10 IoT Core tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866168"
 name: Windows 10 IoT Core
 summary: >
-  Windows 10 IoT Core tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Windows 10 IoT Core tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft sẽ tiếp tục hỗ trợ ít nhất một kênh nửa năm Windows 10 cho đến ngày 14 tháng 10 năm 2025.
+  > Microsoft sẽ tiếp tục hỗ trợ ít nhất một kênh nửa năm Windows 10 cho đến ngày 14/10/2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows/iot-core/windows-iot-core)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows như một dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị hoãn, sau đó Windows 10 nửa năm kênh tính năng Cập Nhật có thể được cài đặt trước khi kết thúc liệt kê ngày hỗ trợ chính."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Sản phẩm](/windows/iot-core/windows-iot-core)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê."

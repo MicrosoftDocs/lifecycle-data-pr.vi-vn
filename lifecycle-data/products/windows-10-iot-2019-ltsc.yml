@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT 2019 LTSC
-  description: Windows 10 IoT 2019 LTSC tuân theo chính sách vòng đời cố định.
+  description: Windows 10 IoT 2019 LTSC tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873212"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
-  Windows 10 IoT 2019 LTSC tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows 10 IoT 2019 LTSC tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Core, Enterprise
+  Bài viết này áp dụng với các phiên bản sau: Core, Enterprise
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [ông Windows 10 tháng Cập Nhật (Phiên bản 1809) được phát hành lại vào ngày 13 tháng 11, 2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows như một dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 kênh dịch vụ dài hạn\n\n## <a name=\"editions\"></a>Phiên bản \n* Lõi\n* Doanh nghiệp"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Bản cập nhật Windows 10 tháng 10 (phiên bản 1809) đã được phát hành lại vào ngày 13/11/2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Kênh Dịch vụ Dài hạn Windows 10\n\n## <a name=\"editions\"></a>Phiên bản \n* Core\n* Enterprise"

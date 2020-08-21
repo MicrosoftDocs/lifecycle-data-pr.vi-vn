@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Endpoint Protection 2010
-  description: Microsoft Forefront Endpoint Protection 2010 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Forefront Endpoint Protection 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866185"
 name: Microsoft Forefront Endpoint Protection 2010
 summary: >
-  Microsoft Forefront Endpoint Protection 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Forefront Endpoint Protection 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Thông tin dịch vụ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Khách hàng phải ở hiện tại với bản Cập Nhật nền tảng chống phần mềm độc hại mới nhất được hỗ trợ đầy đủ. Forefront Endpoint Protection 2010 được bao gồm chính sách vòng đời tương tự như quản lý cấu hình Trung tâm hệ thống 2007 cho cả hỗ trợ chủ đạo và mở rộng."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [Thông tin dịch vụ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> Khách hàng phải cập nhật phiên bản nền tảng chống phần mềm độc hại mới nhất được hỗ trợ đầy đủ. Forefront Endpoint Protection 2010 chịu sự điều chỉnh của chính sách vòng đời tương tự như System Center Configuration Manager 2007 đối với cả hỗ trợ chủ đạo và mở rộng."

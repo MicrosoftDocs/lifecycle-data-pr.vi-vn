@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2012
-  description: Visual Studio 2012 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866077"
 name: Visual Studio 2012
 summary: >+
-  Visual Studio 2012 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: đại lý, cộng đồng 2013, Express cho web, Express cho Windows 8, Express cho Windows Desktop, IntelliTrace Collector, Microsoft Azure công cụ, cao cấp, chuyên nghiệp, công cụ từ xa, Shell (tích hợp), Shell (Isolated), công cụ dữ liệu SQL Server, nhóm Explorer, kiểm tra chuyên nghiệp 2013, Ultimate
+  Bài viết này áp dụng với các phiên bản sau: Agents, Community 2013, Express cho Web, Express cho Windows 8, Express cho Windows Desktop, IntelliTrace Collector, Công cụ của Microsoft Azure, Premium, Professional, Công cụ Từ xa, Shell (Tích hợp), Shell (Độc lập), Công cụ Dữ liệu SQL Server, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Visual Studio sản phẩm vòng đời và dịch vụ](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Cộng đồng 2013\n* Express dành cho web\n* Express dành cho Windows 8\n* Express dành cho Windows Desktop\n* Bộ sưu tập IntelliTrace\n* Công cụ Microsoft Azure\n* Premium\n* Chuyên nghiệp\n* Công cụ từ xa\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Công cụ dữ liệu SQL Server\n* Thám hiểm nhóm\n* Kiểm tra chuyên nghiệp 2013\n* Cuối cùng\n* Visual C++ Redistributable\n* Phần mở rộng công cụ web"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Vòng đời và Dịch vụ của Visual Studio Product](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Community 2013\n* Express cho Web\n* Express cho Windows 8\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Công cụ của Microsoft Azure\n* Premium\n* Professional\n* Công cụ Từ xa\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Công cụ Dữ liệu SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

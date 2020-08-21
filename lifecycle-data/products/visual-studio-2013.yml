@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2013
-  description: Visual Studio 2013 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866347"
 name: Visual Studio 2013
 summary: >+
-  Visual Studio 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: đại lý, tất cả, cộng đồng, Express cho web, Express dành cho Windows, Express cho Windows Desktop, IntelliTrace Collector, mô hình SDK, thư viện multibyte MFC, Premium, chuyên nghiệp, quản lý phát hành, công cụ từ xa, SDK, vỏ (tích hợp), phần mở rộng công cụ web
+  Bài viết này áp dụng với các phiên bản sau: Agents, All, Community, Express cho Web, Express cho Windows, Express cho Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Tất cả\n* Comunity\n* Express dành cho web\n* Express dành cho Windows\n* Express dành cho Windows Desktop\n* Bộ sưu tập IntelliTrace\n* Mô hình SDK\n* Thư viện multibyte MFC\n* Premium\n* Chuyên nghiệp\n* Quản lý phát hành\n* Công cụ từ xa\n* Sdk\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Thám hiểm nhóm\n* Kiểm tra chuyên nghiệp\n* Cuối cùng\n* Visual C++ Redistributable\n* Phần mở rộng công cụ web"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* All\n* Community\n* Express cho Web\n* Express cho Windows\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Công cụ Từ xa\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

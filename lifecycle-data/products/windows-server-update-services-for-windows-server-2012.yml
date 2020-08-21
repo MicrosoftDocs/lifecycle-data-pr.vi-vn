@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Cập Nhật dịch vụ cho Windows Server 2012
-  description: Dịch vụ Cập nhật Windows Server cho Windows Server 2012 tuân theo chính sách vòng đời thành phần.
+  title: Dịch vụ Cập nhật Windows Server cho Windows Server 2012
+  description: Dịch vụ Cập nhật Windows Server cho Windows Server 2012 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866243"
-name: Windows Server Cập Nhật dịch vụ cho Windows Server 2012
+name: Dịch vụ Cập nhật Windows Server cho Windows Server 2012
 summary: >+
-  Windows Server Cập Nhật dịch vụ cho Windows Server 2012 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Dịch vụ Cập nhật cho Windows Server 2012 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 content: >-
   > [!TIP]
 
-  > Thành phần này tuân theo vòng đời của sản phẩm mẹ, Windows Server 2012.
+  > Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2012.
