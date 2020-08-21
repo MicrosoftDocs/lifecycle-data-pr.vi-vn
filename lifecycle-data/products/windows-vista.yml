@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: Windows Vista tuân theo chính sách vòng đời cố định.
+  description: Windows Vista tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846502"
 name: Windows Vista
 summary: >
-  Windows Vista tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Vista tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: kinh doanh, kinh doanh N, doanh nghiệp, doanh nghiệp X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
+  Bài viết này áp dụng với các phiên bản sau: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Cân nhắc nâng cấp và di chuyển của Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Kinh doanh\n* Kinh doanh N\n* Doanh nghiệp\n* Doanh nghiệp X64\n* Trang chủ cơ bản\n* Trang chủ BASIC 64-bit\n* Trang chủ cơ bản N\n* Trang chủ cơ bản N 64-bit\n* Trang chủ Premium\n* Trang chủ Premium 64-bit\n* Starter\n* Cuối cùng\n* Cuối cùng 64-bit"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [Cân nhắc nâng cấp và di chuyển Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

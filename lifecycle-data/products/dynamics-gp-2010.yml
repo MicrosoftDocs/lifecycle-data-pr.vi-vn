@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 2010
-  description: Dynamics GP 2010 tuân theo chính sách vòng đời cố định.
+  description: Dynamics GP 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847129"
 name: Dynamics GP 2010
 summary: >+
-  Dynamics GP 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics GP 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

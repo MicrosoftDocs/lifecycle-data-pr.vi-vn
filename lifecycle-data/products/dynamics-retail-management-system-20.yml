@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống quản lý bán lẻ Dynamics 2,0
-  description: Hệ thống quản lý bán lẻ Dynamics 2,0 tuân theo chính sách vòng đời cố định.
+  title: Hệ thống Quản lý Bán lẻ Dynamics 2.0
+  description: Hệ thống Quản lý Bán lẻ Dynamics 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846691"
-name: Hệ thống quản lý bán lẻ Dynamics 2,0
+name: Hệ thống Quản lý Bán lẻ Dynamics 2.0
 summary: >+
-  Hệ thống quản lý bán lẻ Dynamics 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Hệ thống Quản lý Bán lẻ Dynamics 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: trụ sở chính, Cửa hàng hoạt động
+  Bài viết này áp dụng với các phiên bản sau: Trụ sở chính, Cửa hàng Hoạt động
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trụ sở\n* Hoạt động lưu trữ"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trụ sở chính\n* Cửa hàng hoạt động"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PerformancePoint 2007
-  description: Microsoft Office PerformancePoint 2007 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Office PerformancePoint 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847330"
 name: Microsoft Office PerformancePoint 2007
 summary: >+
-  Microsoft Office PerformancePoint 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office PerformancePoint 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: quản lý phóng
+  Bài viết này áp dụng với các phiên bản sau: Management Reporter
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Quản lý phóng viên"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Management Reporter"

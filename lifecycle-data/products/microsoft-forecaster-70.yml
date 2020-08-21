@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft forecaster 7,0
-  description: Microsoft forecaster 7,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847003"
-name: Microsoft forecaster 7,0
+name: Microsoft Forecaster 7.0
 summary: >+
-  Microsoft forecaster 7,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Forecaster 7.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Forecaster hỗ trợ kết thúc vào ngày chỉ ra trừ khi phân phối như là một phần của một sản phẩm Dynamics. Khi phân phối với một sản phẩm Dynamics, Dynamics vòng đời ngày ghi đè ngày forecaster."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Hỗ trợ dự kiến sẽ kết thúc vào thời điểm đã được chỉ định trừ khi được phân phối dưới dạng Cấu phần của sản phẩm Dynamics. Khi được phân phối cùng với sản phẩm Dynamics thì thời điểm vòng đời của sản phẩm Dynamics sẽ có hiệu lực thay vì thời điểm kết thúc Dự kiến."

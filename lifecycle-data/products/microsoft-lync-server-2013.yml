@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Lync Server 2013
-  description: Microsoft Lync Server 2013 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Project Server 2013
+  description: Microsoft Lync Server 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846664"
-name: Microsoft Lync Server 2013
+name: Microsoft Project Server 2013
 summary: >+
-  Microsoft Lync Server 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Lync Server 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: doanh nghiệp, bộ phát triển phần mềm trò chuyện liên tục, điện thoại, SDK, tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Persistent Chat Software Development Kit, Phone, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Phiên bản điện thoại Lync được hỗ trợ với Lync Server 2010 và Lync Server 2013. Ngày hỗ trợ cho phiên bản điện thoại Lync đã được mở rộng 2 năm để phù hợp với vòng đời Lync Server 2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Bộ phát triển phần mềm trò chuyện liên tục\n* Điện thoại\n* Sdk\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Phiên bản Lync Phone được hỗ trợ với Lync Server 2010 và Lync Server 2013. Ngày hỗ trợ cho phiên bản Lync Phone đã được kéo dài 2 năm để phù hợp với vòng đời Lync Server 2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Persistent Chat Software Development Kit\n* Phone\n* SDK\n* Tiêu Chuẩn"

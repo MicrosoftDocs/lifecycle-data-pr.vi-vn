@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846518"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: đại lý, tất cả, ASP .NET MVC 4, Express, F # 2,0 thời gian chạy, quản lý phòng thí nghiệm, công cụ hiệu suất, Premium, chuyên nghiệp, trình gỡ lỗi từ xa, SDK, vỏ (tích hợp), vỏ (Isolated), đại lý nhóm, nhóm thám hiểm, kiểm tra chuyên nghiệp, công cụ cho hệ thống Office 4,0 Runtime, trực quan & mô hình
+  Bài viết này áp dụng với các phiên bản sau: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Tích hợp), Shell (Độc lập), Team Agents, Team Explorer, Test Professional, Công cụ cho Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đại lý\n* Tất cả\n* ASP .NET MVC 4\n* Express\n* F # 2,0 thời gian chạy\n* Quản lý phòng thí nghiệm\n* Công cụ hiệu suất\n* Premium\n* Chuyên nghiệp\n* Trình gỡ lỗi từ xa\n* Sdk\n* Vỏ (tích hợp)\n* Vỏ (Isolated)\n* Đại lý nhóm\n* Thám hiểm nhóm\n* Kiểm tra chuyên nghiệp\n* Công cụ cho Office System 4,0 Runtime\n* Cuối cùng\n* VB nhanh\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Mô hình hóa & kiểu trực quan SDK"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* All\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Công cụ cho Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

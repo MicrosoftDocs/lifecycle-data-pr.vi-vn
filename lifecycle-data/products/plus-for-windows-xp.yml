@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Plus! cho Windows XP
-  description: Microsoft Plus! cho Windows XP tuân theo chính sách vòng đời cố định.
+  description: Microsoft Plus! cho Windows XP tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846902"
 name: Microsoft Plus! cho Windows XP
 summary: >+
-  Microsoft Plus! cho Windows XP tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Plus! cho Windows XP tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Visual Studio 2005 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846385"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Visual Studio 2005 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: giấy phép học thuật chuyên nghiệp, tiêu chuẩn, Standard Edition, Team Edition dành cho các chuyên gia cơ sở dữ liệu, Team Edition dành cho kiến trúc sư phần mềm, Team Edition dành cho nhà phát triển phần mềm, Team Edition dành cho phần mềm thử nghiệm, Team Suite, nhân viên kiểm tra tải trực quan, Visual J# Express
+  Bài viết này áp dụng với các phiên bản sau: Professional, Standard, Standard Edition academic license, Team Edition cho Database Professionals, Team Edition cho Software Architects, Team Edition cho Software Developers, Team Edition cho Software Testers, Team Suite, Team Test Load Agent, Công cụ cho Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin hỗ trợ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Thông tin sản phẩm Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem bên dưới để biết hướng dẫn di chuyển.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition cho các chuyên gia cơ sở dữ liệu phát hành vào ngày 2, 2007.\n\n## <a name=\"editions\"></a>Phiên bản \n* Chuyên nghiệp\n* Tiêu chuẩn\n* Giấy phép học tập Standard Edition\n* Team Edition dành cho chuyên gia cơ sở dữ liệu\n* Team Edition dành cho kiến trúc sư phần mềm\n* Team Edition dành cho nhà phát triển phần mềm\n* Team Edition dành cho phần mềm thử nghiệm\n* Phòng Team Suite\n* Nhóm kiểm tra tải Agent\n* Công cụ cho hệ thống Microsoft Office\n* VB nhanh\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin hỗ trợ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Thông tin Sản phẩm Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem bên dưới để biết hướng dẫn di chuyển.\n> [!NOTE]\n> Phiên bản Microsoft Visual Studio 2005 Team cho Database Professionals được phát hành vào ngày 02/3/2007.\n\n## <a name=\"editions\"></a>Phiên bản \n* Professional\n* Tiêu Chuẩn\n* Standard Edition academic license\n* Team Edition cho Database Professionals\n* Team Edition cho Kiến trúc sư Phần mềm\n* Team Edition cho Software Developers\n* Team Edition cho Software Testers\n* Team Suite\n* Team Test Load Agent\n* Công cụ cho Hệ thống Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 3,5
-  description: Microsoft .NET Framework 3,5 tuân theo chính sách vòng đời cố định.
+  title: Microsoft .NET Framework 3.5.
+  description: Microsoft .NET Framework 3.5 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847363"
-name: Microsoft .NET Framework 3,5
+name: Microsoft .NET Framework 3.5.
 summary: >+
-  Microsoft .NET Framework 3,5 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 3.5 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Hỗ trợ cho các phiên bản .NET Framework 3. x trước 3,5 SP1 đã kết thúc vào ngày 12 tháng 7 2011. \n> [!NOTE]\n> Ngày vòng đời được áp dụng cho .NET 3,5 SP1 khi chạy trên Windows 10 phiên bản 1809, Windows Server 2019 hoặc mới hơn. Trên các phiên bản cũ hơn của Windows, .NET 3,5 SP1 thông qua vòng đời của hệ điều hành Windows cơ bản."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> Hỗ trợ cho các phiên bản .NET Framework 3.x trước 3.5 SP1 đã kết thúc vào ngày 12 tháng 7 năm 2011. \n> [!NOTE]\n> Ngày vòng đời được áp dụng cho .NET 3.5 SP1 khi chạy trên Windows 10 phiên bản 1809, Windows Server 2019 trở lên. Trên các phiên bản Windows cũ hơn, .NET 3.5 SP1 áp dụng vòng đời của hệ điều hành Windows thấp."

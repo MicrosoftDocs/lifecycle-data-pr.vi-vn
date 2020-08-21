@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PerformancePoint Server 2007
-  description: Microsoft Office PerformancePoint Server 2007 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Office PerformancePoint Server 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847328"
 name: Microsoft Office PerformancePoint Server 2007
 summary: >+
-  Microsoft Office PerformancePoint Server 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office PerformancePoint Server 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: 32 bit, 64 bit
+  Bài viết này áp dụng với các phiên bản sau: 32 Bit, 64 Bit
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 bit\n* 64 bit"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.office.com/article/PerformancePoint-Server-2007-End-of-Life-Roadmap-89d9feee-2285-419c-8c14-0f7f583536e0)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 Bit\n* 64 Bit"

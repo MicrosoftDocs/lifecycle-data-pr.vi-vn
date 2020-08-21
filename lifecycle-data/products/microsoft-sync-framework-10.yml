@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Sync Framework 1,0
-  description: Microsoft Sync Framework 1,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846958"
-name: Microsoft Sync Framework 1,0
+name: Microsoft Sync Framework 1.0
 summary: >
-  Microsoft Sync Framework 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Sync Framework 1.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1,0 SP1 hỗ trợ kết thúc vào ngày chỉ ra trừ khi phân phối như là một thành phần của SharePoint Server 2010, 2013, 2016 hoặc 2019. Các thành phần nhận được sự hỗ trợ tương tự như sản phẩm mẹ hoặc nền tảng của họ."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1.0 SP1 kết thúc hỗ trợ vào ngày được chỉ định trừ khi được phân phối như là một thành phần của SharePoint Server 2010, 2013, 2016 hoặc 2019. Các cấu phần được hỗ trợ tương tự như nền tảng hoặc sản phẩm gốc của cấu phần đó."

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft doanh nghiệp máy tính để bàn ảo 1,0
-  description: Microsoft doanh nghiệp máy tính để bàn ảo 1,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847005"
-name: Microsoft doanh nghiệp máy tính để bàn ảo 1,0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft doanh nghiệp máy tính để bàn ảo 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 1.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise
+  Bài viết này áp dụng với các phiên bản sau: Enterprise
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bộ cài đặt Windows tự động cho Windows 7
-  description: Bộ cài đặt Windows tự động cho Windows 7 tuân theo chính sách vòng đời cố định.
+  title: Bộ cài đặt tự động Windows cho Windows 7
+  description: Bộ cài đặt tự động Windows cho Windows 7 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: aef3eea94538c8956abb01f8b3e681e9932d18a5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846356"
-name: Bộ cài đặt Windows tự động cho Windows 7
+name: Bộ cài đặt tự động Windows cho Windows 7
 summary: >
-  Bộ cài đặt Windows tự động cho Windows 7 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ cài đặt tự động Windows cho Windows 7 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed-mainstream-only

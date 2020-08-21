@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio nhóm hệ thống 2008
-  description: Visual Studio nhóm hệ thống 2008 tuân theo chính sách vòng đời cố định.
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846885"
-name: Visual Studio nhóm hệ thống 2008
+name: Visual Studio Team System 2008
 summary: >
-  Visual Studio nhóm hệ thống 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio Team System 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: tất cả, kiến trúc, cơ sở dữ liệu, phát triển, Team Explorer, nhóm kiểm tra tải Agent
+  Bài viết này áp dụng với các phiên bản sau: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả\n* Kiến trúc\n* Cơ sở dữ liệu\n* Phát triển\n* Thám hiểm nhóm\n* Nhóm kiểm tra tải Agent"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* All\n* Kiến trúc\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

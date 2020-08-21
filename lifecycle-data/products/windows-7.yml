@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cửa sổ 7
-  description: Windows 7 tuân theo chính sách vòng đời cố định.
+  title: Windows 7
+  description: Windows 7 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846359"
-name: Cửa sổ 7
-summary: "Windows 7 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: doanh nghiệp, doanh nghiệp N, Home Basic, Home Premium, Home Premium N, chuyên nghiệp, chuyên nghiệp cho các hệ thống nhúng, N chuyên nghiệp, Starter, Starter N, Ultimate, Ultimate cho hệ thống nhúng, cuối cùng N\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+name: Windows 7
+summary: "Windows 7 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional cho Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate cho Hệ thống Nhúng, Ultimate N\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "> [!TIP]\n> ' * Cập Nhật bảo mật mở rộng (ESU) có sẵn thông qua các chương trình cấp phép số lượng lớn cụ thể cho Windows 7 Professional, Enterprise và Professional dành cho các phiên bản dành cho hệ thống nhúng của sản phẩm này, cho đến ba năm bổ sung qua kết thúc hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft để tìm hiểu thêm. \n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.microsoft.com/help/4057281)\n* [Nâng cấp từ Windows 7 lên Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Mở rộng bảo mật Cập Nhật chương trình (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Doanh nghiệp N\n* Trang chủ cơ bản\n* Trang chủ Premium\n* Trang chủ Premium N\n* Chuyên nghiệp\n* Chuyên nghiệp cho hệ thống nhúng\n* N chuyên nghiệp\n* Starter\n* N khởi\n* Cuối cùng\n* Cuối cùng cho hệ thống nhúng\n* Cuối cùng N"
+content: "> [!TIP]\n> '* Các bản Cập nhật Bảo mật Mở rộng (ESU) sẵn có thông qua các chương trình cấp phép số lượng cụ thể cho phiên bản Windows 7 Professional, Enterprise và Professional cho Hệ thống Nhúng của sản phẩm này kéo dài thêm 3 năm kể từ khi kết thúc dịch vụ hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft của bạn để tìm hiểu thêm. \n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.microsoft.com/help/4057281)\n* [Nâng cấp từ Windows 7 lên Windows 10](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* Professional cho Hệ thống Nhúng\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* Ultimate cho Hệ thống Nhúng\n* Ultimate N"

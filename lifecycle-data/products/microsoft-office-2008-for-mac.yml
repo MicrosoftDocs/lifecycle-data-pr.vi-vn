@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2008 dành cho Mac
-  description: Microsoft Office 2008 cho Mac tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office 2008 cho Mac
+  description: Microsoft Office 2008 cho Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846658"
-name: Microsoft Office 2008 dành cho Mac
-summary: "Microsoft Office 2008 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: kinh doanh, nhà và sinh viên, truyền thông đặc biệt Editon\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. \n"
+name: Microsoft Office 2008 cho Mac
+summary: "Microsoft Office 2008 cho Mac tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Business, Home and Student, Special Media Editon\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ngày bắt đầu cho Office 2008 cho Mac đặc biệt Media Edition là ngày 12, 2008.\n\n## <a name=\"editions\"></a>Phiên bản \n* Kinh doanh\n* Trang chủ và sinh viên\n* Truyền thông đặc biệt Editon"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ngày bắt đầu đối với Office 2008 cho Mac Special Media Edition là ngày 12/3/2008.\n\n## <a name=\"editions\"></a>Phiên bản \n* Business\n* Home and Student\n* Special Media Editon"

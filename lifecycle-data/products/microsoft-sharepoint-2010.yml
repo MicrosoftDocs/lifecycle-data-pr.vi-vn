@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (cho các trang web Internet)
-  description: Microsoft SharePoint 2010 (cho các trang web Internet) tuân theo chính sách vòng đời cố định.
+  title: Microsoft SharePoint 2010 (Internet)
+  description: Microsoft SharePoint 2010 (Internet) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846961"
-name: Microsoft SharePoint 2010 (cho các trang web Internet)
+name: Microsoft SharePoint 2010 (Internet)
 summary: >+
-  Microsoft SharePoint 2010 (cho các trang web Internet) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft SharePoint 2010 (Internet) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho các trang web Internet doanh nghiệp, cho các trang web tiêu chuẩn Internet
+  Điều này áp dụng cho các phiên bản sau:  Internet Enterprise, Internet Tiêu Chuẩn
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu sản phẩm](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Tài liệu dành cho nhà phát triển](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Ngày kết thúc hỗ trợ của sản phẩm này đã được mở rộng từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho các trang web Internet doanh nghiệp\n* cho các trang Internet tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu về sản phẩm](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Tài liệu dành cho nhà phát triển](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Internet Enterprise\n* cho Trang Internet Tiêu Chuẩn"

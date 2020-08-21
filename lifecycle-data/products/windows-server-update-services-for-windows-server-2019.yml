@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server Cập Nhật dịch vụ cho Windows Server 2019
-  description: Dịch vụ Cập nhật Windows Server cho Windows Server 2019 tuân theo chính sách vòng đời thành phần.
+  title: Dịch vụ Cập nhật Windows Server cho Windows Server 2019
+  description: Windows Server Update Services cho Windows Server 2019 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846350"
-name: Windows Server Cập Nhật dịch vụ cho Windows Server 2019
+name: Dịch vụ Cập nhật Windows Server cho Windows Server 2019
 summary: >+
-  Windows Server Cập Nhật dịch vụ cho Windows Server 2019 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Windows Server Update Services cho Windows Server 2019 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Thành phần này tuân theo vòng đời của sản phẩm mẹ, Windows Server 2019."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2019."
