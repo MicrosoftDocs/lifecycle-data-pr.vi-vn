@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office PowerPoint 2007
-  description: Microsoft Office PowerPoint 2007 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Office PowerPoint 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847323"
 name: Microsoft Office PowerPoint 2007
 summary: >+
-  Microsoft Office PowerPoint 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office PowerPoint 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Trang chủ và sinh viên, tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Home và Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trang chủ và sinh viên\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home and Student\n* Tiêu Chuẩn"

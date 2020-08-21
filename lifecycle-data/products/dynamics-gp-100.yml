@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP 10,0
-  description: Dynamics GP 10,0 tuân theo chính sách vòng đời cố định.
+  description: Dynamics GP 10.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847130"
 name: Dynamics GP 10,0
 summary: >+
-  Dynamics GP 10,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics GP 10.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 08/04/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Hướng dẫn di chuyển](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Sản phẩm này không hỗ trợ, xem bên dưới để biết thông tin di chuyển."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Hướng dẫn di chuyển](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> Sản phẩm này đã không còn được hỗ trợ, vui lòng xem bên dưới để biết thông tin chuyển đổi."

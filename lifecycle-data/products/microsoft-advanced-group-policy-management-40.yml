@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quản lý chính sách Nhóm nâng cao của Microsoft 4,0
-  description: Quản lý chính sách Nhóm nâng cao của Microsoft 4,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Trình quản lý Chính sách Nhóm Nâng cao Microsoft 4.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847081"
-name: Quản lý chính sách Nhóm nâng cao của Microsoft 4,0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  Quản lý chính sách Nhóm nâng cao của Microsoft 4,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình Quản lý Chính sách Nhóm nâng cao Microsoft 4.0 tuân theo hính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Trải nghiệm thông tin MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Trải nghiệm MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

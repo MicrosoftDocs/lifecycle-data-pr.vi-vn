@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ lưu trữ Windows 2008 nhúng
-  description: Windows lưu trữ máy chủ 2008 nhúng tuân theo chính sách vòng đời cố định.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846503"
-name: Máy chủ lưu trữ Windows 2008 nhúng
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows lưu trữ máy chủ 2008 nhúng tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Storage Server 2008 Embedded tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: 32 bit, 64 bit, cơ bản, cơ bản 32-bit, doanh nghiệp, tiêu chuẩn, nhóm làm việc
+  Bài viết này áp dụng với các phiên bản sau: 32 Bit, 64 Bit, Cơ bản, Cơ bản 32-Bit, Enterprise, Tiêu chuẩn, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Sản phẩm này đã đạt kết thúc hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 bit\n* 64 bit\n* Basic\n* Cơ bản 32-bit\n* Doanh nghiệp\n* Tiêu chuẩn\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Sản phẩm này đã hết thời gian được hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 Bit\n* 64 Bit\n* Basic\n* Cơ bản 32-Bit:\n* Enterprise\n* Tiêu Chuẩn\n* Nhóm làm việc"

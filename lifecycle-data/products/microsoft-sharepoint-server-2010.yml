@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SharePoint Server 2010
-  description: Microsoft SharePoint Server 2010 tuân theo chính sách vòng đời cố định.
+  description: Microsoft SharePoint Server 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846396"
 name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft SharePoint Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Dịch vụ truy cập, tất cả áp dụng, Dịch vụ Excel, Dịch vụ điểm hiệu suất
+  Bài viết này áp dụng với các phiên bản sau: Access Services, All applicable, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Phần mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Ngày kết thúc hỗ trợ của sản phẩm này đã được mở rộng từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* Dịch vụ truy cập\n* Tất cả các áp dụng\n* Dịch vụ Excel\n* Dịch vụ điểm hiệu suất"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* Access Services\n* All applicable\n* Excel Services\n* Performance Point Services"

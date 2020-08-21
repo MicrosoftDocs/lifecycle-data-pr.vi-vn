@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cổng thông minh ứng dụng Microsoft 2007
-  description: Cổng thông minh ứng dụng Microsoft 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Intelligent Application Gateway 2007
+  description: Microsoft Intelligent Application Gateway 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847091"
-name: Cổng thông minh ứng dụng Microsoft 2007
+name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Cổng thông minh ứng dụng Microsoft 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Intelligent Application Gateway 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình cổng thông minh ứng dụng Microsoft 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Microsoft Intelligent Application Gateway 2007 Roadmap](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

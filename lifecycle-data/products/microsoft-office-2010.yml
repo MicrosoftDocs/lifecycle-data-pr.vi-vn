@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2010
-  description: Microsoft Office 2010 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Office 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846659"
 name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: eAcademy, trang chủ và kinh doanh, trang chủ và sinh viên, cá nhân, chuyên nghiệp, chuyên môn học thuật, chuyên nghiệp Plus, chuyên nghiệp Plus sử dụng nhà chương trình, tiêu chuẩn, Starter
+  Điều này áp dụng cho các phiên bản sau đây: eAcademy, Home và Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Office 2010 kết thúc lộ trình hỗ trợ](/DeployOffice/office-2010-end-support-roadmap)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Học viện eAcademy\n* Trang chủ và kinh doanh\n* Trang chủ và sinh viên\n* Cá nhân\n* Chuyên nghiệp\n* Chuyên môn học thuật\n* Chuyên nghiệp Plus\n* Chương trình sử dụng nhà chuyên nghiệp Plus\n* Tiêu chuẩn\n* Starter"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Kết thúc hỗ trợ Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* eAcademy\n* Home và Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Chương trình Sử dụng Professional Plus Home\n* Tiêu Chuẩn\n* Starter"

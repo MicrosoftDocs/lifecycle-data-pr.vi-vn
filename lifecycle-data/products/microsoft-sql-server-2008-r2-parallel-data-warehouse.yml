@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 Parallel kho dữ liệu
-  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse tuân theo chính sách vòng đời cố định.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846625"
-name: Microsoft SQL Server 2008 R2 Parallel kho dữ liệu
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 Parallel Data Warehouse tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

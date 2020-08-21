@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quản lý bảo vệ dữ liệu Microsoft System Center 2007
-  description: Microsoft hệ thống Trung tâm quản lý bảo vệ dữ liệu 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft System Center Data Protection Manager 2007
+  description: Microsoft System Center Data Protection Manager 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846944"
-name: Quản lý bảo vệ dữ liệu Microsoft System Center 2007
+name: Microsoft System Center Data Protection Manager 2007
 summary: >
-  Microsoft hệ thống Trung tâm quản lý bảo vệ dữ liệu 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft System Center Data Protection Manager 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - msc
 policyType: fixed

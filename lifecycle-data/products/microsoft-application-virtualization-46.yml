@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ảo hóa ứng dụng của Microsoft 4,6
-  description: Microsoft ứng dụng ảo hóa 4,6 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847074"
-name: Ảo hóa ứng dụng của Microsoft 4,6
+name: Microsoft Application Virtualization 4.6
 summary: >+
-  Microsoft ứng dụng ảo hóa 4,6 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 4.6 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho các dịch vụ máy tính để bàn từ xa, cho Windows Desktop, sequencer
+  Điều này áp dụng cho các phiên bản sau: cho Remote Desktop Services, cho Windows Desktops, Sequencer
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4,6 sử dụng máy chủ 4,5 App-V, máy chủ ứng dụng-V 4,5 sẽ tiếp tục được hỗ trợ theo ngày vòng đời của 4,6 App-V khi sử dụng với máy khách App-V 4,6 hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho dịch vụ máy tính từ xa\n* cho máy tính để bàn Windows\n* Sequencer"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4.6 sử dụng App-V 4.5 Server nên App-V 4.5 Server sẽ tiếp tục được hỗ trợ theo ngày vòng đời của App-V 4.6 khi được sử dụng với App-V 4.6 client được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Remote Desktop Services\n* cho Windows Desktops\n* Sequencer"

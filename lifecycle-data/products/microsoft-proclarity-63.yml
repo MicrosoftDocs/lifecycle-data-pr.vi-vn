@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft ProClarity 6,3
-  description: Microsoft ProClarity 6,3 tuân theo chính sách vòng đời cố định.
+  title: Microsoft ProClarity 6.3
+  description: Microsoft ProClarity 6.3 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846401"
-name: Microsoft ProClarity 6,3
+name: Microsoft ProClarity 6.3
 summary: >+
-  Microsoft ProClarity 6,3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft ProClarity 6.3 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Analytics Server, máy tính để bàn chuyên nghiệp, SharePoint Viewer
+  Bài viết này áp dụng với các phiên bản sau: Analytics Server, Desktop Professional, SharePoint Viewer
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Máy chủ phân tích\n* Máy tính để bàn chuyên nghiệp\n* Trình xem SharePoint"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

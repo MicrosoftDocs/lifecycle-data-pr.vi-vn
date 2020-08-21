@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 công cụ soát lỗi
-  description: Công cụ soát lỗi Microsoft Office 2003 tuân theo chính sách vòng đời cố định.
+  title: Công cụ Soát lỗi của Microsoft Office 2003
+  description: Công cụ Soát lỗi Microsoft Office 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847359"
-name: Microsoft Office 2003 công cụ soát lỗi
+name: Công cụ Soát lỗi của Microsoft Office 2003
 summary: >+
-  Công cụ soát lỗi Microsoft Office 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Công cụ Soát lỗi Microsoft Office 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

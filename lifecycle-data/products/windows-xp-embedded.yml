@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP nhúng
-  description: Windows XP Embedded tuân theo chính sách vòng đời cố định.
+  title: Windows XP Embedded
+  description: Windows XP Embedded tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846501"
-name: Windows XP nhúng
+name: Windows XP Embedded
 summary: >
-  Windows XP Embedded tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows XP Embedded tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: nhúng
+  Bài viết này áp dụng với các phiên bản sau: Embedded
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Nhúng"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Embedded"

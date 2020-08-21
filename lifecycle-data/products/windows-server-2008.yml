@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2008
-  description: Windows Server 2008 tuân theo chính sách vòng đời cố định.
+  description: Windows Server 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847225"
 name: Windows Server 2008
 summary: >
-  Windows Server 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Datacenter, Datacenter không có Hyper-V, Enterprise, Enterprise không có Hyper-V, cho hệ thống dựa trên Itanium, Foundation, Standard, Standard Without Hyper-V, web
+  Bài viết này áp dụng với các phiên bản sau: Datacenter, Datacenter không có Hyper-V, Enterprise, Enterprise without Hyper-V, cho Hệ thống dựa trên Itanium, Foundation, Tiêu chuẩn, Tiêu chuẩn không có Hyper-V, Web
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin nâng cấp máy chủ](/windows-server/upgrade/upgrade-overview)\n* [Mở rộng bảo mật Cập Nhật chương trình (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bản Cập Nhật bảo mật mở rộng (ESU) có sẵn thông qua các chương trình cấp phép số lượng lớn cụ thể cho các phiên bản Trung tâm dữ liệu, tiêu chuẩn, doanh nghiệp và nhúng của các sản phẩm này, cho đến khi có thêm ba năm qua kết thúc hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft để tìm hiểu thêm. \n\nPhát hành-------------------------------ngày bắt đầu----ngày kết thúc\n\nCập Nhật bảo mật mở rộng năm 3---01/11/2022---01/10/2023\n\nCập Nhật bảo mật mở rộng năm 2---01/12/2021---01/11/2022\n\nCập Nhật bảo mật mở rộng năm 1---01/14/2020---01/12/2021\n> [!NOTE]\n> Windows Server 2008 Foundation phát hành vào ngày 21 tháng 5, 2009\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter không có Hyper-V\n* Doanh nghiệp\n* Doanh nghiệp không có Hyper-V\n* cho hệ thống dựa trên Itanium\n* Foundation\n* Tiêu chuẩn\n* Tiêu chuẩn không có Hyper-V\n* Web"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Chương trình Cập nhật Bảo mật Mở rộng (ESU) sẵn có thông qua các chương trình cấp phép số lượng cụ thể cho phiên bản Datacenter, Standard, Enterprise và Embedded của sản phẩm này. Các bản cập nhật sẽ kéo dài thêm ba năm kể từ khi kết thúc dịch vụ hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft của bạn để tìm hiểu thêm. \n\nPhát hành-------------------------------Ngày bắt đầu----Ngày kết thúc\n\nCập nhật Bảo mật Mở rộng Năm 3---Ngày 11/01/2022---10/01/2023\n\nCập nhật Bảo mật Mở rộng Năm 2---Ngày 12/01/2021---11/01/2022\n\nCập nhật Bảo mật Mở rộng Năm 1---Ngày 14/01/2020---12/01/2021\n> [!NOTE]\n> Windows Server 2008 Foundation phát hành vào ngày 21/5/2009\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter không có Hyper-V\n* Enterprise\n* Enterprise không có Hyper-V\n* cho Hệ thống dựa trên Itanium\n* Foundation\n* Tiêu Chuẩn\n* Tiêu chuẩn không có Hyper-V\n* Web"

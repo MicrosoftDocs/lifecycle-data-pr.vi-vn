@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
-  description: Microsoft Forefront Threat Management Gateway 2010 tuân theo chính sách vòng đời cố định.
+  description: Microsoft Forefront Threat Management Gateway 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846997"
 name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
-  Microsoft Forefront Threat Management Gateway 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Forefront Threat Management Gateway 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
 
 
   > [!IMPORTANT]
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"

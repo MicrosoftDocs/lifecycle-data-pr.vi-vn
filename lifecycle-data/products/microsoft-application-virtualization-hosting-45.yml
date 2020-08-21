@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft ứng dụng ảo hóa lưu trữ 4,5 cho Windows máy tính để bàn
-  description: Microsoft ứng dụng ảo hóa lưu trữ 4,5 cho Windows máy tính để bàn tuân theo chính sách vòng đời cố định.
+  title: Microsoft Application Virtualization Hosting 4.5 dành cho Máy tính để bàn Windows
+  description: Microsoft Application Virtualization Hosting 4.5 cho Windows Desktops tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847069"
-name: Microsoft ứng dụng ảo hóa lưu trữ 4,5 cho Windows máy tính để bàn
+name: Microsoft Application Virtualization Hosting 4.5 dành cho Máy tính để bàn Windows
 summary: >
-  Microsoft ứng dụng ảo hóa lưu trữ 4,5 cho Windows máy tính để bàn tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization Hosting 4.5 cho Windows Desktops tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho máy tính để bàn Windows
+  Chính sách này áp dụng cho các phiên bản sau: cho Windows Desktops
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem thông tin di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem thông tin di chuyển bên dưới.
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho máy tính để bàn Windows"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Windows Desktops"
