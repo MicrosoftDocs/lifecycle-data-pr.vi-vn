@@ -1,13 +1,13 @@
 ---
 title: Xuất dữ liệu vòng đời
 description: Xuất thông tin vòng đời sản phẩm
-ms.date: 08/20/2020
-ms.openlocfilehash: c0a2c57e9fa1ee15ab6a05e56affe6a27d5ed163
-ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+ms.date: 08/21/2020
+ms.openlocfilehash: 0be7bc850f64e829e30a48e25bf6d9af21dd9099
+ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "905254"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "906345"
 ---
 # <a name="lifecycle-data-export"></a>Xuất dữ liệu vòng đời
 
@@ -52,6 +52,8 @@ Chọn một gia đình và sau đó chọn một nhóm để xuất. Ghi chú: 
 > - [(Khung dịch vụ được liên kết của Microsoft | Khung dịch vụ được kết nối)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Connected%20Services%20Framework'%20and%20parent/parent/name%20eq%20'Connected%20Services%20Framework')
 > - [(Khung chăm sóc khách hàng của Microsoft | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework')
 > - [(Khung chăm sóc khách hàng của Microsoft | Khuôn khổ chăm sóc khách hàng)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Customer%20Care%20Framework'%20and%20parent/parent/name%20eq%20'Customer%20Care%20Framework')
+> - [(Microsoft Edge | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge')
+> - [(Microsoft Edge | Lợi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Edge'%20and%20parent/parent/name%20eq%20'Edge')
 > - [(Microsoft Internet Explorer | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer')
 > - [(Microsoft Internet Explorer | Internet Explorer)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Internet%20Explorer'%20and%20parent/parent/name%20eq%20'Internet%20Explorer')
 > - [(Microsoft Office | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Microsoft%20Office')
