@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Cổng thông tin ứng dụng thông minh cá voi
+  description: Cổng thông tin ứng dụng thông minh cá voi theo chính sách vòng đời cố định.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
+  ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907163"
+name: Cổng thông tin ứng dụng thông minh cá voi
+summary: >+
+  Cổng thông tin ứng dụng thông minh cá voi theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/10/2007
+  end: 07/13/2010
+releases:
+- version: "3.1"
+  startDate: 10/10/2007
+  endDate: 07/08/2008
+- version: "3.6"
+  startDate: 10/10/2007
+  endDate: 07/13/2010
+content: "\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm."
