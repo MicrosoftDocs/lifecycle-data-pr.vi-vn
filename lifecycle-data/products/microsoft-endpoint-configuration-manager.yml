@@ -1,0 +1,72 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Trình quản lý cấu hình Microsoft Endpoint
+  description: Trình quản lý cấu hình Microsoft Endpoint tuân theo chính sách vòng đời hiện đại.
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 0543b1273fc60ca7a23a5ce6455cf027737021c7
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "906031"
+name: Trình quản lý cấu hình Microsoft Endpoint
+summary: >
+  Trình quản lý cấu hình Microsoft Endpoint tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+
+
+
+  > [!IMPORTANT]
+
+  > Bắt đầu trong phiên bản 1910, trình quản lý cấu hình hiện là một phần của Microsoft Endpoint Manager.
+products:
+- m365
+policyType: modern-on-prem
+supportDates:
+  start: 12/08/2015
+releases:
+- version: Version 2002
+  startDate: 04/01/2020
+  endDate: 10/01/2021
+- version: Version 1910
+  startDate: 11/29/2019
+  endDate: 05/29/2021
+- version: Version 1906
+  startDate: 07/26/2019
+  endDate: 01/26/2021
+- version: Version 1902
+  startDate: 03/27/2019
+  endDate: 09/27/2020
+- version: Version 1810
+  startDate: 11/27/2018
+  endDate: 12/01/2020
+- version: Version 1806
+  startDate: 07/31/2018
+  endDate: 01/31/2020
+- version: Version 1802
+  startDate: 03/22/2018
+  endDate: 09/22/2019
+- version: Version 1710
+  startDate: 11/20/2017
+  endDate: 05/20/2019
+- version: Version 1706
+  startDate: 07/31/2017
+  endDate: 07/31/2018
+- version: Version 1702
+  startDate: 03/27/2017
+  endDate: 03/27/2018
+- version: Version 1610
+  startDate: 11/18/2016
+  endDate: 11/18/2017
+- version: Version 1606 with KB3186654
+  startDate: 10/12/2016
+  endDate: 10/12/2017
+- version: Version 1606
+  startDate: 07/22/2016
+  endDate: 07/22/2017
+- version: Version 1602
+  startDate: 03/11/2016
+  endDate: 03/11/2016
+- version: Version 1511
+  startDate: 12/08/2015
+  endDate: 12/08/2016
+content: "\n## <a name=\"links\"></a>Mối \n* [Dịch vụ thông tin](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [Chi tiết Phiên bản](/mem/configmgr/core/servers/manage/updates#version-details)\n* [Trình quản lý cấu hình Trung tâm hệ thống hiện là Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [Các phiên bản lịch sử](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Trình quản lý cấu hình là gì](/mem/configmgr/core/understand/introduction)\n\n\n\ntừ khóa: SCCM, trình quản lý cấu hình Trung tâm hệ thống"
