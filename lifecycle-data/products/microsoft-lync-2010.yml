@@ -2,19 +2,19 @@
 metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865996"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907970"
 name: Microsoft Lync 2010
 summary: >+
   Microsoft Lync 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: attendant, người tham dự, trò chuyện nhóm, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau đây: attendant, người dự, trò chuyện nhóm, tiêu chuẩn
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Attendant\n* Tham dự\n* Trò chuyện nhóm\n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Giả\n* Người dự\n* Trò chuyện nhóm\n* Tiêu Chuẩn"

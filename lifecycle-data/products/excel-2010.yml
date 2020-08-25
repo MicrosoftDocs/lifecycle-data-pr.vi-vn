@@ -2,19 +2,19 @@
 metadata:
   title: Excel 2010
   description: Excel 2010 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847121"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908495"
 name: Excel 2010
 summary: >+
   Excel 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Trang chủ và sinh viên, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau: Home and Student, Mobile, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/DeployOffice/office-2010-end-support-roadmap)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trang chủ và sinh viên\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/DeployOffice/office-2010-end-support-roadmap)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home and Student\n* Di động\n* Tiêu Chuẩn"
