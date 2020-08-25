@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom tuân theo chính sách vòng đời cố định.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907313"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Điều này áp dụng cho các phiên bản sau đây: ứng dụng dịch vụ 1,0, máy khách 2,0, máy khách 2,1, máy chủ 2,0, máy chủ 2,1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> Ericsson đã mua các sản phẩm Microsoft Mediaroom trong 2013. Để biết thêm thông tin, vui lòng xem thông [cáo báo chí](http://www.ericsson.com/news/1691160). Đối với những khách hàng cần hỗ trợ, vui lòng vào [đây](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx).\n> [!NOTE]\n> Microsoft Mediaroom Client 2,1 đã được phát hành vào 2011 27/12/2017. \n\n## <a name=\"editions\"></a>Phiên bản \n* Ứng dụng dịch vụ 1,0\n* Máy khách 2,0\n* Máy khách 2,1\n* Máy chủ 2,0\n* Máy chủ 2,1"
