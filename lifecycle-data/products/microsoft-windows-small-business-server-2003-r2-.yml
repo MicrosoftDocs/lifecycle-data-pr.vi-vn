@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Microsoft Windows Small Business Server 2003 R2 '
+  description: Microsoft Windows Small Business Server 2003 R2 tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a9142425395afa7e631f3f86fe250bd4a3c14e09
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894289"
+name: 'Microsoft Windows Small Business Server 2003 R2 '
+summary: >+
+  Microsoft Windows Small Business Server 2003 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+
+  Bài viết này áp dụng với các phiên bản sau: Premium, Standard
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/01/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/01/2006
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các vòng đời tương ứng của sản phẩm thành phần riêng lẻ. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* Premium\n* Tiêu Chuẩn"
