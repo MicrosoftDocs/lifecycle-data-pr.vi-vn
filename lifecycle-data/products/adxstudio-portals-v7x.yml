@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Các cổng thông tin adxstudio v7. x
+  description: Các cổng thông tin adxstudio v7. x theo chính sách vòng đời cố định.
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 5b9bb57b3e2e036f484196a07dcf60aa0e8912e1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924462"
+name: Các cổng thông tin adxstudio v7. x
+summary: >+
+  Các cổng thông tin adxstudio v7. x theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này tuân theo các điều khoản của việc mua lại và đã kết thúc. Xem hướng dẫn di chuyển bên dưới."
