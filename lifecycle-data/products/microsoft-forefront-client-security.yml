@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security theo chính sách vòng đời cố định.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908970"
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924278"
 name: Microsoft Forefront Client Security
 summary: >+
   Microsoft Forefront Client Security theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Bảo vệ điểm cuối Trung tâm hệ thống](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> Forefront Client Security đã ngừng hoạt động. Hỗ trợ là kết thúc ngày 14 tháng 7 năm 2015. Các bản cập nhật định nghĩa antimalware và Antispyware sẽ không còn sẵn dùng sau khi kết thúc hỗ trợ cho phiên bản sản phẩm. Vui lòng đánh giá bảo vệ điểm cuối Trung tâm hệ thống như một thay thế."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Bảo vệ điểm cuối Trung tâm hệ thống](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security đã ngừng hoạt động từ ngày 14 tháng 7 năm 2015. Các bản cập nhật định nghĩa antimalware và Antispyware sẽ không còn sẵn dùng sau khi kết thúc hỗ trợ cho phiên bản sản phẩm. Vui lòng đánh giá bảo vệ điểm cuối Trung tâm hệ thống như một thay thế."
