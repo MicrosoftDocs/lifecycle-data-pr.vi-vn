@@ -2,13 +2,14 @@
 metadata:
   title: Tuỳ chọn cài đặt Nano Server cho Windows Server 2016
   description: Tùy chọn cài đặt Nano Server cho Windows Server 2016 tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Datacenter,Standard
+  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866333"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939431"
 name: Tuỳ chọn cài đặt Nano Server cho Windows Server 2016
 summary: >+
   Tùy chọn cài đặt Nano Server cho Windows Server 2016 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).

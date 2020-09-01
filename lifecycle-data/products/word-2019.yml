@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Từ 2019
+  title: Word 2019
   description: Word 2019 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 16d87a71ba9126103d9b77fd6a981f4a970b0e40
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 089324dba94c7c70826bb50b980073861ba17959
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873298"
-name: Từ 2019
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938617"
+name: Word 2019
 summary: >+
   Word 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"

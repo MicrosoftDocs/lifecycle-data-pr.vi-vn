@@ -2,24 +2,25 @@
 metadata:
   title: Windows Mobile 6,1
   description: Windows Mobile 6,1 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846344"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939838"
 name: Windows Mobile 6,1
 summary: >
   Windows Mobile 6,1 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: bộ thích ứng, chuyên nghiệp, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau đây: bộ dụng cụ, chuyên nghiệp, tiêu chuẩn
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Thích ứng Kit\n* Chuyên nghiệp\n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Bộ công cụ thích ứng\n* Professional\n* Tiêu Chuẩn"

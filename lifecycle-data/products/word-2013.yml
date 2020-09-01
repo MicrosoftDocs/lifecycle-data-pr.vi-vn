@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Từ 2013
+  title: Word 2013
   description: Word 2013 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e7c96fe1f740c49274802ccde5dcafb29c8d96be
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: b08705b30333f7f619339b95da3aafc1d047f7de
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865955"
-name: Từ 2013
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938691"
+name: Word 2013
 summary: >+
   Word 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
