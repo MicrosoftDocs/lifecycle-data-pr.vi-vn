@@ -2,13 +2,14 @@
 metadata:
   title: Máy chủ Thương mại Microsoft 2009 R2
   description: Máy chủ Thương mại Microsoft 2009 R2 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 64c43c28d793d17e85dbd9c69d8bbe6b30c8f233
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 2eb1fe96425cba49ef01816d6e90dc79c1a0a306
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866014"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934362"
 name: Máy chủ Thương mại Microsoft 2009 R2
 summary: >+
   Máy chủ Thương mại Microsoft 2009 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

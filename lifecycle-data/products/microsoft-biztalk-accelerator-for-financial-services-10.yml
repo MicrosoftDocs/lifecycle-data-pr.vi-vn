@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tăng tốc Microsoft BizTalk cho dịch vụ tài chính 1,0
-  description: Chương trình tăng tốc Microsoft BizTalk cho dịch vụ tài chính 1,0 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk Accelerator for Financial Services 1,0
+  description: Microsoft BizTalk Accelerator for Financial Services 1,0 tuân theo chính sách vòng đời cố định.
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847072"
-name: Tăng tốc Microsoft BizTalk cho dịch vụ tài chính 1,0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935361"
+name: Microsoft BizTalk Accelerator for Financial Services 1,0
 summary: >+
-  Chương trình tăng tốc Microsoft BizTalk cho dịch vụ tài chính 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Accelerator for Financial Services 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/12/2003
   endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"
