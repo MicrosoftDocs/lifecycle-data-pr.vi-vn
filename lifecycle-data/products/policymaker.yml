@@ -2,13 +2,14 @@
 metadata:
   title: Hoạch định chính sách
   description: Theo dõi chính sách sau vòng đời cố định.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
+  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904661"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938062"
 name: Hoạch định chính sách
 summary: >+
   Theo dõi chính sách sau vòng đời [cố định](/lifecycle/policies/fixed) .
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này tuân theo các điều khoản về việc mua lại của nó.\n\n## <a name=\"editions\"></a>Phiên bản \n* Bảo mật ứng dụng\n* Phiên bản Outlook\n* 9,0 chuyên nghiệp\n* Gia hạn đăng ký 2,0\n* Chia sẻ trình quản lý 1,0\n* Bản cập nhật phần mềm 1,0\n* Bản cập nhật phần mềm 2,0\n* 1,0 chuẩn\n* 2,0 chuẩn"
+content: "\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.\n\n## <a name=\"editions\"></a>Phiên bản \n* Bảo mật ứng dụng\n* Phiên bản Outlook\n* 9,0 chuyên nghiệp\n* Gia hạn đăng ký 2,0\n* Chia sẻ trình quản lý 1,0\n* Bản cập nhật phần mềm 1,0\n* Bản cập nhật phần mềm 2,0\n* 1,0 chuẩn\n* 2,0 chuẩn"

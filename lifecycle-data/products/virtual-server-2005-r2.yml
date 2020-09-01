@@ -2,15 +2,16 @@
 metadata:
   title: Máy chủ ảo 2005 R2
   description: Virtual Server 2005 R2 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846887"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937951"
 name: Máy chủ ảo 2005 R2
-summary: "Virtual Server 2005 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. \n"
+summary: "Virtual Server 2005 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nBài viết này áp dụng với các phiên bản sau: Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"

@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: c6ef77a2f2ee2a4579f3258e26b189e3600db600
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Datacenter,Essentials,External Connector,for Embedded Systems,Foundation,Standard
+  ms.openlocfilehash: a3b2666efc31669a997f7726ad092705d2c52517
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906975"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939468"
 name: Windows Server 2012
 summary: >+
   Windows Server 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
