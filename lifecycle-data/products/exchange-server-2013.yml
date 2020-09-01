@@ -2,19 +2,20 @@
 metadata:
   title: Máy chủ Exchange 2013
   description: Exchange Server 2013 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 208a159b324e9631fcc2d5a54b42e00fc9aff7e3
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866108"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931328"
 name: Máy chủ Exchange 2013
 summary: >+
   Exchange Server 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise, Standard
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
 
 products:
 - office
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn dịch vụ](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Tiêu chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn phục vụ](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"

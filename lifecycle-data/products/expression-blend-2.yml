@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Biểu hiện 2
-  description: Biểu thức 2 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Biểu thức 2
+  description: Biểu thức 2 sau chính sách vòng đời cố định.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846436"
-name: Biểu hiện 2
-summary: "Biểu thức 2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau: Blend, thiết kế, encoder, Studio, web\n\n> [!IMPORTANT]\n> Hỗ trợ đã kết thúc cho sản phẩm này. \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930847"
+name: Biểu thức 2
+summary: "Biểu thức 2 sau chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nĐiều này áp dụng cho các phiên bản sau đây: hỗn hợp, thiết kế, bộ mã hóa, Studio, web\n\n> [!IMPORTANT]\n> Hỗ trợ đã kết thúc cho sản phẩm này. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Sự pha trộn\n* Thiết kế\n* Encoder\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Lẫn\n* Thiết kế\n* Hóa\n* Studio\n* Web"
