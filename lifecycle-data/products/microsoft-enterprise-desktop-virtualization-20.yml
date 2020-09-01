@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft doanh nghiệp máy tính để bàn ảo 2,0
-  description: Microsoft doanh nghiệp máy tính để bàn ảo 2,0 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: 2,0 của Microsoft Enterprise Desktop Virtualization
+  description: 2,0 ảo hóa của Microsoft Enterprise trên máy tính bàn làm theo chính sách vòng đời cố định.
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866194"
-name: Microsoft doanh nghiệp máy tính để bàn ảo 2,0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933918"
+name: 2,0 của Microsoft Enterprise Desktop Virtualization
 summary: >+
-  Microsoft doanh nghiệp máy tính để bàn ảo 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  2,0 ảo hóa của Microsoft Enterprise trên máy tính bàn làm theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise
+  Bài viết này áp dụng với các phiên bản sau: Enterprise
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise"
