@@ -2,13 +2,13 @@
 metadata:
   title: Bảo vệ điểm cuối Trung tâm hệ thống
   description: Trung tâm hệ thống bảo vệ điểm cuối theo chính sách vòng đời hiện đại.
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924693"
+  ms.locfileid: "924950"
 name: Bảo vệ điểm cuối Trung tâm hệ thống
 summary: >+
   Trung tâm hệ thống bảo vệ điểm cuối theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ cho phiên bản bảo vệ hệ thống Trung tâm điểm cuối (trước đây gọi là chi nhánh hiện tại của trình quản lý cấu hình](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
