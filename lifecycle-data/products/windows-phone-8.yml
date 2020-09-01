@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Phone 8
+  description: Windows Phone 8 tuân theo chính sách vòng đời cố định.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940983"
+name: Windows Phone 8
+summary: >+
+  Windows Phone 8 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/14/2012
+  end: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 12/14/2012
+content: "\n\n> [!NOTE]\n> Microsoft sẽ phát hành các bản cập nhật cho Hệ Điều hành này, bao gồm cả các bản cập nhật bảo mật trong tối thiểu 36 tháng kể từ ngày bắt đầu vòng đời. Số lượng các bản cập nhật này sẽ tăng lên, với mỗi bản cập nhật được xây dựng dựa trên bản cập nhật trước đó. Khách hàng cần phải cài đặt mỗi bản cập nhật để được duy trì hỗ trợ. Việc phân phối các bản cập nhật gia tăng này có thể do nhà cung cấp dịch vụ di động hoặc hãng sản xuất mà bạn đã mua điện thoại thực hiện kiểm soát và việc cài đặt sẽ yêu cầu điện thoại của bạn có bất kỳ bản cập nhật nào trước đó. Tính khả dụng của bản cập nhật cũng sẽ thay đổi theo quốc gia, khu vực và tính năng phần cứng."
