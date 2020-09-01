@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Máy chủ lưu trữ Windows 2003 R2
+  description: Windows Storage Server 2003 R2 theo chính sách vòng đời cố định.
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940982"
+name: Máy chủ lưu trữ Windows 2003 R2
+summary: "Windows Storage Server 2003 R2 theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nBài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc\nSản phẩm này được vận chuyển với gói dịch vụ Windows Server 2003 1. \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
