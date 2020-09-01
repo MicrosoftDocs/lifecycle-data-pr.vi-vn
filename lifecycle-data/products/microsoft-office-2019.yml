@@ -2,19 +2,20 @@
 metadata:
   title: Microsoft Office 2019
   description: Microsoft Office 2019 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873271"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930403"
 name: Microsoft Office 2019
 summary: >+
   Microsoft Office 2019 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: Trang chủ và doanh nghiệp, trang chủ và sinh viên, cá nhân, chuyên nghiệp, học thuật chuyên nghiệp, chuyên nghiệp Plus, tiêu chuẩn
+  Điều này áp dụng cho các phiên bản sau: Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trang chủ và kinh doanh\n* Trang chủ và sinh viên\n* Cá nhân\n* Chuyên nghiệp\n* Chuyên môn học thuật\n* Chuyên nghiệp Plus\n* Tiêu chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home và Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Tiêu Chuẩn"

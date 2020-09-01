@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống quản lý bán lẻ Dynamics 1,3
-  description: Hệ thống quản lý bán lẻ Dynamics 1,3 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Hệ thống quản lý bán lẻ động lực 1,3
+  description: Hệ thống quản lý bán lẻ động lực 1,3 tuân theo chính sách vòng đời cố định.
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846686"
-name: Hệ thống quản lý bán lẻ Dynamics 1,3
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931734"
+name: Hệ thống quản lý bán lẻ động lực 1,3
 summary: >+
-  Hệ thống quản lý bán lẻ Dynamics 1,3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Hệ thống quản lý bán lẻ động lực 1,3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: trụ sở chính, Cửa hàng hoạt động
+  Bài viết này áp dụng với các phiên bản sau: Trụ sở chính, Cửa hàng Hoạt động
 
 products:
 - dynamics
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/31/2006
   endDate: 04/12/2011
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trụ sở\n* Hoạt động lưu trữ"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Trụ sở chính\n* Cửa hàng hoạt động"
