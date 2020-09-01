@@ -2,19 +2,20 @@
 metadata:
   title: BizTalk Server 2020
   description: BizTalk Server 2020 tuân theo chính sách vòng đời cố định.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891939"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932142"
 name: BizTalk Server 2020
 summary: >+
   BizTalk Server 2020 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: chi nhánh, nhà phát triển, doanh nghiệp, tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Mối \n* [Thông tin sản phẩm](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Nẵng\n* 'S\n* EBM\n* Thông"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Branch\n* Developer\n* Enterprise\n* Tiêu Chuẩn"

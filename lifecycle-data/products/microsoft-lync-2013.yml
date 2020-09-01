@@ -2,19 +2,20 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "865993"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933363"
 name: Lync 2013
 summary: >+
   Lync 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau: SDK, tiêu chuẩn
+  Thao tác này áp dụng cho các phiên bản sau: SDK, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype dành cho doanh nghiệp 2015 khách hàng phát hành là bản Cập Nhật cho khách hàng Lync 2013 và sẽ theo cùng một vòng đời sản phẩm.\nNgày bắt đầu cho Lync 2013 SDK là 23 tháng 2 năm 2013. \n\n## <a name=\"editions\"></a>Phiên bản \n* Sdk\n* Tiêu chuẩn"
+content: "\n\n> [!NOTE]\n> Bản phát hành máy khách Skype for Business 2015 là bản Cập Nhật cho máy khách Lync 2013 và sẽ theo dõi cùng một vòng đời sản phẩm.\nNgày bắt đầu cho Lync 2013 SDK là 23 tháng hai, 2013. \n\n## <a name=\"editions\"></a>Phiên bản \n* SDK\n* Tiêu Chuẩn"

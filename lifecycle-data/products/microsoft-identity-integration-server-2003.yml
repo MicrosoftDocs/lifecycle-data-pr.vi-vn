@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Identity Integration Server 2003
   description: Microsoft Identity Integration Server 2003 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dbad234b5c3f1f121bc91d27feef671281cfd044
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846673"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933548"
 name: Microsoft Identity Integration Server 2003
 summary: "Microsoft Identity Integration Server 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Enterprise\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
