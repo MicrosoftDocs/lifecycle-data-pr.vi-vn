@@ -2,19 +2,20 @@
 metadata:
   title: Hệ thống nền tảng điện toán đám mây
   description: Hệ thống nền tảng điện toán đám mây tuân theo chính sách vòng đời cố định.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891902"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932068"
 name: Hệ thống nền tảng điện toán đám mây
 summary: >+
   Hệ thống nền tảng điện toán đám mây tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
 
 
-  Điều này áp dụng cho các phiên bản sau đây: tiêu chuẩn
+  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Hỗ trợ hệ thống nền tảng điện toán đám mây được mở rộng như minh họa để cung cấp cho tất cả khách hàng bằng đường thời gian chuyển tiếp vòng đời chuẩn.\n> [!NOTE]\n> Hệ thống nền tảng điện toán đám mây được khởi động vào ngày 18 tháng 9, 2017.\n\n## <a name=\"editions\"></a>Phiên bản \n* Thông"
+content: "\n\n> [!NOTE]\n> Hỗ trợ hệ thống nền tảng điện toán đám mây được mở rộng như minh họa để cung cấp cho tất cả khách hàng bằng đường thời gian chuyển tiếp vòng đời chuẩn.\n> [!NOTE]\n> Hệ thống nền tảng điện toán đám mây được khởi động vào ngày 18 tháng 9, 2017.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
