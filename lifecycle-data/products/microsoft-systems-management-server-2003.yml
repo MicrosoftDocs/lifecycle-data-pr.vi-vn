@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ quản lý hệ thống Microsoft 2003
-  description: Microsoft hệ thống quản lý máy chủ 2003 tuân theo chính sách vòng đời cố định.
+  title: Máy chủ Quản trị Hệ thống Microsoft 2003
+  description: Máy chủ Quản trị Hệ thống Microsoft 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846927"
-name: Máy chủ quản lý hệ thống Microsoft 2003
+name: Máy chủ Quản trị Hệ thống Microsoft 2003
 summary: >+
-  Microsoft hệ thống quản lý máy chủ 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Máy chủ Quản trị Hệ thống Microsoft 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

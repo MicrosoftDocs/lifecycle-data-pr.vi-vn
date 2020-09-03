@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Mobile 2003
-  description: Windows Mobile 2003 tuân theo chính sách vòng đời cố định.
+  description: Windows Mobile 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846859"
 name: Windows Mobile 2003
 summary: >
-  Windows Mobile 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Mobile 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho Pocket PC, cho điện thoại thông minh, phần mềm Second Edition cho Pocket PC Phone, phiên bản thứ hai phần mềm cho điện thoại thông minh
+  Chính sách này áp dụng cho các phiên bản sau: Cho Pocket PC, cho Điện thoại Thông minh, Phần mềm Phiên bản thứ 2 cho Pocket PC Phone, Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho điện thoại thông minh\n* Second Edition phần mềm cho Pocket PC Phone\n* Phần mềm Second Edition cho điện thoại thông minh"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Điện thoại Thông minh\n* Phần mềm Phiên bản thứ 2 cho Pocket PC Phone\n* Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh"

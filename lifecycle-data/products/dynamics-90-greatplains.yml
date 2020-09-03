@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 9,0 GreatPlains
-  description: Dynamics 9,0 GreatPlains tuân theo chính sách vòng đời cố định.
+  title: Dynamics 9.0 GreatPlains
+  description: Dynamics 9.0 GreatPlains tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846449"
-name: Dynamics 9,0 GreatPlains
+name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9,0 GreatPlains tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics 9.0 GreatPlains tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - dynamics
 policyType: fixed

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Nền tảng SharePoint 2010
-  description: SharePoint Foundation 2010 tuân theo chính sách vòng đời cố định.
+  title: SharePoint Foundation 2010
+  description: SharePoint Foundation 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846373"
-name: Nền tảng SharePoint 2010
+name: SharePoint Foundation 2010
 summary: >+
-  SharePoint Foundation 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  SharePoint Foundation 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Phần mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Ngày kết thúc hỗ trợ của sản phẩm này đã được mở rộng từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021."

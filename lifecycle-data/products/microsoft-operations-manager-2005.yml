@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quản lý hoạt động của Microsoft (MOM) 2005
-  description: Trình quản lý hoạt động của Microsoft (MOM) 2005 tuân theo chính sách vòng đời cố định.
+  title: Trình quản lý Vận hành Microsoft (MOM) 2005
+  description: Trình quản lý Vận hành Microsoft (MOM) 2005 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537a6fbd4ff1d9f82a9ffd0dcd3b456bee05cc55
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846403"
-name: Quản lý hoạt động của Microsoft (MOM) 2005
+name: Trình quản lý Vận hành Microsoft (MOM) 2005
 summary: >
-  Trình quản lý hoạt động của Microsoft (MOM) 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Vận hành Microsoft (MOM) 2005 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Workgroup
+  Chính sách này áp dụng với các phiên bản: Workgroup
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - msc
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2004
   endDate: 10/10/2006
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Quản lý hoạt động](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Workgroup\n\ntừ khóa: MOM"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Trình quản lý Vận hành](/system-center/scom/welcome?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Nhóm làm việc\n\ntừ khoá:  MOM"
