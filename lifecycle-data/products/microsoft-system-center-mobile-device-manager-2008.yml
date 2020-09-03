@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008
-  description: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008 tuân theo chính sách vòng đời cố định.
+  title: Microsoft System Center Mobile Device Manager 2008
+  description: Trình quản lý Thiết bị Di động Hệ thống Trung tâm Microsoft 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
   ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906308"
-name: Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008
+name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Trình quản lý thiết bị di động của Trung tâm hệ thống Microsoft 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Thiết bị Di động Hệ thống Trung tâm Microsoft 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: tất cả áp dụng, wSQL
+  Chính sách này áp dụng cho các phiên bản: Tất cả các phiên bản áp dụng, wSQL
 
 products:
 - msc
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả áp dụng\n* wSQL"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* All applicable\n* wSQL"

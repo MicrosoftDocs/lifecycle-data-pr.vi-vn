@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R3
-  description: Dynamics AX 2012 R3 tuân theo chính sách vòng đời cố định.
+  description: Dynamics AX 2012 R3 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d321f6b8d10b4c1acf17eb7645030cca46f4f611
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866146"
 name: Dynamics AX 2012 R3
 summary: >+
-  Dynamics AX 2012 R3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics AX 2012 R3 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 08/01/2014
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Chương trình di chuyển Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Thông tin thêm về vòng đời](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Hỗ trợ Mainstream và Extended đã được mở rộng như hiển thị."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Chương trình Di chuyển Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [Thông tin về Vòng đời bổ sung](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Hỗ trợ chính và mở rộng đã được gia hạn như hiển thị."

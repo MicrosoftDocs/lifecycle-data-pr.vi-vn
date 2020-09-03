@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple dòng 8000
-  description: Azure StorSimple 8000 Series tuân theo chính sách vòng đời cố định.
+  title: Chuỗi Azure StorSimple 8000
+  description: Azure StorSimple 8000 Series tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865884"
-name: Azure StorSimple dòng 8000
+name: Chuỗi Azure StorSimple 8000
 summary: >+
-  Azure StorSimple 8000 Series tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Azure StorSimple 8000 Series tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ giải pháp StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Hướng dẫn di chuyển](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Hỗ trợ cho Azure StorSimple dòng 8000 được mở rộng như hiển thị để cung cấp cho khách hàng thời gian vòng đời tiêu chuẩn. Hỗ trợ mở rộng bao gồm các bản Cập Nhật bảo mật và thay thế phần cứng."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hỗ trợ giải pháp StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [Hướng dẫn di chuyển](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Dịch vụ hỗ trợ Azure StorSimple 8000 Series được mở rộng để cung cấp cho khách hàng tiến trình vòng đời tiêu chuẩn. Dịch vụ hỗ trợ mở rộng chỉ bao gồm dịch vụ thay thế phần cứng và các bản cập nhật bảo mật."

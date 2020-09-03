@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.5.1
-  description: Microsoft .NET Framework 4.5.1 tuân theo chính sách vòng đời thành phần.
+  description: Microsoft .NET Framework 4.5.1 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9141a70347bbcd248703cfb15bfe1414abda7caa
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865987"
 name: Microsoft .NET Framework 4.5.1
 summary: >+
-  Microsoft .NET Framework 4.5.1 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft .NET Framework 4.5.1 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: RTM
   startDate: 01/15/2014
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> Hỗ trợ cho .NET Framework 4, 4,5 và 4.5.1 đã kết thúc vào ngày 12 tháng 1 năm 2016."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-451)\n\n> [!NOTE]\n> Đã kết thúc hỗ trợ cho .NET Framework 4, 4.5 và 4.5.1 vào ngày 12/1/2016."

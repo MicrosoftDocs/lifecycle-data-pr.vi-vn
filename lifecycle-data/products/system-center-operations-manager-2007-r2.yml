@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình quản lý trung tâm hệ thống Operations 2007 R2
-  description: Hệ thống quản lý trung tâm Operations 2007 R2 theo chính sách vòng đời cố định.
+  title: Trình Quản lý Cấu hình Trung Tâm Hệ thống 2007 R2
+  description: Trình quản lý Vận hành Hệ thống Trung tâm Microsoft 2007 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/12/2020
   ms.openlocfilehash: 8276b2ba221fb3c6c05948ac9712c3e10c9a1628
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892522"
-name: Trình quản lý trung tâm hệ thống Operations 2007 R2
-summary: "Hệ thống quản lý trung tâm Operations 2007 R2 theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+name: Trình Quản lý Cấu hình Trung Tâm Hệ thống 2007 R2
+summary: "Trình quản lý Vận hành Hệ thống Trung tâm Microsoft 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - msc
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)"

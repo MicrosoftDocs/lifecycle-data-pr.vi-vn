@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio .NET 2003
-  description: Microsoft Visual Studio .NET 2003 tuân theo chính sách vòng đời cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  description: Microsoft Visual Studio .NET 2003 tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846383"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908007"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
-  Microsoft Visual Studio .NET 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Visual Studio .NET 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: doanh nghiệp kiến trúc sư, doanh nghiệp phát triển, chuyên nghiệp
+  Bài viết này áp dụng với các phiên bản sau: Enterprise Architect, Enterprise Developer, J#, Professional
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Kiến trúc doanh nghiệp\n* Nhà phát triển doanh nghiệp\n* Chuyên nghiệp"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional"

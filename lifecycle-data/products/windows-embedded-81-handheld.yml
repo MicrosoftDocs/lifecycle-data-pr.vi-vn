@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8,1 cầm tay
-  description: Windows Embedded 8,1 Handheld tuân theo chính sách vòng đời cố định.
+  title: Windows Embedded 8.1 Handheld
+  description: Windows Embedded 8.1 Handheld tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866344"
-name: Windows Embedded 8,1 cầm tay
+name: Windows Embedded 8.1 Handheld
 summary: >
-  Windows Embedded 8,1 Handheld tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Handheld tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Nếu tổ chức của bạn vẫn duy trì các nền tảng này và có thêm câu hỏi, vui lòng liên hệ với nhóm tài khoản của bạn.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Nếu tổ chức của bạn vẫn duy trì các nền tảng này và cần được giải đáp thêm, vui lòng liên hệ với đội ngũ chăm sóc khách hàng phụ trách tài khoản của bạn.
 products:
 - windows
 policyType: fixed-mainstream-only

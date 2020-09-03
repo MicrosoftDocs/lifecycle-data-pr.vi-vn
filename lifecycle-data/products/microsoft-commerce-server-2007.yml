@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ Microsoft Commerce 2007
-  description: Máy chủ Microsoft Commerce 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Commerce Server 2007
+  description: Microsoft Commerce Server 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893484"
-name: Máy chủ Microsoft Commerce 2007
+name: Microsoft Commerce Server 2007
 summary: >
-  Máy chủ Microsoft Commerce 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Commerce Server 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: nhà phát triển, doanh nghiệp, tiêu chuẩn
+  Chính sách này áp dụng cho các phiên bản sau: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Mối \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 'S\n* EBM\n* Thông"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Enterprise\n* Tiêu Chuẩn"
