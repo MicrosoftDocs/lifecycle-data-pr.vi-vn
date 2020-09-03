@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Điện thoại Windows 7,8
-  description: Windows Phone 7,8 tuân theo chính sách vòng đời cố định.
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866338"
-name: Điện thoại Windows 7,8
+name: Windows Phone 7.8
 summary: >
-  Windows Phone 7,8 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Phone 7.8 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> Microsoft sẽ cung cấp các bản Cập Nhật cho hệ điều hành trên điện thoại của bạn, bao gồm cả các bản Cập Nhật bảo mật, trong khoảng thời gian 18 tháng sau ngày bắt đầu vòng đời. Việc phân phối các bản Cập Nhật có thể được điều khiển bởi nhà cung cấp dịch vụ di động hoặc hãng sản xuất điện thoại mà bạn đã mua điện thoại. Cập Nhật tính khả dụng cũng sẽ khác nhau theo quốc gia, khu vực và khả năng phần cứng."
+content: "\n\n> [!NOTE]\n> Microsoft sẽ phát hành các bản cập nhật cho Hệ Điều hành trên điện thoại của bạn, bao gồm cả các bản cập nhật bảo mật trong 18 tháng kể từ ngày bắt đầu vòng đời sản phẩm. Việc phân phối các bản cập nhật có thể được kiểm soát bởi nhà cung cấp dịch vụ di động hoặc nhà sản xuất điện thoại mà bạn đã mua điện thoại của mình. Tính khả dụng của bản cập nhật cũng sẽ thay đổi theo quốc gia, khu vực và tính năng phần cứng."

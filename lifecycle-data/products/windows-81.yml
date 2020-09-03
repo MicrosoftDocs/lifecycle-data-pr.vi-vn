@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 8,1
-  description: Windows 8,1 tuân theo chính sách vòng đời cố định.
+  title: Windows 8.1
+  description: Windows 8.1 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906679"
-name: Windows 8,1
+name: Windows 8.1
 summary: >+
-  Windows 8,1 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows 8.1 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: Enterprise, Enterprise N, N, Pro với Trung tâm phương tiện, chuyên gia, chuyên gia, N, SL
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Enterprise N, N, Pro với Media Center, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Mối \n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* EBM\n* Doanh nghiệp N\n* Nghiêm\n* Pro với Trung tâm đa phương tiện\n* Thủ\n* N chuyên nghiệp\n* CAN"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Enterprise N\n* N\n* Pro với Media Center\n* Professional\n* Professional N\n* S"

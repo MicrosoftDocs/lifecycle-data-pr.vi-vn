@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ảo hóa ứng dụng của Microsoft 5,1
-  description: Microsoft ứng dụng ảo hóa 5,1 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Application Virtualization 5.1
+  description: Microsoft Application Virtualization 5.1 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3f0cac2ee013dd73e44fe41d9ba1d07cfcfce2f1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866022"
-name: Ảo hóa ứng dụng của Microsoft 5,1
+name: Microsoft Application Virtualization 5.1
 summary: >+
-  Microsoft ứng dụng ảo hóa 5,1 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization 5.1 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho các dịch vụ máy tính để bàn từ xa, cho Windows Desktop
+  Chính sách này áp dụng cho các phiên bản: cho Remote Desktop Services, cho Windows Desktops
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2015
   endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho dịch vụ máy tính từ xa\n* cho máy tính để bàn Windows"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Remote Desktop Services\n* cho Windows Desktops"

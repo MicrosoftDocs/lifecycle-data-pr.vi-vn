@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Công nghiệp 8,1 được nhúng trong Windows
-  description: Nghiệp 8,1 của Windows được nhúng theo chính sách vòng đời cố định.
+  title: Windows Embedded 8.1 Industry
+  description: Windows Embedded 8.1 Industry tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906938"
-name: Công nghiệp 8,1 được nhúng trong Windows
+name: Windows Embedded 8.1 Industry
 summary: >+
-  Nghiệp 8,1 của Windows được nhúng theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Embedded 8.1 Industry tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: Enterprise, Pro, Sideloading
+  Chính sách này áp dụng cho các phiên bản: Enterprise, Pro, Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>Mối \n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](https://support.microsoft.co/help/18581)\n* [Câu hỏi thường gặp về Windows nhúng 8,1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* EBM\n* Pro\n* Tải lề"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](https://support.microsoft.co/help/18581)\n* [Câu hỏi thường gặp về Windows Embedded 8.1](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Pro\n* Sideloading"

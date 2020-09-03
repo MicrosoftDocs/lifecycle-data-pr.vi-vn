@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk Accelerator cho SWIFT 2,3
-  description: Microsoft BizTalk Accelerator cho SWIFT 2,3 tuân theo chính sách vòng đời cố định.
+  title: Microsoft BizTalk Accelerator cho SWIFT 2.3
+  description: Microsoft BizTalk Accelerator cho SWIFT 2.3 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893558"
-name: Microsoft BizTalk Accelerator cho SWIFT 2,3
+name: Microsoft BizTalk Accelerator cho SWIFT 2.3
 summary: >+
-  Microsoft BizTalk Accelerator cho SWIFT 2,3 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Accelerator cho SWIFT 2.3 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: Enterprise, Standard
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>Mối \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* EBM\n* Thông"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"

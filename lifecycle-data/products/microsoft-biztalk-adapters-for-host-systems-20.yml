@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapter cho hệ thống máy chủ lưu trữ 2,0
-  description: Microsoft BizTalk adapter cho hệ thống máy chủ lưu trữ 2,0 tuân theo chính sách vòng đời cố định.
+  title: Bộ điều hợp Microsoft BizTalk cho Hệ thống Máy chủ 2.0
+  description: Microsoft BizTalk Adapter cho Host Systems 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893521"
-name: Microsoft BizTalk adapter cho hệ thống máy chủ lưu trữ 2,0
+name: Bộ điều hợp Microsoft BizTalk cho Hệ thống Máy chủ 2.0
 summary: >+
-  Microsoft BizTalk adapter cho hệ thống máy chủ lưu trữ 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft BizTalk Adapter cho Host Systems 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: nhà phát triển, tiêu chuẩn
+  Chính sách này áp dụng cho các phiên bản sau: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 'S\n* Thông"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Tiêu Chuẩn"

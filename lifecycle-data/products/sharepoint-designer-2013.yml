@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Thiết kế SharePoint 2013
-  description: SharePoint Designer 2013 tuân theo chính sách vòng đời cố định.
+  title: SharePoint Designer 2013
+  description: SharePoint Designer 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866179"
-name: Thiết kế SharePoint 2013
+name: SharePoint Designer 2013
 summary: >+
-  SharePoint Designer 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  SharePoint Designer 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: nhà thiết kế
+  Chính sách này áp dụng với các phiên bản sau: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chi tiết hỗ trợ](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Hỗ trợ cho Microsoft SharePoint Designer 2013 được mở rộng như hiển thị để đảm bảo tính tương thích với SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Phiên bản \n* Thiết kế"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin chi tiết về hỗ trợ](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Hỗ trợ cho Microsoft SharePoint Designer 2013 được mở rộng như nêu ra dưới đây, nhằm đảm bảo tính tương thích với SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Phiên bản \n* Designer"

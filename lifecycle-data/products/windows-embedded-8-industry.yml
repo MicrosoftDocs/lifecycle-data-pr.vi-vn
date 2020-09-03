@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded 8 ngành
-  description: Windows Embedded 8 Industry tuân theo chính sách vòng đời cố định.
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865904"
-name: Windows Embedded 8 ngành
+name: Windows Embedded 8 Industry
 summary: >
-  Windows Embedded 8 ngành tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Embedded 8 Industry tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: Enterprise, Pro
+  Chính sách này áp dụng cho các phiên bản: Enterprise, Pro
 
 
   > [!IMPORTANT]
 
-  > Khách hàng phải di chuyển sang Windows 8.1 để vẫn được hỗ trợ.
+  > Khách hàng cần chuyển đổi sang Windows 8.1 để duy trì hỗ trợ.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Di chuyển hướng dẫn](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Câu hỏi thường gặp về vòng đời-sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Doanh nghiệp\n* Pro"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn chuyển đổi](https://www.microsoft.com/download/details.aspx?id=40279)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Pro"

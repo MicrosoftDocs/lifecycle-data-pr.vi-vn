@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Essential Business Server 2008
-  description: Windows Essential Business Server 2008 tuân theo chính sách vòng đời cố định.
+  description: Windows Essential Business Server 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879028"
 name: Windows Essential Business Server 2008
 summary: >
-  Windows Essential Business Server 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Essential Business Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các lifecycles tương ứng với sản phẩm của từng thành phần. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.
+  > Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các vòng đời tương ứng của sản phẩm thành phần riêng lẻ. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.
 products:
 - windows
 policyType: fixed

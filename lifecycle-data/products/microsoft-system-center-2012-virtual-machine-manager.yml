@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft hệ thống Trung tâm 2012 Virtual Machine Manager
-  description: Microsoft System Center 2012 Virtual Machine Manager tuân theo chính sách vòng đời cố định.
+  title: Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2012
+  description: Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866307"
-name: Microsoft hệ thống Trung tâm 2012 Virtual Machine Manager
+name: Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2012
 summary: >+
-  Microsoft System Center 2012 Virtual Machine Manager tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Tài liệu trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Tài nguyên hệ thống Trung tâm](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)"

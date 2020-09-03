@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 Mobile Enterprise, phát hành vào tháng 2015
-  description: Windows 10 Mobile Enterprise, phát hành vào tháng 11 năm 2015 tuân theo chính sách vòng đời cố định.
+  title: Windows 10 Mobile Enterprise, được phát hành vào tháng 11 năm 2015
+  description: Windows 10 Mobile Enterprise phát hành vào tháng 11/2015 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0299ce6896a2fc30f3000e41d4d09469358fd1c8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865909"
-name: Windows 10 Mobile Enterprise, phát hành vào tháng 2015
+name: Windows 10 Mobile Enterprise, được phát hành vào tháng 11 năm 2015
 summary: >
-  Windows 10 Mobile Enterprise, phát hành vào tháng 11 năm 2015 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows 10 Mobile Enterprise phát hành vào tháng 11/2015 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/16/2015
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời của Device OS](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile đã kết thúc hỗ trợ vào ngày 10 tháng 12 năm 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời của Hệ điều hành Thiết bị](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile kết thúc hỗ trợ vào ngày 10/12/2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

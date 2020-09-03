@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center 2012 quản lý bảo vệ dữ liệu
-  description: Microsoft System Center 2012 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời cố định.
+  title: Trình Quản lý Bảo vệ Dữ liệu Microsoft System Center 2012
+  description: Trình quản lý Bảo vệ Dữ liệu Microsoft System Center 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866090"
-name: Microsoft System Center 2012 quản lý bảo vệ dữ liệu
+name: Trình Quản lý Bảo vệ Dữ liệu Microsoft System Center 2012
 summary: >+
-  Microsoft System Center 2012 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Bảo vệ Dữ liệu Microsoft System Center 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu trung tâm hệ thống](/system-center/#pivot=components&panel=components-all)\n* [Tài nguyên hệ thống Trung tâm](https://www.microsoft.com/system-center/resources)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)"

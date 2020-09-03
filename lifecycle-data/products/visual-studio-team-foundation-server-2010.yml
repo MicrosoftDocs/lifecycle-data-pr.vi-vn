@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 tuân theo chính sách vòng đời cố định.
+  description: Visual Studio Team Foundation Server 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906827"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Visual Studio Team Foundation Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: tất cả các trình kết nối bên ngoài áp dụng
+  Chính sách này áp dụng cho các phiên bản sau: Tất cả các phiên bản có thể áp dụng, Bộ kết nối Bên ngoài
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả áp dụng\n* Đường kết nối bên ngoài"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* All applicable\n* Bộ kết nối Bên ngoài"
