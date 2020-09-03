@@ -2,13 +2,14 @@
 metadata:
   title: PowerShell
   description: PowerShell theo chính sách vòng đời hiện đại.
-  ms.date: 08/07/2020
-  ms.openlocfilehash: 0f8cb9112144a4c13bb9bf329fbe8535e3623834
-  ms.sourcegitcommit: d4150c5bd247ae5ba671483e50bb9414edb04248
+  ms.date: 09/02/2020
+  keywords: ''
+  ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
+  ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/08/2020
-  ms.locfileid: "886009"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "945241"
 name: PowerShell
 summary: >+
   PowerShell theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
@@ -19,9 +20,10 @@ products:
 policyType: modern-online
 supportDates:
   start: 01/19/2018
+  end: 12/03/2022
 releases:
 - version: PowerShell 7.x
-  startDate: 03/04/2020
+  startDate: 07/13/2020
   endDate: 12/03/2022
 - version: PowerShell Core 6.2
   startDate: 03/28/2019
@@ -32,4 +34,4 @@ releases:
 - version: PowerShell 6.x
   startDate: 01/19/2018
   endDate: 09/04/2020
-content: "\n## <a name=\"links\"></a>Mối \n* [Dịch vụ thông tin](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Xem thông tin vòng đời chi tiết của PowerShell tại nối kết thông tin phục vụ."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> Xem thông tin vòng đời chi tiết của PowerShell tại nối kết thông tin phục vụ."
