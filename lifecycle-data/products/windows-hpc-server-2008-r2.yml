@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows HPC Server 2008 R2
-  description: Windows HPC Server 2008 R2 tuân theo chính sách vòng đời cố định.
+  description: Windows HPC Server 2008 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9cbccd562c996dc7b138fd6e110950ef701bce8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846353"
 name: Windows HPC Server 2008 R2
 summary: >
-  Windows HPC Server 2008 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows HPC Server 2008 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed

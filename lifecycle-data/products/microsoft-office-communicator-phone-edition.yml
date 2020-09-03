@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Phiên bản điện thoại Microsoft Office Communicator
-  description: Phiên bản điện thoại Microsoft Office Communicator tuân theo chính sách vòng đời cố định.
+  title: Phiên bản Microsoft Office Communicator Phone
+  description: Microsoft Office Communicator Phiên bản Điện thoại tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847342"
-name: Phiên bản điện thoại Microsoft Office Communicator
+name: Phiên bản Microsoft Office Communicator Phone
 summary: >+
-  Phiên bản điện thoại Microsoft Office Communicator tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office Communicator Phiên Bản Điện thoại tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: điện thoại
+  Chính sách này áp dụng với các phiên bản: Phone
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2007
   endDate: 04/11/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Điện thoại"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Phone"

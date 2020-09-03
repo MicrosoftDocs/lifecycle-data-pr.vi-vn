@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office groove Server 2007
-  description: Microsoft Office groove Server 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office Groove Server 2007
+  description: Microsoft Office Groove Server 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a8a376a61450670925b2e2b6282da7df9715c26b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846640"
-name: Microsoft Office groove Server 2007
+name: Microsoft Office Groove Server 2007
 summary: >+
-  Microsoft Office groove Server 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office Groove Server 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

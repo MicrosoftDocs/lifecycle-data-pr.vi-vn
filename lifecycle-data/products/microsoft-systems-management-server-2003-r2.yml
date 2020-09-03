@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft hệ thống quản lý máy chủ 2003 R2
-  description: Microsoft hệ thống quản lý máy chủ 2003 R2 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Systems Management Server 2003 R2
+  description: Microsoft Systems Management Server 2003 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846930"
-name: Microsoft hệ thống quản lý máy chủ 2003 R2
+name: Microsoft Systems Management Server 2003 R2
 summary: >+
-  Microsoft hệ thống quản lý máy chủ 2003 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Systems Management Server 2003 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

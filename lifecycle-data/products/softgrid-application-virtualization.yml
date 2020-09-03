@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Ảo hóa ứng dụng SoftGrid
-  description: Ảo hóa ứng dụng SoftGrid tuân theo chính sách vòng đời cố định.
+  title: SoftGrid Application Virtualization
+  description: SoftGrid Application Virtualization tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846370"
-name: Ảo hóa ứng dụng SoftGrid
+name: SoftGrid Application Virtualization
 summary: >
-  Ảo hóa ứng dụng SoftGrid tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Application Virtualization tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: 4,1 máy tính để bàn, 4,2 cho máy tính để bàn, Dịch vụ đầu cuối 4,1
+  Bài viết này áp dụng với các phiên bản sau: 4.1 cho Desktops, 4.2 cho Desktops, cho Dịch vụ Đầu Cuối 4.1
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 4,1 cho máy tính để bàn\n* 4,2 cho máy tính để bàn\n* Dịch vụ đầu cuối 4,1"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 4.1 cho bản Desktops\n* 4.2 cho bản Desktops\n* cho Dịch vụ Đầu cuối 4.1"

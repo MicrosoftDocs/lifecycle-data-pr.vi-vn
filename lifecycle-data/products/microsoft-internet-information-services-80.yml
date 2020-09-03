@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dịch vụ thông tin Internet của Microsoft 8,0
-  description: Dịch vụ thông tin Internet của Microsoft 8,0 tuân theo chính sách vòng đời thành phần.
+  title: Microsoft Internet Information Services 8.0
+  description: Microsoft Internet Information Services 8.0 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846425"
-name: Dịch vụ thông tin Internet của Microsoft 8,0
+name: Microsoft Internet Information Services 8.0
 summary: >+
-  Dịch vụ thông tin Internet của Microsoft 8,0 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 8.0 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> Bản phát hành này được biết đến như một thành phần mà sau vòng đời hỗ trợ của sản phẩm chính của cha mẹ, Windows Server 2012 và Windows 8\n\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Cửa sổ 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> Bản phát hành này là một thành phần có vòng đời phụ thuộc vào Hỗ trợ Vòng đời của sản phẩm chính, Windows Server 2012 và Windows 8\n\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

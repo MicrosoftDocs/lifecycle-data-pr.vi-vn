@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình quản lý vòng đời danh tính Microsoft 2007
-  description: Microsoft Identity Lifecycle Manager 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Identity Lifecycle Manager 2007
+  description: Microsoft Identity Lifecycle Manager 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846671"
-name: Trình quản lý vòng đời danh tính Microsoft 2007
+name: Microsoft Identity Lifecycle Manager 2007
 summary: >+
-  Microsoft Identity Lifecycle Manager 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Identity Lifecycle Manager 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gói HPC 2008
-  description: HPC gói 2008 tuân theo chính sách vòng đời cố định.
+  title: HPC Pack 2008
+  description: HPC Pack 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847102"
-name: Gói HPC 2008
+name: HPC Pack 2008
 summary: >
-  HPC gói 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  HPC Pack 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed

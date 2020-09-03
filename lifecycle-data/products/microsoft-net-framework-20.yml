@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft .NET Framework 2,0
-  description: Microsoft .NET Framework 2,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft .NET Framework 2.0.
+  description: Microsoft .NET Framework 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d6d186410b904b018d0d12029387bf88ac0784fb
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846989"
-name: Microsoft .NET Framework 2,0
+name: Microsoft .NET Framework 2.0.
 summary: >+
-  Microsoft .NET Framework 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft .NET Framework 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/17/2006
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-.NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Hỗ trợ cho .NET Framework 2,0 đã kết thúc vào ngày 12 tháng 7 2011."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin Sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-20)\n\n> [!NOTE]\n> Hỗ trợ cho .NET Framework 2.0 đã kết thúc vào ngày 12/7/2011."

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Kết nối sản phẩm engyro cho Microsoft hệ thống Trung tâm Operations Manager 2007
-  description: Kết nối sản phẩm engyro cho Microsoft System Center Operations Manager 2007 tuân theo chính sách vòng đời cố định.
+  title: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
+  description: Bộ kết nối Sản phẩm Engyro cho Trình quản lý Vận hành Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847372"
-name: Kết nối sản phẩm engyro cho Microsoft hệ thống Trung tâm Operations Manager 2007
+name: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
 summary: >
-  Kết nối sản phẩm engyro cho Microsoft System Center Operations Manager 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ kết nối Sản phẩm Engyro cho Trình quản lý Vận hành Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - msc
 policyType: fixed

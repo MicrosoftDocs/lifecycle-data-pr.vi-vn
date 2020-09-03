@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Virtual Machine Manager 2007
-  description: Microsoft System Center Virtual Machine Manager 2007 tuân theo chính sách vòng đời cố định.
+  description: Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: f56ee87e6d98efe5304c881cf8adecfaa3e103d2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846939"
 name: Microsoft System Center Virtual Machine Manager 2007
 summary: >
-  Microsoft System Center Virtual Machine Manager 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Máy Ảo Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - msc
 policyType: fixed
