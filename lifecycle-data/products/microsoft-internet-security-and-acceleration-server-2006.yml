@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Internet Security và Acceleration Server 2006
   description: Microsoft Internet Security và Acceleration Server 2006 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 75511749f62f184e0c55f573060d6906f09d4c4f
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "878880"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001856"
 name: Microsoft Internet Security và Acceleration Server 2006
 summary: "Microsoft Internet Security và Acceleration Server 2006 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
