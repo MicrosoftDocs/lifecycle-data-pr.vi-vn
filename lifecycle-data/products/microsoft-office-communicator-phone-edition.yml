@@ -2,13 +2,14 @@
 metadata:
   title: Phiên bản Microsoft Office Communicator Phone
   description: Microsoft Office Communicator Phiên bản Điện thoại tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Phone
+  ms.openlocfilehash: 5b5c465b3370cd05379592af7f91194e59874106
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847342"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001671"
 name: Phiên bản Microsoft Office Communicator Phone
 summary: >+
   Microsoft Office Communicator Phiên Bản Điện thoại tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

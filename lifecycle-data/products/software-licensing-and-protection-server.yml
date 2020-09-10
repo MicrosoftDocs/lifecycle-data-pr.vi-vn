@@ -2,13 +2,14 @@
 metadata:
   title: Bản quyền Phần mềm và Bảo mật Máy chủ
   description: Bản quyền Phần mềm và Bảo mật Máy chủ tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846386"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001079"
 name: Bản quyền Phần mềm và Bảo mật Máy chủ
 summary: >
   Bản quyền Phần mềm và Bảo mật Máy chủ tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
