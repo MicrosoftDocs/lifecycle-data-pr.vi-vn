@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Truy nhập 2010
+  description: Truy nhập 2010 tuân theo chính sách vòng đời cố định.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 9180c938289e98e23e037c3d5dce40ccde8f3f22
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002855"
+name: Truy nhập 2010
+summary: >+
+  Truy nhập 2010 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/plan-upgrade-previous-versions-office)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
