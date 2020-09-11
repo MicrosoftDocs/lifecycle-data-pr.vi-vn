@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Tìm kiếm thông tin về Vòng đời Sản phẩm và Dịch vụ (Chế độ xem trước)
+title: Tìm kiếm Thông tin về Vòng đời Sản phẩm và Dịch vụ
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Trang này đang được phát triển và sẽ đi vào hoạt động vào ngày 02/9. Trong thời gian chờ đợi, bạn có thể xem danh sách đầy đủ các sản phẩm của Microsoft kèm theo thời hạn hỗ trợ và các thông tin khác tại [aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Xuất thông tin về Vòng đời từ trang [Xuất thông tin Vòng đời sản phẩm](/lifecycle/export/products).\n\n\nVòng đời Sản phẩm Microsoft cung cấp các hướng dẫn một cách nhất quán và có thể dự đoán về hỗ trợ trong suốt vòng đời của sản phẩm, giúp khách hàng vừa quản lý các khoản đầu tư và môi trường CNTT trong khi lên kế hoạch chiến lược cho tương lai.\n\n\nTìm kiếm trong danh sách dưới đây các sản phẩm và dịch vụ thương mại của Microsoft, sau đó chọn kết quả bạn muốn biết để xem dòng thời gian hỗ trợ và cung cấp dịch vụ của sản phẩm, các bản cập nhật theo yêu cầu, thông tin chuyển đổi và yêu cầu hệ thống."
+summary: "\n> [!NOTE]\n> Xuất thông tin về Vòng đời từ trang [Xuất thông tin Vòng đời sản phẩm](/lifecycle/products/export).\n\n\nVòng đời Sản phẩm Microsoft cung cấp các hướng dẫn một cách nhất quán và có thể dự đoán về hỗ trợ trong suốt vòng đời của sản phẩm, giúp khách hàng vừa quản lý các khoản đầu tư và môi trường CNTT trong khi lên kế hoạch chiến lược cho tương lai.\n\n\nTìm kiếm trong danh sách dưới đây các sản phẩm và dịch vụ thương mại của Microsoft, sau đó chọn kết quả bạn muốn biết để xem dòng thời gian hỗ trợ và cung cấp dịch vụ của sản phẩm, các bản cập nhật theo yêu cầu, thông tin chuyển đổi và yêu cầu hệ thống."
 metadata:
-  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
-  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+  ms.openlocfilehash: c874ff14f0c8c755cda09d9e1580e196ae601e7e
+  ms.sourcegitcommit: adca90be401b37b1ccfe6a6ce3fe265bd2e1f0de
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "899862"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "943056"
