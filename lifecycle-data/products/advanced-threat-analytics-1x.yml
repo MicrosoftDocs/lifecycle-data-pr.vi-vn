@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Phân tích mối đe dọa nâng cao 1. X
+  description: Phân tích mối đe dọa nâng cao 1. X theo chính sách vòng đời cố định.
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002853"
+name: Phân tích mối đe dọa nâng cao 1. X
+summary: >+
+  Phân tích mối đe dọa nâng cao 1. X theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn dịch vụ phân tích mối đe dọa nâng cao](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> Các bản Cập Nhật được tích lũy, với mỗi bản Cập Nhật được tích hợp sẵn khi tất cả các bản Cập Nhật trước đó. Thiết bị cần cài đặt bản cập nhật mới nhất để duy trì được hỗ trợ."
