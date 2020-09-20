@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Business Central
-  description: Dynamics 365 Business Central tuân theo chính sách vòng đời hiện đại.
+  description: Dynamics 365 Business Central tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866151"
 name: Dynamics 365 Business Central
 summary: >+
-  Dynamics 365 Business Central tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Dynamics 365 Business Central tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Thông tin dịch vụ](/dynamics365/business-central/dev-itpro/faq)\n* [Yêu cầu hệ thống](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Microsoft Dynamics 365 Roadmap](https://aka.ms/businessappsreleasenotes)\n* [Thông tin dịch vụ](/dynamics365/business-central/dev-itpro/faq)\n* [Yêu cầu hệ thống](/dynamics365/business-central/product-requirements)"

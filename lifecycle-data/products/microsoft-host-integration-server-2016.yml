@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft tích hợp máy chủ lưu trữ 2016
-  description: Microsoft máy chủ tích hợp máy chủ 2016 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Host Integration Server 2016
+  description: Microsoft Host Integration Server 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ee70f1721ef994d1bbba7618623db190d82651
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873149"
-name: Microsoft tích hợp máy chủ lưu trữ 2016
+name: Microsoft Host Integration Server 2016
 summary: >+
-  Microsoft máy chủ tích hợp máy chủ 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Host Integration Server 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

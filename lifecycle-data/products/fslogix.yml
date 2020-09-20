@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FSLogix
-  description: FSLogix tuân theo chính sách vòng đời hiện đại.
+  description: FSLogix tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866048"
 name: FSLogix
 summary: >+
-  FSLogix tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  FSLogix tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tải về và cài đặt FSLogix](/fslogix/install-ht)\n* [Hỗ trợ FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này là tùy thuộc vào các điều khoản của việc mua lại của nó."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tải về và cài đặt FSLogix](/fslogix/install-ht)\n* [Hỗ trợ FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm."

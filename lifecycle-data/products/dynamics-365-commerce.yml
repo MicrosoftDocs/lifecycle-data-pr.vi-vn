@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 thương mại
-  description: Dynamics 365 Commerce tuân theo chính sách vòng đời hiện đại.
+  title: Dynamics 365 Commerce
+  description: Dynamics 365 Commerce tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873187"
-name: Dynamics 365 thương mại
+name: Dynamics 365 Commerce
 summary: >+
-  Dynamics 365 Commerce tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Dynamics 365 Commerce tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 07/01/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình Microsoft Dynamics 365](https://roadmap.dynamics.com/)\n* [Để biết thêm thông tin về thay đổi tên](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 bán lẻ bây giờ là Dynamics 365 Commerce"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)\n* [Để biết thêm thông tin về thay đổi tên](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail bây giờ là Dynamics 365 Commerce"

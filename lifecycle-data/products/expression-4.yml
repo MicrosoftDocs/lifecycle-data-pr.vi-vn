@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Biểu thức 4
-  description: Biểu thức 4 sau chính sách vòng đời cố định.
+  title: Expression 4
+  description: Expression 4 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930884"
-name: Biểu thức 4
+name: Expression 4
 summary: >+
-  Biểu thức 4 sau chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Expression 4 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: thiết kế, bộ mã hóa, Ultimate Studio, web
+  Bài viết này áp dụng với các phiên bản sau: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Kết thúc hỗ trợ chính cho biểu thức Studio Ultimate 4 là 13 tháng mười 2015.\n\n## <a name=\"editions\"></a>Phiên bản \n* Thiết kế\n* Hóa\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Kết thúc hỗ trợ chính cho Expression Studio Ultimate 4 là ngày 13/10/2015.\n\n## <a name=\"editions\"></a>Phiên bản \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

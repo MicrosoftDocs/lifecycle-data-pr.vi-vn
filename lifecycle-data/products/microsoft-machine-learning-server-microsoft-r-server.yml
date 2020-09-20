@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ Microsoft Machine Learning (Microsoft R Server)
-  description: Máy chủ Microsoft Machine Learning (Microsoft R Server) tuân theo chính sách vòng đời hiện đại.
+  title: Microsoft Machine Learning Server (Microsoft R Server)
+  description: Microsoft Machine Learning Server (Microsoft R Server) tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865990"
-name: Máy chủ Microsoft Machine Learning (Microsoft R Server)
+name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  Máy chủ Microsoft Machine Learning (Microsoft R Server) tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Microsoft Machine Learning Server (Microsoft R Server) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

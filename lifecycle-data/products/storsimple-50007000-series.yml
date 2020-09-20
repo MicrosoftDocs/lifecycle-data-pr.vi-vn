@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dòng StorSimple 5000/7000
-  description: StorSimple 5000/7000 Series tuân theo chính sách vòng đời cố định.
+  title: StorSimple 5000/7000 Series
+  description: StorSimple 5000/7000 Series tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866358"
-name: Dòng StorSimple 5000/7000
-summary: "StorSimple 5000/7000 Series tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+name: StorSimple 5000/7000 Series
+summary: "StorSimple 5000/7000 Series tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - azure
 policyType: fixed-mainstream-only

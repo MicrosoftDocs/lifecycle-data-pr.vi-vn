@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2003 của Microsoft Office Publisher
-  description: Microsoft Office Publisher 2003 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930366"
-name: 2003 của Microsoft Office Publisher
+name: Microsoft Office Publisher 2003
 summary: >+
-  Microsoft Office Publisher 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office Publisher 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: tiêu chuẩn, với hình ảnh kỹ thuật số
+  Chính sách này áp dụng cho các phiên bản: Standard với Kỹ thuật số Hình ảnh
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn\n* với hình ảnh kỹ thuật số"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn\n* với Kỹ thuật số Hình ảnh"
