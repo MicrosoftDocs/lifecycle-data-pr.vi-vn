@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dịch vụ Visio trong SharePoint Online
-  description: Dịch vụ Visio trong SharePoint Online tuân theo chính sách vòng đời hiện đại.
+  title: Visio Services trong SharePoint Online
+  description: Visio Services trong SharePoint Online tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846522"
-name: Dịch vụ Visio trong SharePoint Online
+name: Visio Services trong SharePoint Online
 summary: >+
-  Dịch vụ Visio trong SharePoint Online tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Visio Services trong SharePoint Online tuân theo Chính sách Vòng đời  [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

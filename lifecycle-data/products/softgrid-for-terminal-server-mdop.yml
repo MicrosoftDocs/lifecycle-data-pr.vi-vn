@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SoftGrid cho máy chủ đầu cuối (MDOP)
-  description: SoftGrid cho máy chủ đầu cuối (MDOP) tuân theo chính sách vòng đời cố định.
+  description: SoftGrid cho máy chủ đầu cuối (MDOP) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846368"
 name: SoftGrid cho máy chủ đầu cuối (MDOP)
 summary: >+
-  SoftGrid cho máy chủ đầu cuối (MDOP) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  SoftGrid cho máy chủ đầu cuối (MDOP) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Vòng đời hỏi đáp-chung](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ cho sản phẩm này là tùy thuộc vào các điều khoản của việc mua lại của nó."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Tổng quan](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm."

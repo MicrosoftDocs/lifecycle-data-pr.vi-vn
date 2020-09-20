@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ lưu trữ Windows 2003
-  description: Windows Storage Server 2003 tuân theo chính sách vòng đời cố định.
+  title: Windows Storage Server 2003
+  description: Windows Storage Server 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846338"
-name: Máy chủ lưu trữ Windows 2003
+name: Windows Storage Server 2003
 summary: >
-  Windows Storage Server 2003 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Storage Server 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về nâng cấp Windows Server](/windows-server/upgrade/upgrade-overview)\n* [Thông tin nâng cấp bổ sung](/windows-server/get-started/installation-and-upgrade)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về nâng cấp Windows Server](/windows-server/upgrade/upgrade-overview)\n* [Thông tin chuyển đổi bổ sung](/windows-server/get-started/installation-and-upgrade)"
