@@ -1,27 +1,27 @@
 ---
 title: Xuất dữ liệu vòng đời
 description: Xuất thông tin vòng đời sản phẩm
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008487"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025052"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="64066-103">Xuất dữ liệu vòng đời</span><span class="sxs-lookup"><span data-stu-id="64066-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="8e181-103">Xuất dữ liệu vòng đời</span><span class="sxs-lookup"><span data-stu-id="8e181-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="64066-104">Trang này đang được phát triển.</span><span class="sxs-lookup"><span data-stu-id="64066-104">This page is under development.</span></span>
+> <span data-ttu-id="8e181-104">Trang này đang được phát triển.</span><span class="sxs-lookup"><span data-stu-id="8e181-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="64066-105">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="64066-105">Export all products</span></span>
-<span data-ttu-id="64066-106">Xuất dữ liệu vòng đời cho tất cả các sản phẩm bằng cách bấm vào dưới đây:</span><span class="sxs-lookup"><span data-stu-id="64066-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="8e181-105">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="8e181-105">Export all products</span></span>
+<span data-ttu-id="8e181-106">Xuất dữ liệu vòng đời cho tất cả các sản phẩm bằng cách bấm vào dưới đây:</span><span class="sxs-lookup"><span data-stu-id="8e181-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="64066-107">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="64066-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="8e181-107">Xuất tất cả sản phẩm</span><span class="sxs-lookup"><span data-stu-id="8e181-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="64066-108">Xuất sản phẩm theo gia đình và nhóm</span><span class="sxs-lookup"><span data-stu-id="64066-108">Export products by Family and Group</span></span>
-<span data-ttu-id="64066-109">Chọn một gia đình và sau đó chọn một nhóm để xuất.</span><span class="sxs-lookup"><span data-stu-id="64066-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="64066-110">Ghi chú: xuất sẽ bắt đầu khi chọn giá trị nhóm.</span><span class="sxs-lookup"><span data-stu-id="64066-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="8e181-108">Xuất sản phẩm theo gia đình và nhóm</span><span class="sxs-lookup"><span data-stu-id="8e181-108">Export products by Family and Group</span></span>
+<span data-ttu-id="8e181-109">Chọn một gia đình và sau đó chọn một nhóm để xuất.</span><span class="sxs-lookup"><span data-stu-id="8e181-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="8e181-110">Ghi chú: xuất sẽ bắt đầu khi chọn giá trị nhóm.</span><span class="sxs-lookup"><span data-stu-id="8e181-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Đình" title2="Nhóm"]
 > - [(.NET | Thôi](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -83,8 +83,8 @@ ms.locfileid: "1008487"
 > - [(Windows | Thống](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Vụ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="64066-171">Xuất sản phẩm bằng cách kết thúc ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="64066-171">Export products by end of support date</span></span>
-<span data-ttu-id="64066-172">Chọn một năm để xem các sản phẩm đến cuối phần hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="64066-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="64066-173">Ghi chú: xuất sẽ bắt đầu khi giá trị năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="64066-173">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="8e181-171">Xuất sản phẩm bằng cách kết thúc ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="8e181-171">Export products by end of support date</span></span>
+<span data-ttu-id="8e181-172">Chọn một năm để xem các sản phẩm đến cuối phần hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="8e181-172">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="8e181-173">Ghi chú: xuất sẽ bắt đầu khi giá trị năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="8e181-173">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

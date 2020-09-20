@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình quản lý thiết bị nhúng của Windows 2011
-  description: Trình quản lý thiết bị nhúng Windows 2011 tuân theo chính sách vòng đời cố định.
+  title: Windows Embedded Device Manager 2011
+  description: Windows Embedded Device Manager 2011 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939949"
-name: Trình quản lý thiết bị nhúng của Windows 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  Trình quản lý thiết bị nhúng Windows 2011 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Embedded Device Manager 2011 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: máy khách, SDK, máy chủ
+  Chính sách này áp dụng cho các phiên bản: Client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Máy khách\n* SDK\n* Vụ"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Máy khách\n* SDK\n* Máy chủ"

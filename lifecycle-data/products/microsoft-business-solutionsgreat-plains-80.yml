@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Giải pháp Microsoft Business--Great Plains 8,0
-  description: Giải pháp Microsoft Business--Great Plains 8,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934695"
-name: Giải pháp Microsoft Business--Great Plains 8,0
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Giải pháp Microsoft Business--Great Plains 8,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Business Solutions--Great Plains 8.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
   Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc vào ngày 13 tháng mười 2009
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc vào ngày 13/10/2009
 products:
 - dynamics
 policyType: fixed-mainstream-only

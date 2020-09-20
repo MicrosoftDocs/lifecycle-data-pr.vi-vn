@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2016 cho Mac
-  description: Microsoft Office 2016 cho Mac tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office 2016 cho máy Mac
+  description: Microsoft Office 2016 cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936323"
-name: Microsoft Office 2016 cho Mac
+name: Microsoft Office 2016 cho máy Mac
 summary: >+
-  Microsoft Office 2016 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office 2016 cho máy Mac tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: Home and Business, Home and Student, Standard
+  Chính sách này áp dụng với các phiên bản: Home and Business, Home and Student, Standard
 
 products:
 - office

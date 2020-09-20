@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile 5,0
-  description: Windows Mobile 5,0 tuân theo chính sách vòng đời cố định.
+  title: Windows Mobile 5.0
+  description: Windows Mobile 5.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: for Pocket PC,for Smartphones
   ms.openlocfilehash: 7a07c670b79f79c4c1e9406cff7b89db9eaab660
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939875"
-name: Windows Mobile 5,0
+name: Windows Mobile 5.0
 summary: >
-  Windows Mobile 5,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Mobile 5.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: đối với máy tính bỏ túi, cho điện thoại thông minh
+  Chính sách này áp dụng cho các phiên bản sau: cho Pocket PC, cho Smartphones
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Đối với PC Pocket\n* cho điện thoại thông minh"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Điện thoại Thông minh"
