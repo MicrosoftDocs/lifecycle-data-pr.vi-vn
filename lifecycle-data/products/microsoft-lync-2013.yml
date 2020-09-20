@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Lync 2013
-  description: Lync 2013 tuân theo chính sách vòng đời cố định.
+  description: Lync 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: SDK,Standard
   ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933363"
 name: Lync 2013
 summary: >+
-  Lync 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Lync 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Thao tác này áp dụng cho các phiên bản sau: SDK, Standard
+  Chính sách này áp dụng với các phiên bản: SDK, Standard
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Bản phát hành máy khách Skype for Business 2015 là bản Cập Nhật cho máy khách Lync 2013 và sẽ theo dõi cùng một vòng đời sản phẩm.\nNgày bắt đầu cho Lync 2013 SDK là 23 tháng hai, 2013. \n\n## <a name=\"editions\"></a>Phiên bản \n* SDK\n* Tiêu Chuẩn"
+content: "\n\n> [!NOTE]\n> Phát hành Skype for Business 2015 Client là bản cập nhật cho Máy khách Lync 2013 và sẽ theo cùng một vòng đời sản phẩm.\nNgày bắt đầu vòng đời cho Lync 2013 SDK là 23/02/2013. \n\n## <a name=\"editions\"></a>Phiên bản \n* SDK\n* Tiêu Chuẩn"

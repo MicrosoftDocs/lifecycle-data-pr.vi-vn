@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2,0 của Microsoft Enterprise Desktop Virtualization
-  description: 2,0 ảo hóa của Microsoft Enterprise trên máy tính bàn làm theo chính sách vòng đời cố định.
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933918"
-name: 2,0 của Microsoft Enterprise Desktop Virtualization
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  2,0 ảo hóa của Microsoft Enterprise trên máy tính bàn làm theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Enterprise Desktop Virtualization 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise
