@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 trên Surface Hub
-  description: Windows 10 trên Surface Hub tuân theo chính sách vòng đời cố định.
+  description: Windows 10 trên Surface Hub tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865910"
 name: Windows 10 trên Surface Hub
 summary: >+
-  Windows 10 trên Surface Hub tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows 10 trên Surface Hub tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed) .
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Bản cập nhật Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Xem các bản cập nhật Windows (bề mặt trung tâm) trang để đảm bảo bạn đang nhận được các bản Cập Nhật Trung tâm bề mặt mới nhất."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Cập nhật Windows (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> Xem trang cập nhật Windows (Surface Hub) để đảm bảo bạn đang nhận được bản cập nhật Surface Hub mới nhất."

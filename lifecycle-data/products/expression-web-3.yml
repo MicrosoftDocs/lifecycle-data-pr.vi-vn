@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Biểu thức 3
-  description: Biểu thức 3 sau chính sách vòng đời cố định.
+  title: Expression 3
+  description: Expression 3 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930773"
-name: Biểu thức 3
+name: Expression 3
 summary: >+
-  Biểu thức 3 sau chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Expression 3 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: thiết kế, bộ mã hóa, Studio, web
+  Bài viết này áp dụng với các phiên bản sau: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Ngày bắt đầu cho thiết kế biểu thức 3 là ngày 19 tháng 11, 2009. \n\n## <a name=\"editions\"></a>Phiên bản \n* Thiết kế\n* Hóa\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Ngày bắt đầu cho Expression Design 3 là ngày 19/11/2009. \n\n## <a name=\"editions\"></a>Phiên bản \n* Design\n* Encoder\n* Studio\n* Web"

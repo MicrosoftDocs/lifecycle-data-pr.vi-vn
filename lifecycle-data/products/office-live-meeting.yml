@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cuộc họp Office Live
-  description: Cuộc họp Office Live theo chính sách vòng đời hiện đại.
+  title: Office Live Meeting
+  description: Office Live Meeting tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928923"
-name: Cuộc họp Office Live
-summary: "Cuộc họp Office Live theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .\n\nBài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn\n\n> [!IMPORTANT]\n> Hỗ trợ dịch vụ này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+name: Office Live Meeting
+summary: "Office Live Meeting tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).\n\nBài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho dịch vụ này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - office
 policyType: modern-online

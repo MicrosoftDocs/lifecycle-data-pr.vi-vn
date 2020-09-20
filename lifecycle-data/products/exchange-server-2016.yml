@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ Exchange 2016
-  description: Exchange Server 2016 tuân theo chính sách vòng đời cố định.
+  title: Exchange Server 2016
+  description: Exchange Server 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: bad2d3a8e4e33ce78bd15a78145aceb308d0eefb
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931180"
-name: Máy chủ Exchange 2016
+name: Exchange Server 2016
 summary: >+
-  Exchange Server 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Exchange Server 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn phục vụ](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn dịch vụ](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BitLocker quản trị và giám sát 2,0
-  description: Microsoft BitLocker quản trị và giám sát 2,0 tuân theo chính sách vòng đời cố định.
+  title: Microsoft BitLocker Administration & Monitoring 2.0
+  description: Quản trị và Theo dõi Microsoft BitLocker 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5070cc5571cf5859fb0184860a7094fc4abc69eb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866199"
-name: Microsoft BitLocker quản trị và giám sát 2,0
+name: Microsoft BitLocker Administration & Monitoring 2.0
 summary: >+
-  Microsoft BitLocker quản trị và giám sát 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Quản trị và Theo dõi Microsoft BitLocker 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

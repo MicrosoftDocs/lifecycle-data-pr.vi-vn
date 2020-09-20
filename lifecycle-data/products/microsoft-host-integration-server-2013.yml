@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft tích hợp máy chủ lưu trữ 2013
-  description: Microsoft máy chủ tích hợp máy chủ 2013 tuân theo chính sách vòng đời cố định.
+  title: Máy chủ Lưu trữ Tích hợp Microsoft 2013
+  description: Microsoft Host Integration Server 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d95fbc816dadeaac7c7ccb3d1780e299f8a124e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866007"
-name: Microsoft tích hợp máy chủ lưu trữ 2013
+name: Máy chủ Lưu trữ Tích hợp Microsoft 2013
 summary: >+
-  Microsoft máy chủ tích hợp máy chủ 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Host Integration Server 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
