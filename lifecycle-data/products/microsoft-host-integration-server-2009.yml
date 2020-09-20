@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft tích hợp máy chủ lưu trữ 2009
-  description: Microsoft máy chủ tích hợp máy chủ 2009 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Host Integration Server 2009
+  description: Microsoft Host Integration Server 2009 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846677"
-name: Microsoft tích hợp máy chủ lưu trữ 2009
-summary: "Microsoft máy chủ tích hợp máy chủ 2009 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\n\n> [!IMPORTANT]\n> Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+name: Microsoft Host Integration Server 2009
+summary: "Microsoft Host Integration Server 2009 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới. \n"
 products:
 - microsoft-servers
 policyType: fixed

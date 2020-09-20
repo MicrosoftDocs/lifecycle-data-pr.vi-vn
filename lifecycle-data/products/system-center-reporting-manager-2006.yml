@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Quản lý báo cáo trung tâm hệ thống 2006
-  description: Quản lý báo cáo trung tâm hệ thống 2006 tuân theo chính sách vòng đời cố định.
+  title: Trình quản lý Báo cáo Hệ thống Trung tâm 2006
+  description: Trình quản lý Báo cáo Hệ thống Trung tâm 2006 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846898"
-name: Quản lý báo cáo trung tâm hệ thống 2006
+name: Trình quản lý Báo cáo Hệ thống Trung tâm 2006
 summary: >
-  Quản lý báo cáo trung tâm hệ thống 2006 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Báo cáo Hệ thống Trung tâm 2006 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
 products:
 - msc
 policyType: fixed

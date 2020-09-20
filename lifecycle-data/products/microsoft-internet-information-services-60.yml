@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dịch vụ thông tin Internet của Microsoft 6,0
-  description: Dịch vụ thông tin Internet của Microsoft 6,0 tuân theo chính sách vòng đời thành phần.
+  title: Microsoft Internet Information Services 6.0
+  description: Microsoft Internet Information Services 6.0 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846991"
-name: Dịch vụ thông tin Internet của Microsoft 6,0
+name: Microsoft Internet Information Services 6.0
 summary: >+
-  Dịch vụ thông tin Internet của Microsoft 6,0 tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Microsoft Internet Information Services 6.0 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 05/28/2003
-content: "\n\n> [!NOTE]\n> Bản phát hành này được biết đến như là một thành phần mà sau vòng đời hỗ trợ của sản phẩm chính của cha mẹ, Windows Server 2003"
+content: "\n\n> [!NOTE]\n> Phiên bản này được biết đến như một Cấu phần có vòng đời phụ thuộc vào Vòng đời Hỗ trợ của Sản phẩm Chính, Windows Server 2003"

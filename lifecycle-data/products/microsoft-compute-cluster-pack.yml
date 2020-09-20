@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gói cụm điện toán Microsoft
-  description: Gói cụm điện toán Microsoft tuân theo chính sách vòng đời cố định.
+  title: Microsoft Compute Cluster Pack
+  description: Microsoft Compute Cluster Pack tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847023"
-name: Gói cụm điện toán Microsoft
+name: Microsoft Compute Cluster Pack
 summary: >
-  Gói cụm điện toán Microsoft tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Compute Cluster Pack tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed

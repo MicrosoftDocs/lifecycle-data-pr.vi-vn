@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft hệ thống Trung tâm năng lực Planner 2007
-  description: Microsoft System Center khả năng lập kế hoạch 2007 tuân theo chính sách vòng đời cố định.
+  title: Microsoft System Center Capacity Planner 2007
+  description: Trình hoạch định Công suất Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846955"
-name: Microsoft hệ thống Trung tâm năng lực Planner 2007
+name: Microsoft System Center Capacity Planner 2007
 summary: >
-  Microsoft System Center khả năng lập kế hoạch 2007 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình hoạch định Công suất Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - msc
 policyType: fixed

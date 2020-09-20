@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office Communicator điện thoại di động
-  description: Microsoft Office Communicator Mobile tuân theo chính sách vòng đời cố định.
+  title: Microsoft Office Communicator Mobile
+  description: Microsoft Office Communicator Mobile tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1740abcef5c843ea1c87dd287111eb7d15ec9ad
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847343"
-name: Microsoft Office Communicator điện thoại di động
+name: Microsoft Office Communicator Mobile
 summary: >+
-  Microsoft Office Communicator Mobile tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Office Communicator Mobile tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
