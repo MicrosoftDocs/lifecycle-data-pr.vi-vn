@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ ảo 2005
-  description: Virtual Server 2005 tuân theo chính sách vòng đời cố định.
+  title: Virtual Server 2005
+  description: Virtual Server 2005 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
   ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937914"
-name: Máy chủ ảo 2005
+name: Virtual Server 2005
 summary: >+
-  Virtual Server 2005 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Virtual Server 2005 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: Enterprise, Management Pack, Standard
+  Bài viết này áp dụng với các phiên bản sau: Enterprise, Management Pack, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/29/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Gói quản lý\n* Tiêu Chuẩn"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Management Pack\n* Tiêu Chuẩn"
