@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Communication Foundation RIA dịch vụ
-  description: Windows Communication Foundation RIA dịch vụ tuân theo chính sách vòng đời cố định.
+  title: Dịch vụ Windows Communication Foundation RIA
+  description: Windows Communication Foundation RIA Services tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846352"
-name: Windows Communication Foundation RIA dịch vụ
+name: Dịch vụ Windows Communication Foundation RIA
 summary: >+
-  Windows Communication Foundation RIA dịch vụ tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Communication Foundation RIA Services tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

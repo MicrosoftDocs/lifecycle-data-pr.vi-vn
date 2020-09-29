@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Embedded CE 6,0
-  description: Windows Embedded CE 6,0 tuân theo chính sách vòng đời cố định.
+  title: Windows Embedded CE 6.0
+  description: Windows Embedded CE 6.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a4dcc45afc796f07ef8606d1130588a449bd0e8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846876"
-name: Windows Embedded CE 6,0
+name: Windows Embedded CE 6.0
 summary: >
-  Windows Embedded CE 6,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Embedded CE 6.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed

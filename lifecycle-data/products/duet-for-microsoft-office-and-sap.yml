@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Duet cho Microsoft Office và SAP
-  description: Duet cho Microsoft Office và SAP tuân theo chính sách vòng đời cố định.
+  title: Duet dành cho Microsoft Office và SAP
+  description: Duet dành cho Microsoft Office và SAP tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847265"
-name: Duet cho Microsoft Office và SAP
+name: Duet dành cho Microsoft Office và SAP
 summary: >+
-  Duet cho Microsoft Office và SAP tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Duet dành cho Microsoft Office và SAP tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2006
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Sap](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Sản phẩm này được bán và hỗ trợ bởi SAP."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> Sản phẩm này được bán và hỗ trợ bởi SAP."

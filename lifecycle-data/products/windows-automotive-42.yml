@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows ô tô 4,2
-  description: Windows Automotive 4,2 tuân theo chính sách vòng đời cố định.
+  title: Windows Automotive 4.2
+  description: Windows Automotive 4.2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a2671ea93a2852928c59d836ed4ebc8412963b61
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846354"
-name: Windows ô tô 4,2
+name: Windows Automotive 4.2
 summary: >
-  Windows Automotive 4,2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Automotive 4.2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed

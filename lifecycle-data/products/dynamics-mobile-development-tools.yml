@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Công cụ phát triển Dynamics Mobile
-  description: Công cụ phát triển Dynamics Mobile tuân theo chính sách vòng đời thành phần.
+  title: Công cụ Phát triển Thiết bị Di động Dynamics
+  description: Công cụ Phát triển Thiết bị Di động Dynamics tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846699"
-name: Công cụ phát triển Dynamics Mobile
+name: Công cụ Phát triển Thiết bị Di động Dynamics
 summary: >+
-  Công cụ phát triển Dynamics Mobile tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Công cụ Phát triển Thiết bị Di động Dynamics tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
