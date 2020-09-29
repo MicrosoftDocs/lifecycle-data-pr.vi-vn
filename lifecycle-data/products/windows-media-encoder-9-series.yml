@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bộ mã hóa Windows Media 9
-  description: Windows Media Encoder 9 chuỗi theo chính sách vòng đời cố định.
+  title: Bộ mã hóa Windows Media Series 9
+  description: Bộ mã hóa Windows Media Series 9 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940023"
-name: Bộ mã hóa Windows Media 9
+name: Bộ mã hóa Windows Media Series 9
 summary: >+
-  Windows Media Encoder 9 chuỗi theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ mã hóa Windows Media Series 9 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: 64 bit, tiêu chuẩn
+  Chính sách này áp dụng với các phiên bản: 64 Bit, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Phiên bản x64 của bộ mã hóa Windows Media 9 Series được phát hành vào 15/09/2018, 2005.\n\n## <a name=\"editions\"></a>Phiên bản \n* 64 Bit\n* Tiêu Chuẩn"
+content: "\n\n> [!NOTE]\n> Bộ mã hóa Windows Media Series 9 Phiên bản x64 phát hành vào ngày 15/9//2005.\n\n## <a name=\"editions\"></a>Phiên bản \n* 64 Bit\n* Tiêu Chuẩn"
