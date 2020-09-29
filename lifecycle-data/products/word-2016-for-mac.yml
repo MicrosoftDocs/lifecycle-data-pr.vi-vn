@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Word 2016 dành cho Mac
-  description: Word 2016 dành cho Mac tuân theo chính sách vòng đời cố định.
+  title: Word 2016 dành cho máy Mac
+  description: " Word 2016 dành cho Mac tuân theo Chính sách Vòng đời Cố định."
   ms.date: 07/28/2020
   ms.openlocfilehash: 71b901131d651cb74f4f8835f0ca834dd90dca79
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865951"
-name: Word 2016 dành cho Mac
+name: Word 2016 dành cho máy Mac
 summary: >+
-  Word 2016 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Word 2016 dành cho Mac tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

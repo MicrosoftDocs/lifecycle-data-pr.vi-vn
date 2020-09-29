@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ASP.NET lõi
-  description: ASP.NET Core tuân theo chính sách vòng đời hiện đại.
+  title: ASP.NET Core
+  description: ASP.NET Core tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0d9d34cae13f320c21cbcb289e753c8a5f6a8462
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866160"
-name: ASP.NET lõi
+name: ASP.NET Core
 summary: >+
-  ASP.NET Core tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  ASP.NET Core tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-.NET Core](/lifecycle/faq/dotnet-core)\n* [Thông tin dịch vụ](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [Lộ trình .NET](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường Gặp về Vòng đời - .NET Core](/lifecycle/faq/dotnet-core)\n* [Thông tin dịch vụ](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET roadmap](https://github.com/dotnet/core/blob/master/roadmap.md)"

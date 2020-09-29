@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: PowerPoint 2016 cho Mac
-  description: PowerPoint 2016 cho Mac tuân theo chính sách vòng đời cố định.
+  title: PowerPoint 2016 dành cho máy Mac
+  description: PowerPoint 2016 cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 73500fa1b2c71854c832aec2777d83cbd087d669
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866131"
-name: PowerPoint 2016 cho Mac
+name: PowerPoint 2016 dành cho máy Mac
 summary: >+
-  PowerPoint 2016 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  PowerPoint 2016 cho máy Mac tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

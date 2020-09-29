@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure dịch vụ vải
-  description: Azure dịch vụ vải tuân theo chính sách vòng đời hiện đại.
+  title: Azure Service Fabric
+  description: Azure Service Fabric tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865870"
-name: Azure dịch vụ vải
+name: Azure Service Fabric
 summary: >+
-  Azure dịch vụ vải tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Azure Service Fabric tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

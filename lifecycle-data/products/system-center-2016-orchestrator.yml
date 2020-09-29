@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống Trung tâm 2016 soạn thảo
-  description: Hệ thống Trung tâm 2016 soạn thảo tuân theo chính sách vòng đời cố định.
+  title: System Center 2016 Orchestrator
+  description: System Center 2016 Orchestrator tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866355"
-name: Hệ thống Trung tâm 2016 soạn thảo
+name: System Center 2016 Orchestrator
 summary: >+
-  Hệ thống Trung tâm 2016 soạn thảo tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  System Center 2016 Orchestrator tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Tương tác Azure Mobile
-  description: Azure Mobile Engagement tuân theo chính sách vòng đời hiện đại.
+  title: Azure Mobile Engagement
+  description: Azure Mobile Engagement tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5b91321c749556c0bd13b700b1c8a1806e2a9bb5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865921"
-name: Tương tác Azure Mobile
+name: Azure Mobile Engagement
 summary: >+
-  Azure Mobile Engagement tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Azure Mobile Engagement tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

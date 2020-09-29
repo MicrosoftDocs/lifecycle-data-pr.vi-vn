@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics NAV 2013 R2
-  description: Dynamics NAV 2013 R2 tuân theo chính sách vòng đời cố định.
+  description: Dynamics NAV 2013 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0a2fe60c0f3cd8cea6cd257ea6ffb1a0db100bd6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866225"
 name: Dynamics NAV 2013 R2
 summary: >+
-  Dynamics NAV 2013 R2 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics NAV 2013 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

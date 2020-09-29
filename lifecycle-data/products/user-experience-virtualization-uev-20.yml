@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Người dùng kinh nghiệm ảo (UE-V) 2,0
-  description: Người dùng kinh nghiệm ảo (UE-V) 2,0 tuân theo chính sách vòng đời cố định.
+  title: Ảo hoá Trải nghiệm Người dùng (UE-V) 2.0
+  description: Ảo hoá Trải nghiệm Người dùng (UE-V) 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3841751d17e2cfa1ffb201c687291390831cdb8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866287"
-name: Người dùng kinh nghiệm ảo (UE-V) 2,0
+name: Ảo hoá Trải nghiệm Người dùng (UE-V) 2.0
 summary: >+
-  Người dùng kinh nghiệm ảo (UE-V) 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Ảo hoá Trải nghiệm Người dùng (UE-V) 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

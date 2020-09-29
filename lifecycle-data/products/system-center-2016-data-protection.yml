@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trung tâm hệ thống 2016 bảo vệ dữ liệu
-  description: System Center 2016 bảo vệ dữ liệu tuân theo chính sách vòng đời cố định.
+  title: Trình Bảo vệ Dữ liệu Hệ thống Trung tâm 2016
+  description: Trình Bảo vệ Dữ liệu Hệ thống Trung tâm 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7b2a2ebb813f79280e3a37ee9346697f601538a4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866296"
-name: Trung tâm hệ thống 2016 bảo vệ dữ liệu
+name: Trình Bảo vệ Dữ liệu Hệ thống Trung tâm 2016
 summary: >+
-  System Center 2016 bảo vệ dữ liệu tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình Bảo vệ Dữ liệu Hệ thống Trung tâm 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/system-center/)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Sản phẩm](/system-center/)"

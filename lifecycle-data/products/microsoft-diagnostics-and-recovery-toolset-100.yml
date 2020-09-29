@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Chẩn đoán của Microsoft và khôi phục toolset 10,0
-  description: Microsoft Diagnostics và Recovery toolset 10,0 tuân theo chính sách vòng đời cố định.
+  title: Bộ công cụ Chẩn đoán và Phục hồi Microsoft 10.0
+  description: Bộ công cụ Chẩn đoán và Phục hồi Microsoft 10.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866009"
-name: Chẩn đoán của Microsoft và khôi phục toolset 10,0
+name: Bộ công cụ Chẩn đoán và Phục hồi Microsoft 10.0
 summary: >+
-  Microsoft Diagnostics và Recovery toolset 10,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ công cụ Chẩn đoán và Phục hồi Microsoft 10.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
