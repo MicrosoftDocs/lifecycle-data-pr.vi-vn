@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống Trung tâm 2016 Operations Manager
-  description: Trung tâm hệ thống 2016 Operations Manager tuân theo chính sách vòng đời cố định.
+  title: Trình quản lý Vận hành Hệ thống Trung tâm 2016
+  description: Trình quản lý Vận hành Hệ thống Trung tâm 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2425df9d07aa43c7141ac3a66f658f81a109b555
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866290"
-name: Hệ thống Trung tâm 2016 Operations Manager
+name: Trình quản lý Vận hành Hệ thống Trung tâm 2016
 summary: >+
-  Trung tâm hệ thống 2016 Operations Manager tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Vận hành Hệ thống Trung tâm 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

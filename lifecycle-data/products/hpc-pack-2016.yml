@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gói HPC 2016
-  description: HPC gói 2016 tuân theo chính sách vòng đời cố định.
+  title: HPC Pack 2016
+  description: HPC Pack 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866042"
-name: Gói HPC 2016
+name: HPC Pack 2016
 summary: >+
-  HPC gói 2016 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  HPC Pack 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

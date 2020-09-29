@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Azure StorSimple dòng 1200
-  description: Azure StorSimple 1200 series tuân theo chính sách vòng đời cố định.
+  title: Chuỗi Azure StorSimple 1200
+  description: Azure StorSimple 1200 Series tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "865877"
-name: Azure StorSimple dòng 1200
+name: Chuỗi Azure StorSimple 1200
 summary: >+
-  Azure StorSimple 1200 series tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Azure StorSimple 1200 Series tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

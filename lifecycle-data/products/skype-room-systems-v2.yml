@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype phòng hệ thống v2
-  description: Hệ thống phòng của Skype v2 tuân theo chính sách vòng đời hiện đại.
+  title: Hệ thống Skype Room v2
+  description: Hệ thống Skype Room v2 tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866261"
-name: Skype phòng hệ thống v2
+name: Hệ thống Skype Room v2
 summary: >+
-  Hệ thống phòng của Skype v2 tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Hệ thống Skype Room v2 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

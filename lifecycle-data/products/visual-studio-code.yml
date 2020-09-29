@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio mã
-  description: Visual Studio Code tuân theo chính sách vòng đời hiện đại.
+  title: Visual Studio Code
+  description: Visual Studio Code tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866259"
-name: Visual Studio mã
+name: Visual Studio Code
 summary: >+
-  Visual Studio Code tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Visual Studio Code tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

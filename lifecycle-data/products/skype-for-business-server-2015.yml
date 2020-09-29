@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype cho máy chủ doanh nghiệp 2015
-  description: Skype cho doanh nghiệp Server 2015 tuân theo chính sách vòng đời cố định.
+  title: Skype for Business Server 2015
+  description: Skype for Business Server 2015 tuân theo Chính Sách Vòng Đời Cố Định
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b1c68ef26edf881dfbdf73321010694f372dc10
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "866262"
-name: Skype cho máy chủ doanh nghiệp 2015
+name: Skype for Business Server 2015
 summary: >+
-  Skype cho doanh nghiệp Server 2015 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Skype for Business Server 2015 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
