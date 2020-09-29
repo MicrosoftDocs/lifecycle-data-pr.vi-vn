@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình quản lý cấu hình Trung tâm hệ thống Microsoft (LTSB-Phiên bản 1606)
-  description: Trình quản lý cấu hình Trung tâm hệ thống Microsoft (LTSB-Phiên bản 1606) sau chính sách vòng đời cố định.
+  title: Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft (LTSB - phiên bản 1606)
+  description: Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft (LTSB - phiên bản 1606) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/20/2020
   ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "906036"
-name: Trình quản lý cấu hình Trung tâm hệ thống Microsoft (LTSB-Phiên bản 1606)
+name: Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft (LTSB - phiên bản 1606)
 summary: >+
-  Trình quản lý cấu hình Trung tâm hệ thống Microsoft (LTSB-Phiên bản 1606) sau chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft (LTSB - phiên bản 1606) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/12/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Mối \n* [Dịch vụ và thông tin hỗ trợ](/sccm/core/understand/learn-more-editions)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ và hỗ trợ](/sccm/core/understand/learn-more-editions)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Trình xem báo cáo của Microsoft
-  description: Trình xem báo cáo của Microsoft tuân theo chính sách vòng đời hiện đại.
+  title: Microsoft Report Viewer
+  description: Microsoft Report Viewer tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905112"
-name: Trình xem báo cáo của Microsoft
+name: Microsoft Report Viewer
 summary: >+
-  Trình xem báo cáo của Microsoft tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Microsoft Report Viewer tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:

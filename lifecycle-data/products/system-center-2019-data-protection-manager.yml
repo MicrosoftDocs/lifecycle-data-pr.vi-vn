@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hệ thống Trung tâm quản lý bảo vệ dữ liệu 2019
-  description: Trung tâm hệ thống 2019 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời cố định.
+  title: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2019
+  description: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2019 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 32b0f510b582e9c918a5e47ca02792837028cc91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873233"
-name: Hệ thống Trung tâm quản lý bảo vệ dữ liệu 2019
+name: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2019
 summary: >+
-  Trung tâm hệ thống 2019 quản lý bảo vệ dữ liệu tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2019 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/14/2019
   endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/system-center/)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Sản phẩm](/system-center/)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Bộ công cụ phát triển phần mềm máy chủ Microsoft PlayReady '
-  description: Bộ công cụ phát triển phần mềm máy chủ Microsoft PlayReady tuân theo chính sách vòng đời cố định.
+  title: 'Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady '
+  description: Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908044"
-name: 'Bộ công cụ phát triển phần mềm máy chủ Microsoft PlayReady '
+name: 'Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady '
 summary: >+
-  Bộ công cụ phát triển phần mềm máy chủ Microsoft PlayReady tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

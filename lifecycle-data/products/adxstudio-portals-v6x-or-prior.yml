@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio Portals v6. x hoặc trước đó
-  description: Adxstudio Portals v6. x hoặc trước khi theo chính sách vòng đời cố định.
+  title: Adxstudio Portals v6.x hoặc trước đó
+  description: Adxstudio Portals v6.x hoặc trước đó tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924460"
-name: Adxstudio Portals v6. x hoặc trước đó
+name: Adxstudio Portals v6.x hoặc trước đó
 summary: >+
-  Adxstudio Portals v6. x hoặc trước khi theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Adxstudio Portals v6.x hoặc trước đó tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về vòng đời-thu mua](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Hỗ trợ cho sản phẩm này tuân theo các điều khoản của việc mua lại và đã kết thúc."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Tổng quan](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm và đã kết thúc."

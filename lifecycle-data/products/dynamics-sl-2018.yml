@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Động lực SL 2018
-  description: Dynamics SL 2018 tuân theo chính sách vòng đời cố định.
+  title: Dynamics SL 2018
+  description: Dynamics SL 2018 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: fc0bdf4ae2169693810562fae9e99475027e07d8
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873158"
-name: Động lực SL 2018
+name: Dynamics SL 2018
 summary: >+
-  Dynamics SL 2018 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics SL 2018 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

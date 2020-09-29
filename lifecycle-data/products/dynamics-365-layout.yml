@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bố trí Dynamics 365
-  description: Tính năng động lực 365 bố trí theo chính sách vòng đời hiện đại.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891865"
-name: Bố trí Dynamics 365
+name: Dynamics 365 Layout
 summary: >+
-  Tính năng động lực 365 bố trí theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Dynamics 365 Layout tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Mối \n* [Bố trí và hỗ trợ từ xa](/dynamics365/mixed-reality/layout/faq)\n* [Thông báo chuyển tiếp của bố trí 365 Dynamics](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Bố cục và Hỗ trợ Từ xa](/dynamics365/mixed-reality/layout/faq)\n* [Thông báo về quá trình chuyển đổi Bố trí trong Dynamics 365](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
