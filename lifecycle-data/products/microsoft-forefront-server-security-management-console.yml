@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bảng điều khiển quản lý bảo mật Microsoft Forefront Server
-  description: Bảng điều khiển quản lý bảo mật của Microsoft Forefront Server tuân theo chính sách vòng đời cố định.
+  title: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront
+  description: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846998"
-name: Bảng điều khiển quản lý bảo mật Microsoft Forefront Server
+name: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront
 summary: >+
-  Bảng điều khiển quản lý bảo mật của Microsoft Forefront Server tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

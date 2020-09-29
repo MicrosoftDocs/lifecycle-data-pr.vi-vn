@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ Windows Home
-  description: Windows Home Server tuân theo chính sách vòng đời cố định.
+  title: Windows Home Server
+  description: Windows Home Server tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7858655cfe6489b145f6ec8ef4d2d113c0a1e22b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846865"
-name: Máy chủ Windows Home
+name: Windows Home Server
 summary: >+
-  Windows Home Server tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows Home Server tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows CE .NET 4,2
-  description: Windows CE .NET 4,2 tuân thủ chính sách vòng đời cố định.
+  title: Windows CE .NET 4.2
+  description: Windows CE .NET 4.2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: dbd86942458df27fd56cf1b799feaff49c954e5d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846342"
-name: Windows CE .NET 4,2
+name: Windows CE .NET 4.2
 summary: >
-  Windows CE .NET 4,2 tuân thủ chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Windows CE .NET 4.2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
   > [!IMPORTANT]
 
-  > Hỗ trợ cho sản phẩm này đã kết thúc.
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
 - windows
 policyType: fixed

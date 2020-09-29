@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics CRM 3,0
-  description: Dynamics CRM 3,0 tuân theo chính sách vòng đời cố định.
+  title: Dynamics CRM 3.0
+  description: Dynamics CRM 3.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: c3ce2d0115f8129eb5f590a867fdef61ef896782
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847138"
-name: Dynamics CRM 3,0
+name: Dynamics CRM 3.0
 summary: >+
-  Dynamics CRM 3,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics CRM 3.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

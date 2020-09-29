@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Học Essentials v 1.5 với SCORM
-  description: Learning Essentials v 1.5 với SCORM tuân theo chính sách vòng đời thành phần.
+  title: Learning Essentials v1.5 với SCORM
+  description: Learning Essentials v1.5 với SCORM tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "847080"
-name: Học Essentials v 1.5 với SCORM
+name: Learning Essentials v1.5 với SCORM
 summary: >+
-  Learning Essentials v 1.5 với SCORM tuân theo chính sách vòng đời [thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) .
+  Learning Essentials v1.5 với SCORM tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

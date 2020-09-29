@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft tích hợp thiết kế 2,5
-  description: Microsoft tích hợp thiết kế 2,5 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Integration Designer 2.5
+  description: Microsoft Integration Designer 2.5 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846666"
-name: Microsoft tích hợp thiết kế 2,5
+name: Microsoft Integration Designer 2.5
 summary: >+
-  Microsoft tích hợp thiết kế 2,5 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Microsoft Integration Designer 2.5 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

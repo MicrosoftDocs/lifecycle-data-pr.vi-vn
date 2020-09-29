@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Động lực 2008
-  description: Dynamics C5 2008 tuân theo chính sách vòng đời cố định.
+  title: Dynamics C5 2008
+  description: Dynamics C5 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "846442"
-name: Động lực 2008
+name: Dynamics C5 2008
 summary: >+
-  Dynamics C5 2008 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics C5 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
