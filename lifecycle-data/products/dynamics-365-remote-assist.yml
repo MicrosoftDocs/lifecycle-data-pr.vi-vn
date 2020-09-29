@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hỗ trợ từ xa Dynamics 365
-  description: Dynamics 365 Remote Assist tuân theo chính sách vòng đời hiện đại.
+  title: Hỗ trợ Từ xa Dynamics 365
+  description: Hỗ trợ Từ xa Dynamics 365 tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: f515184c8d286e79842892235e7e48414438d758
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873170"
-name: Hỗ trợ từ xa Dynamics 365
+name: Hỗ trợ Từ xa Dynamics 365
 summary: >+
-  Dynamics 365 Remote Assist tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Hỗ trợ Từ xa Dynamics 365 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 09/30/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Bố cục và hỗ trợ từ xa](/dynamics365/mixed-reality/layout/faq)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Bố cục và Hỗ trợ Từ xa](/dynamics365/mixed-reality/layout/faq)"

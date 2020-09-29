@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Mobile Internet Toolkit 1,0
-  description: Microsoft Mobile Internet Toolkit 1,0 tuân theo chính sách vòng đời cố định.
+  title: Bộ công cụ Microsoft Mobile Internet 1.0
+  description: Bộ công cụ Microsoft Mobile Internet 1.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
   ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907239"
-name: Microsoft Mobile Internet Toolkit 1,0
+name: Bộ công cụ Microsoft Mobile Internet 1.0
 summary: >+
-  Microsoft Mobile Internet Toolkit 1,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ công cụ Microsoft Mobile Internet 1.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

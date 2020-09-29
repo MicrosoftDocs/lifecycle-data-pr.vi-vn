@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cổng thông tin doanh nghiệp của Microsoft Business
-  description: Cổng thông tin Business Solutions Microsoft tuân theo chính sách vòng đời cố định.
+  title: Cổng thông tin Doanh nghiệp Microsoft Business Solutions
+  description: Cổng thông tin Doanh nghiệp Microsoft Business Solutions tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/19/2020
   ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904668"
-name: Cổng thông tin doanh nghiệp của Microsoft Business
+name: Cổng thông tin Doanh nghiệp Microsoft Business Solutions
 summary: >+
-  Cổng thông tin Business Solutions Microsoft tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Cổng thông tin Doanh nghiệp Microsoft Business Solutions tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -30,4 +30,4 @@ releases:
 - version: Business Solutions Business Portal 1.2
   startDate: 07/18/2003
   endDate: 12/31/2004
-content: "\n\n> [!NOTE]\n> Cổng thông tin Business Solutions của Microsoft 2,5 chỉ được hỗ trợ khi sử dụng với Great Plains 8,0 hoặc Solomon 6,0."
+content: "\n\n> [!NOTE]\n> Cổng thông tin Doanh nghiệp Microsoft Business Solutions 2.5 chỉ được hỗ trợ khi sử dụng với Great Plains 8.0 hoặc Solomon 6.0."

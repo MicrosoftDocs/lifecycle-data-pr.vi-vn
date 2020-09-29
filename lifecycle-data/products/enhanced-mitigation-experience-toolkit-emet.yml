@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Bộ công cụ trải nghiệm giảm nhẹ nâng cao (EMET)
-  description: Bộ công cụ trải nghiệm giảm nhẹ nâng cao (EMET) tuân theo chính sách vòng đời cố định.
+  title: Bộ công cụ Trải nghiệm Bảo mật Nâng cao (EMET)
+  description: Bộ công cụ Enhanced Mitigation Experience (EMET) tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905343"
-name: Bộ công cụ trải nghiệm giảm nhẹ nâng cao (EMET)
+name: Bộ công cụ Trải nghiệm Bảo mật Nâng cao (EMET)
 summary: >+
-  Bộ công cụ trải nghiệm giảm nhẹ nâng cao (EMET) tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ công cụ Enhanced Mitigation Experience (EMET) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

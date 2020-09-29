@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Cổng thông tin ứng dụng thông minh cá voi
-  description: Cổng thông tin ứng dụng thông minh cá voi theo chính sách vòng đời cố định.
+  title: Cổng Ứng dụng Thông minh Whale Communications
+  description: Cổng Ứng dụng Thông minh Whale Communications tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
   ms.openlocfilehash: 4946cfbd0c53706853138bd707157a5c318b8dc6
   ms.sourcegitcommit: bc7fcda30191f92db77ed2e7f74d5816ac276a55
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907163"
-name: Cổng thông tin ứng dụng thông minh cá voi
+name: Cổng Ứng dụng Thông minh Whale Communications
 summary: >+
-  Cổng thông tin ứng dụng thông minh cá voi theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Cổng Ứng dụng Thông minh Whale Communications tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:

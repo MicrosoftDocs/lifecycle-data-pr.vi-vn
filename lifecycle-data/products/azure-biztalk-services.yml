@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dịch vụ Azure BizTalk
-  description: Azure BizTalk các dịch vụ sau chính sách vòng đời hiện đại.
+  description: Dịch vụ Azure BizTalk tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904659"
 name: Dịch vụ Azure BizTalk
 summary: >+
-  Azure BizTalk các dịch vụ sau chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Dịch vụ Azure BizTalk tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>Mối \n* [Hướng dẫn di chuyển](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://azure.microsoft.com/services/biztalk-services)"

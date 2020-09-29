@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics GP
-  description: Dynamics GP tuân theo chính sách vòng đời hiện đại.
+  description: Dynamics GP tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873157"
 name: Dynamics GP
 summary: >+
-  Dynamics GP tuân theo chính sách vòng đời [hiện đại](/lifecycle/policies/modern) .
+  Dynamics GP tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/07/2019
   endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Lộ trình Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [Thông tin dịch vụ](/dynamics-gp/terms/lifecycle)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Microsoft Dynamics 365 Roadmap](https://aka.ms/businessappsreleasenotes)\n* [Thông tin dịch vụ](/dynamics-gp/terms/lifecycle)"

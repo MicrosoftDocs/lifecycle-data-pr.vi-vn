@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Excel 2019 cho Mac
-  description: Excel 2019 cho Mac tuân theo chính sách vòng đời cố định.
+  title: Excel 2019 dành cho máy Mac
+  description: Excel 2019 cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4945b6b496565c5870184daf9fff71c99c1d8979
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "873163"
-name: Excel 2019 cho Mac
+name: Excel 2019 dành cho máy Mac
 summary: >+
-  Excel 2019 cho Mac tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Excel 2019 cho máy Mac tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).
 
 
 products:

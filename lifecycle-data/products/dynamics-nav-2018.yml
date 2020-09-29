@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2018 động lực học
-  description: 2018 Dynamics NAV theo chính sách vòng đời cố định.
+  title: Dynamics NAV 2018
+  description: Dynamics NAV 2018 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/12/2020
   ms.openlocfilehash: 489342ec129c87ad40c1d7e2579109dc4f4a8227
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891828"
-name: 2018 động lực học
+name: Dynamics NAV 2018
 summary: >+
-  2018 Dynamics NAV theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Dynamics NAV 2018 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
