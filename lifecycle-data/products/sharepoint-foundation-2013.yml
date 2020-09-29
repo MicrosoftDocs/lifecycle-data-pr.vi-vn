@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2013
-  description: SharePoint Foundation 2013 tuân theo chính sách vòng đời cố định.
+  description: SharePoint Foundation 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
   ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "941099"
 name: SharePoint Foundation 2013
 summary: >+
-  SharePoint Foundation 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  SharePoint Foundation 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu nhà phát triển 2013 Microsoft SharePoint Foundation](/sharepoint/dev)\n* [Tài liệu sản phẩm Microsoft SharePoint Foundation 2013](/sharepoint/sharepoint-server)"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Tài liệu dành cho nhà phát triển Microsoft SharePoint Foundation 2013](/sharepoint/dev)\n* [Tài liệu sản phẩm Microsoft SharePoint Foundation 2013](/sharepoint/sharepoint-server)"
