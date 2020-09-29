@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Hoạch định chính sách
-  description: Theo dõi chính sách sau vòng đời cố định.
+  title: PolicyMaker
+  description: PolicyMaker tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938062"
-name: Hoạch định chính sách
+name: PolicyMaker
 summary: >+
-  Theo dõi chính sách sau vòng đời [cố định](/lifecycle/policies/fixed) .
+  PolicyMaker tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: bảo mật ứng dụng, Outlook Edition, Professional 9,0, Registry Extension 2,0, chia sẻ trình quản lý 1,0, phần mềm Cập Nhật 1,0, phần mềm Cập Nhật 2,0, Standard 1,0, Standard 2,0
+  Bài viết này áp dụng với các phiên bản sau: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.\n\n## <a name=\"editions\"></a>Phiên bản \n* Bảo mật ứng dụng\n* Phiên bản Outlook\n* 9,0 chuyên nghiệp\n* Gia hạn đăng ký 2,0\n* Chia sẻ trình quản lý 1,0\n* Bản cập nhật phần mềm 1,0\n* Bản cập nhật phần mềm 2,0\n* 1,0 chuẩn\n* 2,0 chuẩn"
+content: "\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.\n\n## <a name=\"editions\"></a>Phiên bản \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"

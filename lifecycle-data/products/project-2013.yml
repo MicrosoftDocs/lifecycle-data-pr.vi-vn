@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dự án 2013
-  description: Project 2013 tuân theo chính sách vòng đời cố định.
+  title: Project 2013
+  description: Project 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: a0c7b1031c25aa1c64ea6ba3c0176ec83e4071b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "926481"
-name: Dự án 2013
+name: Project 2013
 summary: >+
-  Project 2013 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Project 2013 tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).
 
 
   Bài viết này áp dụng với các phiên bản sau: Professional, Standard

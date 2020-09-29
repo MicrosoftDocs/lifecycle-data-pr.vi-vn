@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office XP
-  description: Office XP tuân theo chính sách vòng đời cố định.
+  description: Office XP tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928812"
 name: Office XP
 summary: >+
-  Office XP tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Office XP tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: nhà phát triển, công cụ kiểm lỗi, tiêu chuẩn, cấu phần web
+  Bài viết này áp dụng với các phiên bản sau: Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Professional\n* Công cụ kiểm lỗi\n* Tiêu Chuẩn\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Professional\n* Proofing Tools\n* Tiêu Chuẩn\n* Web Components"

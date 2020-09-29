@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ bảo mật và gia tốc của Microsoft Internet 2004
-  description: Máy chủ Microsoft Internet Security và gia tốc 2004 tuân theo chính sách vòng đời cố định.
+  title: Microsoft Internet Security và Acceleration Server 2004
+  description: Microsoft Internet Security và Acceleration Server 2004 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933511"
-name: Máy chủ bảo mật và gia tốc của Microsoft Internet 2004
-summary: "Máy chủ Microsoft Internet Security và gia tốc 2004 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .\n\nBài viết này áp dụng với các phiên bản sau: Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
+name: Microsoft Internet Security và Acceleration Server 2004
+summary: "Microsoft Internet Security và Acceleration Server 2004 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
 - microsoft-servers
 policyType: fixed

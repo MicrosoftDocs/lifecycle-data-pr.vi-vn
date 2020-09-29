@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft BizTalk adapter 2,0
-  description: Microsoft BizTalk adapter 2,0 tuân theo chính sách vòng đời cố định.
+  title: Bộ điều hợp Microsoft BizTalk 2.0
+  description: Bộ điều hợp Microsoft BizTalk 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: for MSMQ,for mySAP Business Suite,for SAP
   ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: vi-VN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934769"
-name: Microsoft BizTalk adapter 2,0
+name: Bộ điều hợp Microsoft BizTalk 2.0
 summary: >+
-  Microsoft BizTalk adapter 2,0 tuân theo chính sách vòng đời [cố định](/lifecycle/policies/fixed) .
+  Bộ điều hợp Microsoft BizTalk 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau đây: đối với MSMQ, đối với bộ sản phẩm mySAP Business, cho SAP
+  Chính sách này áp dụng cho các phiên bản: cho MSMQ, cho mySAP Business Suite, cho SAP
 
 products:
 - microsoft-servers
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/20/2004
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Ngày bắt đầu cho Microsoft BizTalk adapter 2,0 cho SAP là 2 tháng 11, 2004. Ngày bắt đầu cho Microsoft BizTalk adapter cho MSMQ 2,0 là 10 tháng 12 2004\n\n## <a name=\"editions\"></a>Phiên bản \n* Đối với MSMQ\n* Đối với bộ ứng dụng mySAP Business\n* Đối với SAP"
+content: "\n\n> [!NOTE]\n> Ngày bắt đầu vòng Bộ điều hợp Microsoft BizTalk 2.0 cho SAP là ngày 02/11/2004. Ngày bắt đầu vòng đời Bộ điều hợp Microsoft BizTalk cho MSMQ 2.0 là ngày 10/12/2004\n\n## <a name=\"editions\"></a>Phiên bản \n* cho MSMQ\n* cho mySAP Business Suite\n* cho SAP"
