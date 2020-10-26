@@ -2,14 +2,14 @@
 metadata:
   title: Trình quản lý Cấu hình Điểm cuối Microsoft
   description: Trình quản lý Cấu hình Điểm cuối Microsoft tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 09/01/2020
+  ms.date: 10/20/2020
   keywords: SCCM,System Center Configuration Manager
-  ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 29a3f3b3dd93bb6a2f3d490d749d7f079c4fbbfd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934066"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162726"
 name: Trình quản lý Cấu hình Điểm cuối Microsoft
 summary: >
   Trình quản lý Cấu hình Điểm cuối Microsoft tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/modern).
@@ -24,6 +24,7 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 12/08/2015
+  end: 10/01/2021
 releases:
 - version: Version 2002
   startDate: 04/01/2020
