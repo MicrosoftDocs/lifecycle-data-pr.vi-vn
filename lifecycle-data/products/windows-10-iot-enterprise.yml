@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 IoT Enterprise
   description: Windows 10 IoT Enterprise tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 08/26/2020
-  ms.openlocfilehash: bf64867436379e937108f16080e401abba6ebca8
-  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.date: 10/15/2020
+  keywords: 
+  ms.openlocfilehash: 92955961c85f0b6d05f27a051706e2050006957d
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911242"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162800"
 name: Windows 10 IoT Enterprise
 summary: >
   Windows 10 IoT Enterprise tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -25,6 +26,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/09/2023
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -55,4 +59,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê."

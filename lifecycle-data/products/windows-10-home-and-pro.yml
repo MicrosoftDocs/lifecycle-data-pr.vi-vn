@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Home và Pro
   description: Windows 10 Home và Pro tuân thủ Chính sách Vòng đời Hiện đại.
-  ms.date: 09/22/2020
+  ms.date: 10/09/2020
   keywords: 
-  ms.openlocfilehash: afe3de560cc371fc307d5e1e7f831e301c3ce99f
-  ms.sourcegitcommit: 528043c09bc83880f3c1dcc3f976c4241e9ec4b7
+  ms.openlocfilehash: 095634809dda7456b4aa5cae512bbfef43253f87
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/22/2020
-  ms.locfileid: "1026908"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162504"
 name: Windows 10 Home và Pro
 summary: >
   Windows 10 Home và Pro tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -28,6 +28,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/10/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -58,4 +61,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation được phát hành lần đầu tiên với Phiên bản 1709.\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê.\n\n## <a name=\"editions\"></a>Phiên bản \n* Home\n* Pro\n* Pro Education\n* Pro cho Workstations"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation được phát hành lần đầu tiên với Phiên bản 1709.\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê.\n\n## <a name=\"editions\"></a>Phiên bản \n* Home\n* Pro\n* Pro Education\n* Pro cho Workstations"
