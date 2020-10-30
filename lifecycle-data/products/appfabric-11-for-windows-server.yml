@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: AppFabric 1.1 cho Windows Server
+  description: AppFabric 1.1 cho Windows Server tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 10/23/2020
+  keywords: 
+  ms.openlocfilehash: 4c3a099590b2e52a1e7dc039dc2dd8378012f473
+  ms.sourcegitcommit: d8b1db284677f98b7bec16144811251ac9a84958
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 10/24/2020
+  ms.locfileid: "1186518"
+name: AppFabric 1.1 cho Windows Server
+summary: >+
+  AppFabric 1.1 cho Windows Server tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/11/2012
+  end: 04/11/2017
+  extendedEnd: 04/12/2022
+releases:
+- version: Original Release
+  startDate: 02/11/2012
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Mở rộng Vòng đời](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)\n\n> [!NOTE]\n> Hỗ trợ dành cho AppFabric 1.1 cho Windows Server sẽ kết thúc vào ngày được chỉ định trừ khi phần mềm được phân phối như là một cấu phần của SharePoint Server 2013, 2016 và 2019. Các cấu phần được hỗ trợ tương tự như nền tảng hoặc sản phẩm gốc của cấu phần đó."

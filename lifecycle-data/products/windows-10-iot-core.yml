@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983733"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158132"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft sẽ tiếp tục hỗ trợ ít nhất một kênh nửa năm Windows 10 cho đến ngày 14/10/2025.
+  > Sản phẩm này đã ngưng hoạt động vào ngày 10/11/2020. Để được duy trì hỗ trợ, vui lòng chuyển sang Dịch vụ IoT Core.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Sản phẩm](/windows/iot-core/windows-iot-core)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê."
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Bảng dữ kiện vòng đời của Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)"

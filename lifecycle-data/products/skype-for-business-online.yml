@@ -2,13 +2,14 @@
 metadata:
   title: Skype for Business Online
   description: Skype for Business Online tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866263"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162208"
 name: Skype for Business Online
 summary: >
   Skype for Business Online tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Dịch vụ này sẽ ngừng vào ngày 31/7/2021. Xem bên dưới để biết hướng dẫn di chuyển.
+  > Dịch vụ này sẽ ngừng vào ngày 31/7/2021. Xem bên dưới để biết hướng dẫn di chuyển. Truy cập vào [đây](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) để tìm hiểu về tác động đối với việc triển khai Hybrid Voice.
 products:
 - office
 policyType: modern-online
