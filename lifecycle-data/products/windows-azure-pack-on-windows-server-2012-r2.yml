@@ -15,7 +15,7 @@ summary: >+
   Windows Azure Pack (trên Windows Server 2012 R2) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Windows Server 2012 R2
+  Chính sách này áp dụng cho các phiên bản: trên Windows Server 2012 R2
 
 products:
 - windows

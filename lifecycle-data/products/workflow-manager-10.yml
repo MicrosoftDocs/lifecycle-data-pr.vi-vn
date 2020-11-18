@@ -15,7 +15,7 @@ summary: >+
   Workflow Manager 1.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng với các phiên bản sau: Client, Standard
+  Chính sách này áp dụng với các phiên bản: Client, Standard
 
 products:
 - vs
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ SharePoint 2016 ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Thông tin dịch vụ SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Khi Workflow Manager là một phần của SharePoint Server 2016 hoặc SharePoint Server 2013 thì sẽ được hỗ trợ theo ngày kết thúc hỗ trợ của phiên bản SharePoint Server tương ứng.\n\n## <a name=\"editions\"></a>Phiên bản \n* Máy khách\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ SharePoint 2016 ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [Thông tin dịch vụ SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Khi Workflow Manager là một phần của SharePoint Server 2016 hoặc SharePoint Server 2013 thì sẽ được hỗ trợ theo ngày kết thúc hỗ trợ của phiên bản SharePoint Server tương ứng.\n\n## <a name=\"editions\"></a>Phiên bản \n* Client\n* Standard"
