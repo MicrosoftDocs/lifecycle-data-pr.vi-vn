@@ -15,7 +15,7 @@ summary: >+
   SQL Server 2014 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
+  Chính sách này áp dụng cho các phiên bản: Business Intelligence, Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/05/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Tiêu Chuẩn\n* Web"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Business Intelligence\n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

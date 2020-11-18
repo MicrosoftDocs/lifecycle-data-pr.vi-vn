@@ -15,7 +15,7 @@ summary: >
   Windows Mobile 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản sau: Cho Pocket PC, cho Điện thoại Thông minh, Phần mềm Phiên bản thứ 2 cho Pocket PC Phone, Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh
+  Chính sách này áp dụng cho các phiên bản: cho Pocket PC, cho Smartphones, Phần mềm Phiên bản thứ 2 cho Pocket PC Phone, Phần mềm Phiên bản thứ 2 cho Smartphones
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Điện thoại Thông minh\n* Phần mềm Phiên bản thứ 2 cho Pocket PC Phone\n* Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Smartphones\n* Phần mềm Phiên bản thứ 2 cho Pocket PC Phone\n* Phần mềm Phiên bản thứ 2 cho Smartphones"

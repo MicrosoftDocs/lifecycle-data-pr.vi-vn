@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001893"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản sau: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
+summary: "Microsoft Host Integration Server 2004 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Enterprise\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Enterprise\n* Standard"

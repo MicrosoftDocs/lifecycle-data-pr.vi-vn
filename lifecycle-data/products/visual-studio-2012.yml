@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Agents, Community 2013, Express cho Web, Express cho Windows 8, Express cho Windows Desktop, IntelliTrace Collector, Công cụ của Microsoft Azure, Premium, Professional, Công cụ Từ xa, Shell (Tích hợp), Shell (Độc lập), Công cụ Dữ liệu SQL Server, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Chính sách này áp dụng với cho các phiên bản: Agents, Community 2013, Express cho Web, Express cho Windows 8, Express cho Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Tích hợp), Shell (Độc lập), SQL Server Data Tool, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Vòng đời và Dịch vụ của Visual Studio Product](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Community 2013\n* Express cho Web\n* Express cho Windows 8\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Công cụ của Microsoft Azure\n* Premium\n* Professional\n* Công cụ Từ xa\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Công cụ Dữ liệu SQL Server\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Vòng đời và Dịch vụ của Visual Studio Product](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Community 2013\n* Express cho Web\n* Express cho Windows 8\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

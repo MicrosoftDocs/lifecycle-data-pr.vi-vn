@@ -15,7 +15,7 @@ summary: >+
   Cloud Platform System tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
+  Chính sách này áp dụng cho các phiên bản: Standard
 
 products:
 - azure
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Hỗ trợ cho Cloud Platform System được mở rộng như hiển thị để cung cấp cho tất cả khách hàng với dòng thời gian chuyển đổi vòng đời tiêu chuẩn.\n> [!NOTE]\n> Cloud Platform System Standard đã ra mắt vào ngày 18/9/2017.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
+content: "\n\n> [!NOTE]\n> Hỗ trợ cho Cloud Platform System được mở rộng như hiển thị để cung cấp cho tất cả khách hàng với dòng thời gian chuyển đổi vòng đời tiêu chuẩn.\n> [!NOTE]\n> Cloud Platform System Standard đã ra mắt vào ngày 18/9/2017.\n\n## <a name=\"editions\"></a>Phiên bản \n* Standard"

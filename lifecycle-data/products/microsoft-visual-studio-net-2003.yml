@@ -15,7 +15,7 @@ summary: >+
   Microsoft Visual Studio .NET 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng với các phiên bản: Enterprise Architect, Enterprise Developer, J#, Professional, Standard
+  Chính sách này áp dụng cho các phiên bản: Enterprise Architect, Enterprise Developer, J#, Professional, Standard
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional\n* Standard"

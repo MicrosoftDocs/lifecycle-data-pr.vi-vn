@@ -15,7 +15,7 @@ summary: >+
   Windows Storage Server 2008 Embedded tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: 32 Bit, 64 Bit, Cơ bản, Cơ bản 32-Bit, Enterprise, Tiêu chuẩn, Workgroup
+  Chính sách này áp dụng cho các phiên bản: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Sản phẩm này đã hết thời gian được hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 Bit\n* 64 Bit\n* Basic\n* Cơ bản 32-Bit:\n* Enterprise\n* Tiêu Chuẩn\n* Nhóm làm việc"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Sản phẩm này đã hết thời gian được hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

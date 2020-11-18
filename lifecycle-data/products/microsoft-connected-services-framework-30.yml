@@ -15,7 +15,7 @@ summary: >+
   Microsoft Connected Services Framework 3.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Thanh toán với Standard Business Event, Xử lý Đơn hàng với Standard Business Event, Máy chủ, Tiêu chuẩn, Máy chủ Tiêu chuẩn với Standard Business Event
+  Chính sách này áp dụng với các phiên bản: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server với Standard Business Events
 
 products:
 - connected-services-framework
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Thanh toán với Standard Business Event\n* Xử lý Đơn hàng với Standard Business Event\n* Máy chủ\n* Tiêu Chuẩn\n* Máy chủ Tiêu chuẩn với Standard Business Event"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server với Standard Business Events"

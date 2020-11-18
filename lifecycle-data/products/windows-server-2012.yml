@@ -15,7 +15,7 @@ summary: >+
   Windows Server 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Datacenter, Essentials, External Connector, cho Hệ thống Nhúng, Foundation, Tiêu chuẩn
+  Chính sách này áp dụng cho các phiên bản: Datacenter, Essentials, External Connector, cho Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n* [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 02/01/2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* External Connector\n* cho Hệ thống Nhúng\n* Foundation\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n* [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 02/01/2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* External Connector\n* cho Embedded Systems\n* Foundation\n* Standard"

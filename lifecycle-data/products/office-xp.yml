@@ -15,7 +15,7 @@ summary: >+
   Office XP tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Developer, Professional, Proofing Tools, Standard, Web Components
+  Chính sách này áp dụng cho các phiên bản: Developer, Professional, Proofing Tools, Standard, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Professional\n* Proofing Tools\n* Tiêu Chuẩn\n* Web Components"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Professional\n* Proofing Tools\n* Standard\n* Web Components"

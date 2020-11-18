@@ -15,7 +15,7 @@ summary: >
   Microsoft Application Virtualization 4.5  tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản: Dịch vụ Đầu cuối, Máy tính để bàn chạy Windows
+  Chính sách này áp dụng cho các phiên bản: cho Terminal Services, cho Windows Desktops
 
 
   > [!IMPORTANT]
@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4.6 sử dụng App-V 4.5 Server nên App-V 4.5 Server sẽ tiếp tục được hỗ trợ theo ngày vòng đời của App-V 4.6 khi được sử dụng với App-V 4.6 client được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Dịch vụ Đầu cuối\n* cho Windows Desktops"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4.6 sử dụng App-V 4.5 Server nên App-V 4.5 Server sẽ tiếp tục được hỗ trợ theo ngày vòng đời của App-V 4.6 khi được sử dụng với App-V 4.6 client được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Terminal Services\n* cho Windows Desktops"
