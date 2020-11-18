@@ -15,7 +15,7 @@ summary: >+
   Microsoft SQL Server 2008 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Datacenter, Developer, Enterprise, Express, Express với Dịch vụ Nâng cao, cho Hệ thống Nhúng, Tiêu Chuẩn, Phiên bản Tiêu chuẩn cho Doanh nghiệp Nhỏ, Web, Nhóm làm việc
+  Chính sách này áp dụng cho các phiên bản: Datacenter, Developer, Enterprise, Express, Express với Dịch vụ Nâng cao, cho Embedded Systems, Standard, Standard Edition cho Small Business, Web, Workgroup
 
 products:
 - sql-server
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [SQL Server kết thúc các tùy chọn hỗ trợ](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 và Windows Server 2008 kết thúc các tùy chọn hỗ trợ](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Chương trình Cập nhật Bảo mật Mở rộng (ESU) sẵn có cho phiên bản Datacenter, Standard, Enterprise và Embedded của sản phẩm này. Các bản cập nhật sẽ kéo dài thêm ba năm kể từ khi kết thúc dịch vụ hỗ trợ.\n> [!NOTE]\n> Chỉ đối với IA64, SP2 sẽ được hỗ trợ cho đến ngày 09/7/2019. Xem Blog Dịch vụ Phát hành SQL để biết thêm thông tin.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express với Dịch vụ Nâng cao\n* cho Hệ thống Nhúng\n* Tiêu Chuẩn\n* Phiên bản Tiêu Chuẩn cho Doanh nghiệp Nhỏ\n* Web\n* Nhóm làm việc"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [SQL Server kết thúc các tùy chọn hỗ trợ](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 và Windows Server 2008 kết thúc các tùy chọn hỗ trợ](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Chương trình Cập nhật Bảo mật Mở rộng (ESU) sẵn có cho phiên bản Datacenter, Standard, Enterprise và Embedded của sản phẩm này. Các bản cập nhật sẽ kéo dài thêm ba năm kể từ khi kết thúc dịch vụ hỗ trợ.\n> [!NOTE]\n> Chỉ đối với IA64, SP2 sẽ được hỗ trợ cho đến ngày 09/7/2019. Xem Blog Dịch vụ Phát hành SQL để biết thêm thông tin.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express với Dịch vụ Nâng cao\n* cho Embedded Systems\n* Standard\n* Standard Edition cho Small Business\n* Web\n* Workgroup"

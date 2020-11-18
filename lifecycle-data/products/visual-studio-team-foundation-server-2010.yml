@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản sau: Tất cả các phiên bản có thể áp dụng, Bộ kết nối Bên ngoài
+  Chính sách này áp dụng cho các phiên bản: Tất cả phiên bản áp dụng,  External Connector
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* All applicable\n* Bộ kết nối Bên ngoài"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản áp dụng\n* External Connector"

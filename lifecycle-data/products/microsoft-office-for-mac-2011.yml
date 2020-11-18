@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office cho Mac 2011 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Academic, Home và Business, Home và Business Home Use Program, Home và Student, Standard
+  Chính sách này áp dụng cho các phiên bản: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Home và Business\n* Chương trình Sử dụng Home và Business\n* Home and Student\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Hỗ trợ chính cho Microsoft Office cho Mac 2011 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

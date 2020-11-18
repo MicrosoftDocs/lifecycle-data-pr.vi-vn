@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Tích hợp), Shell (Độc lập), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Chính sách này áp dụng cho các phiên bản: Agents, Tất cả phiên bản, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Tích hợp), Shell (Độc lập), Team Agents, Team Explorer, Test Professional, Tools cho Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* All\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Công cụ cho Office System 4.0 Runtime\n* Ultimate\n* Ultimate với MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Tất cả phiên bản\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* Remote Debugger\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools cho Office System 4.0 Runtime\n* Ultimate\n* Ultimate với MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

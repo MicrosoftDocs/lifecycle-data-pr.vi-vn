@@ -15,7 +15,7 @@ summary: >+
   Microsoft Application Virtualization 5.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Điều này áp dụng cho các phiên bản sau: cho Dịch vụ Máy tính Từ xa, Dịch vụ Đầu cuối, Máy tính chạy Windows
+  Chính sách này áp dụng cho các phiên bản: cho Remote Desktop Services, cho Terminal Services, cho Windows Desktops
 
 products:
 - windows
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Remote Desktop Services\n* cho Dịch vụ Đầu cuối\n* cho Windows Desktops"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Remote Desktop Services\n* cho Terminal Services\n* cho Windows Desktops"

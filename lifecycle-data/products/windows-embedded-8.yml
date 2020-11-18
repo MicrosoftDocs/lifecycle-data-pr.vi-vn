@@ -15,7 +15,7 @@ summary: >+
   Windows Embedded 8 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Pro, Tiêu chuẩn
+  Chính sách này áp dụng cho các phiên bản: Pro, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Khách hàng cần chuyển đổi sang Windows Emdedded 8.1 để tiếp tục nhận được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* Pro\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Windows Embedded 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> Khách hàng cần chuyển đổi sang Windows Emdedded 8.1 để tiếp tục nhận được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* Pro\n* Standard"

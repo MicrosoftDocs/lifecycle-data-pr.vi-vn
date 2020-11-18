@@ -15,7 +15,7 @@ summary: >+
   Microsoft Office 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Basic, Professional, Professional Enterprise, Small Business, Standard, Student và Teacher, Web Components
+  Chính sách này áp dụng cho các phiên bản: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
 
 products:
 - office
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Tiêu Chuẩn\n* Student và Teacher\n* Web Components"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student and Teacher\n* Web Components"

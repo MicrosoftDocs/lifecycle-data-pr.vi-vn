@@ -15,7 +15,7 @@ summary: >
   Windows Storage Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Cơ bản, Cơ bản 32-bit, Cơ bản 64-bit, Cơ bản Nhúng, Cơ bản Nhúng 32-bit, Enterprise, Enterprise Nhúng, Tiêu chuẩn, Tiêu chuẩn Nhúng, Workgroup
+  Chính sách này áp dụng cho các phiên bản: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Cơ bản 32-Bit:\n* Cơ bản 64-bit\n* Cơ bản Nhúng\n* Cơ bản Nhúng 32-bit\n* Enterprise\n* Enterprise nhúng\n* Tiêu Chuẩn\n* Tiêu chuẩn Nhúng\n* Nhóm làm việc"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"

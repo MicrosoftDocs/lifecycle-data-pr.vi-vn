@@ -15,7 +15,7 @@ summary: >
   Windows XP tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Home, Professional, Professional cho Hệ thống Nhúng, Professional x64, Starter
+  Chính sách này áp dụng cho các phiên bản: Home, Professional, Professional cho Embedded Systems, Professional x64, Starter
 
 
   > [!IMPORTANT]
@@ -44,4 +44,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ngày bắt đầu vòng đời của Microsoft Windows XP Professional x64 Edition là ngày 24/4/2005.\n\n## <a name=\"editions\"></a>Phiên bản \n* Home\n* Professional\n* Professional cho Hệ thống Nhúng\n* Professional x64\n* Starter"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Ngày bắt đầu vòng đời của Microsoft Windows XP Professional x64 Edition là ngày 24/4/2005.\n\n## <a name=\"editions\"></a>Phiên bản \n* Home\n* Professional\n* Professional cho Embedded Systems\n* Professional x64\n* Starter"

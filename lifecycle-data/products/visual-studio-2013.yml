@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Bài viết này áp dụng với các phiên bản sau: Agents, All, Community, Express cho Web, Express cho Windows, Express cho Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
+  Chính sách này áp dụng với các phiên bản: Agents, Tất cả phiên bản, Community, Express cho Web, Express cho Windows, Express cho Windows Desktop, IntelliTrace Collector, Modeling SDK, Multibyte MFC Library, Premium, Professional, Release Management, Remote Tools, SDK, Shell (Tích hợp), Shell (Độc lập), Team Explorer, Test Professional, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* All\n* Community\n* Express cho Web\n* Express cho Windows\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Công cụ Từ xa\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Agents\n* Tất cả phiên bản\n* Community\n* Express cho Web\n* Express cho Windows\n* Express cho Windows Desktop\n* IntelliTrace Collector\n* Modeling SDK\n* Multibyte MFC Library\n* Premium\n* Professional\n* Release Management\n* Remote Tools\n* SDK\n* Shell (Tích hợp)\n* Shell (Độc lập)\n* Team Explorer\n* Test Professional\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"
