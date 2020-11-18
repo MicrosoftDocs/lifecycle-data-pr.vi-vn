@@ -15,7 +15,7 @@ summary: >+
   Windows MultiPoint Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản sau: Academic, Standard
+  Chính sách này áp dụng cho các phiên bản: Academic, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Hướng dẫn chuyển đổi bổ sung](/windows-server/get-started/installation-and-upgrade)\n* [Thông tin sản phẩm](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Tiêu Chuẩn"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Hướng dẫn chuyển đổi bổ sung](/windows-server/get-started/installation-and-upgrade)\n* [Thông tin sản phẩm](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Standard"
