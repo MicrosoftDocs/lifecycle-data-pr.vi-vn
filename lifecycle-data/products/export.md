@@ -1,25 +1,25 @@
 ---
 title: Xuất dữ liệu vòng đời sản phẩm
 description: Xuất dữ liệu về thông tin vòng đời sản phẩm
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335907"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367586"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="90c52-103">Xuất dữ liệu vòng đời sản phẩm</span><span class="sxs-lookup"><span data-stu-id="90c52-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="c0e6b-103">Xuất dữ liệu vòng đời sản phẩm</span><span class="sxs-lookup"><span data-stu-id="c0e6b-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="90c52-104">Xuất dữ liệu toàn bộ sản phẩm</span><span class="sxs-lookup"><span data-stu-id="90c52-104">Export all products</span></span>
-<span data-ttu-id="90c52-105">Xuất dữ liệu vòng đời của tất cả sản phẩm bằng cách nhấp vào bên dưới:</span><span class="sxs-lookup"><span data-stu-id="90c52-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="c0e6b-104">Xuất dữ liệu toàn bộ sản phẩm</span><span class="sxs-lookup"><span data-stu-id="c0e6b-104">Export all products</span></span>
+<span data-ttu-id="c0e6b-105">Xuất dữ liệu vòng đời của tất cả sản phẩm bằng cách nhấp vào bên dưới:</span><span class="sxs-lookup"><span data-stu-id="c0e6b-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="90c52-106">Xuất dữ liệu toàn bộ sản phẩm</span><span class="sxs-lookup"><span data-stu-id="90c52-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="c0e6b-106">Xuất dữ liệu toàn bộ sản phẩm</span><span class="sxs-lookup"><span data-stu-id="c0e6b-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="90c52-107">Xuất dữ liệu sản phẩm theo Nhánh và Nhóm</span><span class="sxs-lookup"><span data-stu-id="90c52-107">Export products by Family and Group</span></span>
-<span data-ttu-id="90c52-108">Chọn một Nhánh và sau đó là một Nhóm sản phẩm để xuất dữ liệu.</span><span class="sxs-lookup"><span data-stu-id="90c52-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="90c52-109">Lưu ý: Quá trình xuất dữ liệu sẽ bắt đầu khi chọn giá trị Nhóm.</span><span class="sxs-lookup"><span data-stu-id="90c52-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="c0e6b-107">Xuất dữ liệu sản phẩm theo Nhánh và Nhóm</span><span class="sxs-lookup"><span data-stu-id="c0e6b-107">Export products by Family and Group</span></span>
+<span data-ttu-id="c0e6b-108">Chọn một Nhánh và sau đó là một Nhóm sản phẩm để xuất dữ liệu.</span><span class="sxs-lookup"><span data-stu-id="c0e6b-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="c0e6b-109">Lưu ý: Quá trình xuất dữ liệu sẽ bắt đầu khi chọn giá trị Nhóm.</span><span class="sxs-lookup"><span data-stu-id="c0e6b-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="Nhánh" title2="Nhóm"]
 > - [(.NET | Tất cả)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335907"
 > - [(Windows | Bảo mật)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [(Windows | Server)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="90c52-170">Xuất sản phẩm vào cuối ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="90c52-170">Export products by end of support date</span></span>
-<span data-ttu-id="90c52-171">Chọn một năm để xem sản phẩm kết thúc hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="90c52-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="90c52-172">Lưu ý: Xuất sẽ bắt đầu khi giá trị Năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="90c52-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="c0e6b-170">Xuất sản phẩm vào cuối ngày hỗ trợ</span><span class="sxs-lookup"><span data-stu-id="c0e6b-170">Export products by end of support date</span></span>
+<span data-ttu-id="c0e6b-171">Chọn một năm để xem sản phẩm kết thúc hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="c0e6b-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="c0e6b-172">Lưu ý: Xuất sẽ bắt đầu khi giá trị Năm được chọn.</span><span class="sxs-lookup"><span data-stu-id="c0e6b-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [12 Tháng Tiếp theo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [6 Tháng Tiếp theo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
