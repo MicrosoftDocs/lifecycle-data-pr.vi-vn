@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure Virtual Machine (classic) (xác nhận với Azure trước khi đưa ra thông báo - không có ngày kết thúc trên lịch)
-  description: Microsoft Azure Virtual Machine (classic)  (xác nhận với Azure trước khi đưa ra thông báo - không có ngày kết thúc trên lịch) tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Máy ảo Microsoft Azure (classic)
+  description: Máy Ảo Microsoft Azure (classic) tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866202"
-name: Microsoft Azure Virtual Machine (classic) (xác nhận với Azure trước khi đưa ra thông báo - không có ngày kết thúc trên lịch)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416338"
+name: Máy ảo Microsoft Azure (classic)
 summary: >+
-  Microsoft Azure Virtual Machine (classic) (xác nhận với Azure trước khi đưa ra thông báo - không có ngày kết thúc trên lịch) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+  Máy Ảo Microsoft Azure (classic) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
