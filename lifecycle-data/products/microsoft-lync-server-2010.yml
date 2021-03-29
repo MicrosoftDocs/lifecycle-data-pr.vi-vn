@@ -2,14 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2010
   description: Microsoft Lync Server 2010 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/01/2020
-  keywords: Enterprise,Group Chat Software Development Kit,SDK,Standard
-  ms.openlocfilehash: 9095849697c158ed1ff78a7a1bdd940cbfc8170f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 03/22/2021
+  keywords: 
+  ms.openlocfilehash: 754de7798ae8bf2ddd76952bf1a7c2634e68f06a
+  ms.sourcegitcommit: 9b7056d33d458209e428510e4c1408f5e968f322
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936952"
+  ms.lasthandoff: 03/22/2021
+  ms.locfileid: "1486095"
 name: Microsoft Lync Server 2010
 summary: >+
   Microsoft Lync Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -22,10 +22,10 @@ products:
 policyType: fixed
 supportDates:
   start: 01/25/2011
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
 releases:
 - version: Original Release
   startDate: 01/25/2011
-  endDate: 04/11/2023
+  endDate: 04/13/2021
 content: "\n## <a name=\"links\"></a>Liên kết \n* [Lync Phiên bản Điện thoại](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Phiên bản Lync Phone được hỗ trợ với Lync Server 2010 và Lync Server 2013. Ngày hỗ trợ cho phiên bản Lync Phone đã được kéo dài 2 năm để phù hợp với vòng đời Lync Server 2013.\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Bộ Công cụ Phát triển Phần mềm Trò chuyện Nhóm\n* SDK\n* Tiêu Chuẩn"
