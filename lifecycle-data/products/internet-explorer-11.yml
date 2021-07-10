@@ -2,17 +2,25 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 tuân theo Chính sách Vòng đời Thành phần.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 62c563784a27bf046f85b65ff75c31ec969d0bb6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 05/18/2021
+  keywords: 
+  ms.openlocfilehash: e8c2c3268966c81d4dd08589587bd41da21148c2
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893669"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029528"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > Xin lưu ý rằng ứng dụng Internet Explorer (IE) 11 dành cho máy tính để bàn sẽ ngừng hỗ trợ cho một số hệ điều hành nhất định kể từ ngày 15/6/2022. Khách hàng được khuyến khích chuyển sang Microsoft Edge với chế độ IE. Chế độ IE cho phép tương thích ngược và sẽ được hỗ trợ ít nhất đến năm 2029. Ngoài ra, Microsoft sẽ đưa ra thông báo một năm trước khi ngừng sử dụng chế độ IE. Truy cập vào [đây](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-) để biết danh sách các hệ điều hành được hỗ trợ cho Internet Explorer, bao gồm cả các phiên bản bị ảnh hưởng bởi thông báo này.
 
 products:
 - internet-explorer
@@ -22,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/itpro/microsoft-edge)\n* [Câu hỏi thường gặp về Chính sách Vòng đời của Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Kể từ ngày 12/01/2016, chỉ phiên bản Internet Explorer mới nhất trên một hệ điều hành được hỗ trợ mới nhận được hỗ trợ kỹ thuật và các bản cập nhật bảo mật."
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/itpro/microsoft-edge)\n* [Câu hỏi Thường gặp về vòng đời sản phẩm Internet Explorer & Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Hệ điều hành hỗ trợ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> Một số phiên bản của Internet Explorer có thể được hỗ trợ sau ngày kết thúc hỗ trợ Hệ điều hành Windows mới nhất khi có Bản cập nhật Bảo mật Mở rộng (ESU). Truy cập [vào đây](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) để xem danh sách các sản phẩm được hỗ trợ ESU."
