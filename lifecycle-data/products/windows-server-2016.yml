@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2016
   description: Windows Server 2016 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,MultiPoint Premium,Standard
-  ms.openlocfilehash: 17206dccdf2844a2daa1e1326679b812dd9f55eb
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939394"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255266"
 name: Windows Server 2016
 summary: >+
   Windows Server 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
+
   Bài viết này áp dụng với các phiên bản sau: Datacenter, Essentials, MultiPoint Premium, Standard
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows-server/get-started/server-basics)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Tiêu Chuẩn"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/windows-server/get-started/server-basics)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Vòng đời hoạt động của Windows container base image](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Các Bộ chứa được phát hành cùng với Windows Server 2016 sẽ tuân theo ngày cùng với vòng đời sản phẩm Window Server 2016.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Tiêu Chuẩn"

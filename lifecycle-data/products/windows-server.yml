@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: Windows Server tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162356"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255192"
 name: Windows Server
 summary: >+
   Windows Server tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
+
   Bài viết này áp dụng với các phiên bản sau: Datacenter, Standard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Kênh dịch vụ Windows Server: LTSC và SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server, phiên bản 1809 được phát hành lại vào ngày 13/11/2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Tiêu Chuẩn"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Vòng đời hoạt động của Windows container base image](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Kênh dịch vụ Windows Server: LTSC và SAC](/windows-server/get-started-19/servicing-channels-19)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> Các Bộ chứa được phát hành cùng với các phiên bản Windows Server được liệt kê ở trên sẽ theo ngày cùng với vòng đời sản phẩm của các phiên bản Window Server. Điều hướng đến trang dịch vụ base image tại [Vòng đời sản phẩm Windows container base image](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) để biết thêm chi tiết.\n> [!NOTE]\n> Windows Server, phiên bản 1809 được phát hành lại vào ngày 13/11/2018. Ngày hỗ trợ đã được điều chỉnh cho phù hợp.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Tiêu Chuẩn"
