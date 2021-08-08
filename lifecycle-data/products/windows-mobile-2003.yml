@@ -4,18 +4,18 @@ metadata:
   description: Windows Mobile 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: for Pocket PC,for Smartphones,Second Edition software for Pocket PC Phone,Second Edition software for Smartphone
-  ms.openlocfilehash: c52bd0f85c680da23bee4cb5e6ae669a53c1038c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 7d7a86e29b2495fd19423f48166f023430bc728c36d921604a5980c5bfabaff8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002115"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2483806"
 name: Windows Mobile 2003
 summary: >
   Windows Mobile 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: cho Pocket PC, cho Smartphones, Phần mềm Phiên bản thứ 2 cho Pocket PC Phone, Phần mềm Phiên bản thứ 2 cho Smartphones
+  Chính sách này áp dụng cho các phiên bản sau: Cho Pocket PC, cho Điện thoại Thông minh, Phần mềm Phiên bản thứ 2 cho Pocket PC Phone, Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh
 
 
   > [!IMPORTANT]
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Smartphones\n* Phần mềm Phiên bản thứ 2 cho Pocket PC Phone\n* Phần mềm Phiên bản thứ 2 cho Smartphones"
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Pocket PC\n* cho Điện thoại Thông minh\n* Phần mềm Phiên bản thứ 2 cho Pocket PC Phone\n* Phần mềm Phiên bản thứ 2 cho Điện thoại Thông minh"
