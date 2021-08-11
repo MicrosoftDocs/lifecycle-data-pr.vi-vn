@@ -4,12 +4,12 @@ metadata:
   description: Trình quản lý Vận hành Microsoft (MOM) 2005 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: MOM,Workgroup
-  ms.openlocfilehash: 4435053d2a1544c2298ad1e04ad0034c660e8b0e
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 6bdfcd6d471504ad85d4d61bc753344146a103dbdbe9e61c684ed7374283566a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001486"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2500459"
 name: Trình quản lý Vận hành Microsoft (MOM) 2005
 summary: >
   Trình quản lý Vận hành Microsoft (MOM) 2005 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

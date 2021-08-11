@@ -3,12 +3,12 @@ metadata:
   title: Dịch vụ Azure BizTalk
   description: Dịch vụ Azure BizTalk tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.openlocfilehash: 4b1235b843ea4889b25636b5e1d616110b01c6baa302d0f114b3babebde646f9
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904659"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493096"
 name: Dịch vụ Azure BizTalk
 summary: >+
   Dịch vụ Azure BizTalk tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
