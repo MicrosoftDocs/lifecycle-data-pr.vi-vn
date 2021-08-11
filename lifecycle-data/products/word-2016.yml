@@ -4,12 +4,12 @@ metadata:
   description: Word 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 65d33fb18d97798011013ff25eedc82583075734
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 0ea5536a709ed6eca26698ede1e59c4c999778bc505fe9647ee94feace9ef773
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938654"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504529"
 name: Word 2016
 summary: >+
   Word 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

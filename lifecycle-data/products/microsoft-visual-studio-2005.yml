@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Visual Studio 2005 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937618"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497906"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Professional, Standard, Standard Edition academic license, Team Edition cho Database Professionals, Team Edition cho Software Architects, Team Edition cho Software Developers, Team Edition cho Software Testers, Team Suite, Team Test Load Agent, Tools cho Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Bài viết này áp dụng với các phiên bản sau: Professional, Standard, Standard Edition academic license, Team Edition cho Database Professionals, Team Edition cho Software Architects, Team Edition cho Software Developers, Team Edition cho Software Testers, Team Suite, Team Test Load Agent, Công cụ cho Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Thông tin hỗ trợ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Thông tin Sản phẩm Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem bên dưới để biết hướng dẫn di chuyển.\n> [!NOTE]\n> Phiên bản Microsoft Visual Studio 2005 Team cho Database Professionals được phát hành vào ngày 02/3/2007.\n\n## <a name=\"editions\"></a>Phiên bản \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition cho Database Professionals\n* Team Edition cho Software Architects\n* Team Edition cho Software Developers\n* Team Edition cho Software Testers\n* Team Suite\n* Team Test Load Agent\n* Tools cho Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Thông tin hỗ trợ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Thông tin Sản phẩm Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem bên dưới để biết hướng dẫn di chuyển.\n> [!NOTE]\n> Phiên bản Microsoft Visual Studio 2005 Team cho Database Professionals được phát hành vào ngày 02/3/2007.\n\n## <a name=\"editions\"></a>Phiên bản \n* Professional\n* Tiêu Chuẩn\n* Standard Edition academic license\n* Team Edition cho Database Professionals\n* Team Edition cho Kiến trúc sư Phần mềm\n* Team Edition cho Software Developers\n* Team Edition cho Software Testers\n* Team Suite\n* Team Test Load Agent\n* Công cụ cho Hệ thống Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"
