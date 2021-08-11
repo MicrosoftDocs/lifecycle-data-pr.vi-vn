@@ -4,12 +4,12 @@ metadata:
   description: Máy Ảo Microsoft Azure (classic) tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 01/21/2021
   keywords: 
-  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
-  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
+  ms.openlocfilehash: c3cf6794f777dfe3a8f70af5a87d0ba9701962fdd70b7e71ea755fe70ead9edc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 01/21/2021
-  ms.locfileid: "1416338"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490025"
 name: Máy ảo Microsoft Azure (classic)
 summary: >+
   Máy Ảo Microsoft Azure (classic) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).

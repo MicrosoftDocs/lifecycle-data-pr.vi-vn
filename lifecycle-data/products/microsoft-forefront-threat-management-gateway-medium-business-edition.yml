@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Forefront Threat Management Gateway, Phiên bản Medium Business
+  title: Microsoft Forefront Threat Management Gateway, Phiên bản Doanh nghiệp Vừa
   description: Microsoft Forefront Threat Management Gateway, phiên bản Medium Business tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: Business
-  ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 0fbc94fa8396861973cfdb232b646777ea7f8febd4694a38f134cbaa690502ba
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001930"
-name: Microsoft Forefront Threat Management Gateway, Phiên bản Medium Business
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487916"
+name: Microsoft Forefront Threat Management Gateway, Phiên bản Doanh nghiệp Vừa
 summary: >+
   Microsoft Forefront Threat Management Gateway, phiên bản Medium Business tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Business
+  Chính sách này áp dụng với các phiên bản: Business
 
 products:
 - office
