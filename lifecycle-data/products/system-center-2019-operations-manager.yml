@@ -3,12 +3,12 @@ metadata:
   title: Trình quản lý Vận hành Hệ thống Trung tâm 2019
   description: Trình quản lý Vận hành Hệ thống Trung tâm 2019 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f5bee333a3804dceb691a900186014bd104a6e77
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 9fbc1e881b2792398ccac7bd053ecc7f58af38e4d894022d707ca17e64f806cb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873223"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494243"
 name: Trình quản lý Vận hành Hệ thống Trung tâm 2019
 summary: >+
   Trình quản lý Vận hành Hệ thống Trung tâm 2019 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

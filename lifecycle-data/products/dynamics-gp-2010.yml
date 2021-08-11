@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 2010
   description: Dynamics GP 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 4c0f0833c921b3ea6c36dc2911517258a9c016b53e1d838a0b8ce607337a0827
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847129"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2501310"
 name: Dynamics GP 2010
 summary: >+
   Dynamics GP 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
