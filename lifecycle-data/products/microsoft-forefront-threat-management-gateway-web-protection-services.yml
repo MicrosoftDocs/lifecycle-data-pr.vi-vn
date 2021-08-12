@@ -3,12 +3,12 @@ metadata:
   title: Dịch vụ Bảo mật Web của Cổng kết nối Quản lý Mối đe dọa Microsoft Forefront
   description: Dịch vụ Bảo mật Web của Cổng kết nối Quản lý Mối đe dọa Microsoft Forefront tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 87e510317f85d78acddc523c3eca75e63b2d5f97d530b5ba00648d7affa046b3
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846995"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495057"
 name: Dịch vụ Bảo mật Web của Cổng kết nối Quản lý Mối đe dọa Microsoft Forefront
 summary: >+
   Dịch vụ Bảo mật Web của Cổng kết nối Quản lý Mối đe dọa Microsoft Forefront tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

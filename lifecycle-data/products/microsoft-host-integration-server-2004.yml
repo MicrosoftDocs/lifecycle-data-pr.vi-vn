@@ -4,14 +4,14 @@ metadata:
   description: Microsoft Host Integration Server 2004 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Standard
-  ms.openlocfilehash: f25ad096e73a81539c8d2c5ae6f9512c7a8dcf40
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 5c0bbeed3e0d96a0f30c751f17d5e767887983b8d7bc96a051f8f5c97aabfaf8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001893"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494983"
 name: Microsoft Host Integration Server 2004
-summary: "Microsoft Host Integration Server 2004 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
+summary: "Microsoft Host Integration Server 2004 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản sau: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Developer\n* Enterprise\n* Tiêu Chuẩn"
