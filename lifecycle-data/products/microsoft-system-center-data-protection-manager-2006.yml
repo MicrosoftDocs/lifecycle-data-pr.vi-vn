@@ -3,12 +3,12 @@ metadata:
   title: Trình quản lý Bảo mật Dữ liệu Hệ thống Trung tâm Microsoft 2006
   description: Trình quản lý Bảo mật Dữ liệu Hệ thống Trung tâm Microsoft 2006 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d83d053e695a5f6eb54b5cef869c47c2cceb14dca664885be0f268a4284bc361
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846947"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518330"
 name: Trình quản lý Bảo mật Dữ liệu Hệ thống Trung tâm Microsoft 2006
 summary: >+
   Trình quản lý Bảo mật Dữ liệu Hệ thống Trung tâm Microsoft 2006 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).

@@ -4,14 +4,14 @@ metadata:
   description: Microsoft Office Communications Server 2007 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: All applicable,Enterprise,XMPP Gateway
-  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: d6578ffee53ac99b0521db6f061d3936e2f9b6c82f9168dc79e8dfd07f969f7c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001819"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518626"
 name: Microsoft Office Communicator Server 2007 R2
-summary: "Microsoft Office Communications Server 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản: Tất cả phiên bản áp dụng, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn chuyển đổi. \n"
+summary: "Microsoft Office Communications Server 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Tất cả phiên bản áp dụng, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn chuyển đổi. \n"
 products:
 - office
 policyType: fixed
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway phát hành vào ngày 28/9/2009.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản áp dụng\n* Enterprise\n* XMPP Gateway"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway phát hành vào ngày 28/9/2009.\n\n## <a name=\"editions\"></a>Phiên bản \n* All applicable\n* Enterprise\n* XMPP Gateway"
