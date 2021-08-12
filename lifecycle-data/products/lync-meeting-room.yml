@@ -3,12 +3,12 @@ metadata:
   title: Lync Meeting room
   description: Lync Meeting Room tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 4acb3669325645b29b0509706a032c85f0ac5badd5863c7f2099f5b11c3cef77
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866028"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519588"
 name: Lync Meeting room
 summary: "Lync Meeting Room tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn chuyển đổi. \n"
 products:
