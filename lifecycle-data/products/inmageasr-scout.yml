@@ -3,12 +3,12 @@ metadata:
   title: InMage Scout trong Azure Site Recovery
   description: InMage Scout trong Azure Site Recovery tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e7dc0cfa718919e8546b0d28c28ff8c0d3347d3b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: c9267ec3662f872566a302676f1f07e0119318458329e15957efdf78e0d7cbe2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866033"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495205"
 name: InMage Scout trong Azure Site Recovery
 summary: >+
   InMage Scout trong Azure Site Recovery tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).

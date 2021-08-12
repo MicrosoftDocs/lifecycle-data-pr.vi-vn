@@ -3,12 +3,12 @@ metadata:
   title: Bộ quản lý Cấu hình Microsoft System Center 2007 R2
   description: Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft 2007 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d74ead7a94de9a66a4f34abab6d8ff9b4496c86479bf1242d36b903855a6e66f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846950"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511300"
 name: Bộ quản lý Cấu hình Microsoft System Center 2007 R2
 summary: >
   Trình quản lý Cấu hình Hệ thống Trung tâm Microsoft 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
