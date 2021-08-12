@@ -3,12 +3,12 @@ metadata:
   title: Bộ công cụ Chẩn đoán và Khôi phục Microsoft 7.0
   description: Bộ công cụ Chẩn đoán và Khôi phục Microsoft 7.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a1ae88ae75ff9aa63d4c88e100393608f958300e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2063f241e16f2b4e9cb06572bd089a6ad329cd814b1afb187b22cb9ba38615c4
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866010"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511707"
 name: Bộ công cụ Chẩn đoán và Khôi phục Microsoft 7.0
 summary: >+
   Bộ công cụ Chẩn đoán và Khôi phục Microsoft 7.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
