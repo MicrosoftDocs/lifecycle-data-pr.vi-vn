@@ -4,12 +4,12 @@ metadata:
   description: Visio Services trong SharePoint (trong Microsoft 365) tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 11/02/2020
   keywords: Vision Web Access
-  ms.openlocfilehash: 0ce0c525d8040d1a1db9a5fb7f542bde67962792
-  ms.sourcegitcommit: 4b3971ed818a75c067e0efab535b719523fa9d25
+  ms.openlocfilehash: d3175a0669977104cbc08ec010fd6e9e4dde6a40fa7c7985deb7d76c35548825
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 11/09/2020
-  ms.locfileid: "1254720"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506564"
 name: Visio Services trong SharePoint (trong Microsoft 365)
 summary: >+
   Visio Services trong SharePoint (trong Microsoft 365) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
