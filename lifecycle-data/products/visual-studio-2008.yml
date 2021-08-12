@@ -4,18 +4,18 @@ metadata:
   description: Visual Studio 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
-  ms.openlocfilehash: dda36bd66c9de69696c202177f1197c068e2f646
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 6045e975f7632596c23c233da7912768a6411216113c9e0e2c9423e6708b6c90
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937581"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506453"
 name: Visual Studio 2008
 summary: >+
   Visual Studio 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Tất cả phiên bản, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
+  Bài viết này áp dụng với các phiên bản sau: All, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bao gồm Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express và các phiên bản Visual Studio Team System\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Bao gồm Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express và các phiên bản Visual Studio Team System\n\n## <a name=\"editions\"></a>Phiên bản \n* All\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

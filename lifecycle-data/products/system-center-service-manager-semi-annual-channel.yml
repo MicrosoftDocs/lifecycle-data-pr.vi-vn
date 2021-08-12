@@ -3,12 +3,12 @@ metadata:
   title: Kênh nửa năm của Trình quản lý Dịch vụ Hệ thống Trung tâm
   description: Kênh nửa năm của Trình quản lý Dịch vụ Hệ thống Trung tâm tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 37355211dc2600ad5f372f914e386a836b5c4be9
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 39ca82bde31dee818b93062d405cf126de7c90aa92f34315adb8167c02bcbc9f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873220"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2515666"
 name: Kênh nửa năm của Trình quản lý Dịch vụ Hệ thống Trung tâm
 summary: >
   Kênh nửa năm của Trình quản lý Dịch vụ Hệ thống Trung tâm tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
