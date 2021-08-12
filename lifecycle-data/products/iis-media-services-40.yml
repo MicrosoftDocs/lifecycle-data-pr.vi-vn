@@ -3,23 +3,21 @@ metadata:
   title: IIS Media Services 4.0
   description: IIS Media Services 4.0 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 52297271a9bb92f999b37f70833442af5458ac62
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866032"
 name: IIS Media Services 4.0
-summary: >+
+summary: |+
   IIS Media Services 4.0 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 01/30/2011
 releases:
-- version: Original Release
-  startDate: 01/30/2011
-content: "\n\n> [!NOTE]\n> Phiên bản này được biết đến như một Cấu phần có vòng đời phụ thuộc vào Vòng đời Hỗ trợ của Sản phẩm Chính, Windows Server 2008"
+  - version: Original Release
+    startDate: 01/30/2011
+content: |+
+
+
+  > [!NOTE]
+  > Phiên bản này được biết đến như một Cấu phần có vòng đời phụ thuộc vào Vòng đời Hỗ trợ của Sản phẩm Chính, Windows Server 2008

@@ -3,23 +3,20 @@ metadata:
   title: Power BI Report Server
   description: Power BI Report Server tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873266"
 name: Power BI Report Server
-summary: >+
+summary: |+
   Power BI Report Server tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
-- sql-server
+  - sql-server
 policyType: modern-online
 supportDates:
   start: 06/12/2017
 releases:
-- version: Original Release
-  startDate: 06/12/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)"
+  - version: Original Release
+    startDate: 06/12/2017
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin dịch vụ](https://powerbi.microsoft.com/documentation/reportserver-support-timeline/)

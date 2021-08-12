@@ -1,37 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Máy chủ Tìm kiếm FAST 2010 (cho SharePoint, cho SharePoint Internet)
-  description: Máy chủ Tìm kiếm FAST 2010 (dành cho SharePoint, cho SharePoint Internet) tuân theo Chính sách Vòng đời Cố định.
+  title: 'Máy chủ Tìm kiếm FAST 2010 (cho SharePoint, cho SharePoint Internet)'
+  description: 'Máy chủ Tìm kiếm FAST 2010 (dành cho SharePoint, cho SharePoint Internet) tuân theo Chính sách Vòng đời Cố định.'
   ms.date: 09/01/2020
-  keywords: for SharePoint,for SharePoint Internet Sites
-  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936175"
-name: Máy chủ Tìm kiếm FAST 2010 (cho SharePoint, cho SharePoint Internet)
-summary: >+
+  keywords: 'for SharePoint,for SharePoint Internet Sites'
+name: 'Máy chủ Tìm kiếm FAST 2010 (cho SharePoint, cho SharePoint Internet)'
+summary: |+
   Máy chủ Tìm kiếm FAST 2010 (dành cho SharePoint, cho SharePoint Internet) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Điều này áp dụng cho các phiên bản: SharePoint, SharePoint Internet
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/16/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 10/13/2020
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 07/23/2014
-- version: Original Release
-  startDate: 06/16/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho SharePoint\n* cho SharePoint Internet"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 10/13/2020
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 07/23/2014
+  - version: Original Release
+    startDate: 06/16/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Không bao gồm các phiên bản đã được hỗ trợ trước đó. Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.
+
+  ## <a name="editions"></a>Phiên bản 
+  * cho SharePoint
+  * cho SharePoint Internet

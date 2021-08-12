@@ -3,35 +3,43 @@ metadata:
   title: Microsoft SharePoint Server 2010
   description: Microsoft SharePoint Server 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941582"
+  keywords: 'Access Services,All applicable,Excel Services,Performance Point Services'
 name: Microsoft SharePoint Server 2010
-summary: >+
+summary: |+
   Microsoft SharePoint Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Access Services, All applicable, Excel Services, Performance Point Services
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/23/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Tài liệu dành cho nhà phát triển Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Tài liệu sản phẩm Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.\n\n## <a name=\"editions\"></a>Phiên bản \n* Access Services\n* All applicable\n* Excel Services\n* Performance Point Services"
+  - version: Service Pack 2
+    startDate: 07/23/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Tài liệu dành cho nhà phát triển Microsoft SharePoint Server 2010](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))
+  * [Tài liệu sản phẩm Microsoft SharePoint Server 2010](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))
+
+  > [!NOTE]
+  > Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.
+
+  ## <a name="editions"></a>Phiên bản 
+  * Access Services
+  * All applicable
+  * Excel Services
+  * Performance Point Services

@@ -3,26 +3,24 @@ metadata:
   title: Microsoft Business Solutions cho Analytics--FRx 6.7 Desktop
   description: Microsoft Business Solutions cho Analytics--FRx 6.7 Desktop tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "847040"
 name: Microsoft Business Solutions cho Analytics--FRx 6.7 Desktop
-summary: >+
+summary: |+
   Microsoft Business Solutions cho Analytics--FRx 6.7 Desktop tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 05/30/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 05/30/2004
-  endDate: 07/08/2014
-content: "\n\n> [!NOTE]\n> Hỗ trợ FRx kết thúc vào ngày được thông báo trừ khi được phân phối dưới dạng một thành phần của sản phẩm Dynamics. Khi được phân phối cùng với sản phẩm Dynamics thì vòng đời của sản phẩm Dynamics sẽ có hiệu lực thay vì thời điểm kết thúc hỗ trợ dự kiến."
+  - version: Original Release
+    startDate: 05/30/2004
+    endDate: 07/08/2014
+content: |+
+
+
+  > [!NOTE]
+  > Hỗ trợ FRx kết thúc vào ngày được thông báo trừ khi được phân phối dưới dạng một thành phần của sản phẩm Dynamics. Khi được phân phối cùng với sản phẩm Dynamics thì vòng đời của sản phẩm Dynamics sẽ có hiệu lực thay vì thời điểm kết thúc hỗ trợ dự kiến.

@@ -3,29 +3,28 @@ metadata:
   title: Microsoft BizTalk Accelerator cho Dịch vụ Tài chính 1.0
   description: Microsoft BizTalk Accelerator cho Dịch vụ Tài chính 1.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935361"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator cho Dịch vụ Tài chính 1.0
-summary: >+
+summary: |+
   Microsoft BizTalk Accelerator cho Dịch vụ Tài chính 1.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 03/12/2003
   end: 04/08/2008
   extendedEnd: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2003
-  endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 03/12/2003
+    endDate: 04/09/2013
+content: |
+
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise
+  * Tiêu Chuẩn
