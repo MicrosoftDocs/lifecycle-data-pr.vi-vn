@@ -4,18 +4,18 @@ metadata:
   description: Visual Studio Team Foundation Server 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: All applicable,External Connector
-  ms.openlocfilehash: 4830d0684302b10940725131790657bce7758844
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: fb0410b274f557f5f90bae65af174b145542e83bfead7b0fdca8af87fc455dbc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000120"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2512447"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
   Visual Studio Team Foundation Server 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Tất cả phiên bản áp dụng,  External Connector
+  Chính sách này áp dụng cho các phiên bản sau: Tất cả các phiên bản có thể áp dụng, Bộ kết nối Bên ngoài
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản áp dụng\n* External Connector"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* All applicable\n* Bộ kết nối Bên ngoài"
