@@ -3,33 +3,33 @@ metadata:
   title: SoftGrid Application Virtualization
   description: SoftGrid Application Virtualization tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
-  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001042"
+  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
 name: SoftGrid Application Virtualization
-summary: >
+summary: |
   Microsoft Application Virtualization tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: 4.1 cho Desktops, 4.2 cho Desktops, cho Dịch vụ Đầu Cuối 4.1
 
-
   > [!IMPORTANT]
-
   > Hỗ trợ đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/25/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 05/25/2007
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* 4.1 cho bản Desktops\n* 4.2 cho bản Desktops\n* cho Dịch vụ Đầu cuối 4.1"
+  - version: Original Release
+    startDate: 05/25/2007
+    endDate: 07/11/2017
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://technet.microsoft.com/en-us/windows/bb899442)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * 4.1 cho bản Desktops
+  * 4.2 cho bản Desktops
+  * cho Dịch vụ Đầu cuối 4.1

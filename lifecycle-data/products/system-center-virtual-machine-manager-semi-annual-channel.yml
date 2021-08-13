@@ -3,32 +3,27 @@ metadata:
   title: Kênh Nửa năm của Trình quản lý Máy Ảo Hệ thống Trung tâm
   description: Kênh Nửa năm của Trình quản lý Máy Ảo Hệ thống Trung tâm tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8972aa6593d08e6325e8ff4d71d5fb04609caa92
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873278"
 name: Kênh Nửa năm của Trình quản lý Máy Ảo Hệ thống Trung tâm
-summary: >
+summary: |
   Kênh Nửa năm của Trình quản lý Máy Ảo Hệ thống Trung tâm tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
-
   > [!IMPORTANT]
-
   > Hỗ trợ đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](/system-center/vmm/upgrade-vmm?view=sc-vmm-2019#upgrade-to-system-center-2019---virtual-machine-manager)
