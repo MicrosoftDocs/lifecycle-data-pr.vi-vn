@@ -4,18 +4,18 @@ metadata:
   description: Windows Storage Server 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
-  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 7c8c31e0c0a097e251c7f9ee15281b81ba1478ad5f3944020029630aa1bcdd0d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939061"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486473"
 name: Windows Storage Server 2008
 summary: >
   Windows Storage Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
+  Bài viết này áp dụng với các phiên bản sau: Cơ bản, Cơ bản 32-bit, Cơ bản 64-bit, Cơ bản Nhúng, Cơ bản Nhúng 32-bit, Enterprise, Enterprise Nhúng, Tiêu chuẩn, Tiêu chuẩn Nhúng, Workgroup
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Basic\n* Cơ bản 32-Bit:\n* Cơ bản 64-bit\n* Cơ bản Nhúng\n* Cơ bản Nhúng 32-bit\n* Enterprise\n* Enterprise nhúng\n* Tiêu Chuẩn\n* Tiêu chuẩn Nhúng\n* Nhóm làm việc"
