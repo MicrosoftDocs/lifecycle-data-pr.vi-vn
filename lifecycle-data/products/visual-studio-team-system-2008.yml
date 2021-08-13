@@ -3,36 +3,42 @@ metadata:
   title: Visual Studio Team System 2008
   description: Visual Studio Team System 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/02/2020
-  keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
-  ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
-  ms.sourcegitcommit: 27cfc07314fb17289e3d7cad15c37b591d53621a
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "945319"
+  keywords: 'All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS'
 name: Visual Studio Team System 2008
-summary: >
+summary: |
   Visual Studio Team System 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-
-  Chính sách này áp dụng cho các phiên bản: Tất cả phiên bản, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
-
+  Chính sách này áp dụng với các phiên bản: Tất cả phiên bản, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
   > [!IMPORTANT]
-
   > Hỗ trợ đã kết thúc. Xem hướng dẫn di chuyển bên dưới.
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 02/19/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
-- version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+  - version: Service Pack 1
+    startDate: 08/11/2008
+    endDate: 04/10/2018
+  - version: Original Release
+    startDate: 02/19/2008
+    endDate: 10/13/2009
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)
+  * [Hướng dẫn di chuyển](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * All
+  * Kiến trúc
+  * Database
+  * Development
+  * Team Explorer
+  * Team Test Load Agent
+  * TFS

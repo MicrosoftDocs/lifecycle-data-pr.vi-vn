@@ -4,28 +4,30 @@ metadata:
   description: SharePoint Designer 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
   keywords: Designer
-  ms.openlocfilehash: 158c0dee37ae297e6ef3c14e3c74ab1996eaad21
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001153"
 name: SharePoint Designer 2013
-summary: >+
+summary: |+
   SharePoint Designer 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng với các phiên bản sau: Designer
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 07/13/2021
   extendedEnd: 07/14/2026
 releases:
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin chi tiết về hỗ trợ](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> Hỗ trợ cho Microsoft SharePoint Designer 2013 được mở rộng như nêu ra dưới đây, nhằm đảm bảo tính tương thích với SharePoint Server 2016.\n\n## <a name=\"editions\"></a>Phiên bản \n* Designer"
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin chi tiết về hỗ trợ](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
+
+  > [!NOTE]
+  > Hỗ trợ cho Microsoft SharePoint Designer 2013 được mở rộng như nêu ra dưới đây, nhằm đảm bảo tính tương thích với SharePoint Server 2016.
+
+  ## <a name="editions"></a>Phiên bản 
+  * Designer

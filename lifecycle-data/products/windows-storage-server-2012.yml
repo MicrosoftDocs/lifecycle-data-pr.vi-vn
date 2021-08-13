@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002263"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng cho các phiên bản: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn\n* Nhóm làm việc"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn.
+
+  ## <a name="editions"></a>Phiên bản 
+  * Tiêu Chuẩn
+  * Nhóm làm việc

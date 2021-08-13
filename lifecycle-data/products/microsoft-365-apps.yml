@@ -3,26 +3,32 @@ metadata:
   title: Các ứng dụng Microsoft 365
   description: Các ứng dụng Microsoft 365 tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 04/07/2021
-  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
-  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2030336"
+  keywords: 'Office 365 Business,Office 365 ProPlus,for business,for enterprise'
 name: Các ứng dụng Microsoft 365
-summary: >+
+summary: |+
   Các ứng dụng Microsoft 365 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
-
 
   Chính sách này áp dụng cho các phiên bản: for business, for enterprise
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 09/22/2015
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Phiên bản được hỗ trợ](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Ma trận hỗ trợ cấu hình Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Hướng dẫn triển khai các Ứng dụng Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> Các ứng dụng Microsoft 365 dành cho doanh nghiệp lớn (trước đây là Office 365 ProPlus) Ứng dụng Microsoft 365 dành cho doanh nghiệp (trước đây là Office 365 Business).\n\n## <a name=\"editions\"></a>Phiên bản \n* dành cho doanh nghiệp\n* dành cho doanh nghiệp lớn"
+  - version: Original Release
+    startDate: 09/22/2015
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Phiên bản được hỗ trợ](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)
+  * [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Ma trận hỗ trợ cấu hình Office](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)
+  * [Hướng dẫn triển khai các Ứng dụng Microsoft 365](/DeployOffice/deployment-guide-microsoft-365-apps)
+
+  > [!NOTE]
+  > Các ứng dụng Microsoft 365 dành cho doanh nghiệp lớn (trước đây là Office 365 ProPlus) Ứng dụng Microsoft 365 dành cho doanh nghiệp (trước đây là Office 365 Business).
+
+  ## <a name="editions"></a>Phiên bản 
+  * dành cho doanh nghiệp
+  * dành cho doanh nghiệp lớn

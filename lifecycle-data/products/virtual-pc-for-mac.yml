@@ -3,25 +3,23 @@ metadata:
   title: Virtual PC cho máy Mac
   description: Virtual PC cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846890"
 name: Virtual PC cho máy Mac
-summary: >+
+summary: |+
   Virtual PC cho máy Mac tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 11/12/2003
   end: 04/13/2010
 releases:
-- version: Original Release
-  startDate: 11/12/2003
-  endDate: 01/13/2009
-content: "\n\n> [!NOTE]\n> Bao gồm Phiên bản 5.01, Phiên bản 5.02, Phiên bản 5.03, Phiên bản 5.04, Phiên bản 6.01, Phiên bản 6.02, Phiên bản 6.1, Bản cập nhật Phiên bản 6.1.1, Phiên bản 7, Phiên bản 7.01"
+  - version: Original Release
+    startDate: 11/12/2003
+    endDate: 01/13/2009
+content: |+
+
+
+  > [!NOTE]
+  > Bao gồm Phiên bản 5.01, Phiên bản 5.02, Phiên bản 5.03, Phiên bản 5.04, Phiên bản 6.01, Phiên bản 6.02, Phiên bản 6.1, Bản cập nhật Phiên bản 6.1.1, Phiên bản 7, Phiên bản 7.01

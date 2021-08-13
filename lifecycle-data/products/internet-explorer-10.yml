@@ -3,25 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866030"
 name: Internet Explorer 10
-summary: >+
+summary: |+
   Internet Explorer 10 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Câu hỏi thường gặp về Chính sách Vòng đời của Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Vui lòng truy cập Câu hỏi thường gặp về Vòng đời của Internet Explorer để biết danh sách các hệ điều hành được hỗ trợ và phiên bản trình duyệt tương ứng."
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Câu hỏi thường gặp về Chính sách Vòng đời của Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Vui lòng truy cập Câu hỏi thường gặp về Vòng đời của Internet Explorer để biết danh sách các hệ điều hành được hỗ trợ và phiên bản trình duyệt tương ứng.

@@ -4,28 +4,30 @@ metadata:
   description: Windows 10 IoT 2016 LTSB tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: fc19a4917f270b8c1c774c8e62b504dec47ef5ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938284"
 name: Windows 10 IoT 2016 LTSB
-summary: >+
+summary: |+
   Windows 10 IoT 2016 LTSB tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/02/2016
   end: 10/12/2021
   extendedEnd: 10/13/2026
 releases:
-- version: Original Release
-  startDate: 08/02/2016
-  endDate: 10/13/2026
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Phát hành lại Bản cập nhật Windows 10 (phiên bản 1809) vào tháng 10/2018 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise"
+  - version: Original Release
+    startDate: 08/02/2016
+    endDate: 10/13/2026
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Câu hỏi Thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Phát hành lại Bản cập nhật Windows 10 (phiên bản 1809) vào tháng 10/2018 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise

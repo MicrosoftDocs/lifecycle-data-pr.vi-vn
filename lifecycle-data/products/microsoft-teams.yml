@@ -3,23 +3,21 @@ metadata:
   title: Microsoft Teams
   description: Microsoft Teams tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866304"
 name: Microsoft Teams
-summary: >+
+summary: |+
   Microsoft Teams tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 11/01/2016
 releases:
-- version: Original Release
-  startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Thông tin dịch vụ](/microsoftteams/teams-client-update)"
+  - version: Original Release
+    startDate: 11/01/2016
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
+  * [Thông tin dịch vụ](/microsoftteams/teams-client-update)

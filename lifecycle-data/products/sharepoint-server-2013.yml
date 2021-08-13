@@ -4,29 +4,30 @@ metadata:
   description: SharePoint Server 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: ccd15eb6ef3e1766b31cadaa08b558c6071fddf9
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941619"
 name: SharePoint Server 2013
-summary: >+
+summary: |+
   SharePoint Server 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/09/2013
   end: 04/10/2018
   extendedEnd: 04/11/2023
 releases:
-- version: Service Pack 1
-  startDate: 02/25/2014
-  endDate: 04/11/2023
-- version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Thông tin dịch vụ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> Xem [tài liệu về sản phẩm](https://docs.microsoft.com/sharepoint/sharepoint-server) và tài liệu dành cho [nhà phát triển](https://developer.microsoft.com/sharepoint/docs)."
+  - version: Service Pack 1
+    startDate: 02/25/2014
+    endDate: 04/11/2023
+  - version: Original Release
+    startDate: 01/09/2013
+    endDate: 04/14/2015
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+  * [Thông tin dịch vụ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)
+
+  > [!NOTE]
+  > Xem [tài liệu về sản phẩm](https://docs.microsoft.com/sharepoint/sharepoint-server) và tài liệu dành cho [nhà phát triển](https://developer.microsoft.com/sharepoint/docs).
