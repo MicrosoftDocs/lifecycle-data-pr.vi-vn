@@ -3,28 +3,29 @@ metadata:
   title: WinTarget 2.0
   description: WinTarget 2.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Advanced,Standard
-  ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938765"
+  keywords: 'Advanced,Standard'
 name: WinTarget 2.0
-summary: >+
+summary: |+
   WinTarget 2.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng với các phiên bản: Advanced, Standard
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/07/2006
   end: 01/08/2008
 releases:
-- version: Original Release
-  startDate: 03/07/2006
-  endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.\n\n## <a name=\"editions\"></a>Phiên bản \n* Nâng cao\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 03/07/2006
+    endDate: 01/08/2008
+content: |
+
+
+  > [!NOTE]
+  > Hỗ trợ đối với sản phẩm này tuân theo các điều khoản mua lại của sản phẩm.
+
+  ## <a name="editions"></a>Phiên bản 
+  * Nâng cao
+  * Tiêu Chuẩn

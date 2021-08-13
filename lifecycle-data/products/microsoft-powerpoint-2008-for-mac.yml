@@ -3,25 +3,19 @@ metadata:
   title: Microsoft PowerPoint 2008 cho máy Mac
   description: Microsoft PowerPoint 2008 cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846556"
 name: Microsoft PowerPoint 2008 cho máy Mac
-summary: >+
+summary: |+
   Microsoft PowerPoint 2008 cho máy Mac tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/12/2008
   end: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2008
-  endDate: 04/09/2013
-content: ''
+  - version: Original Release
+    startDate: 03/12/2008
+    endDate: 04/09/2013
+content: |+

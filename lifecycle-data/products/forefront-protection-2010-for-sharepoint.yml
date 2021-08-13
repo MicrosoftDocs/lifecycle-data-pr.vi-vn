@@ -3,25 +3,19 @@ metadata:
   title: Forefront Protection 2010 cho SharePoint
   description: Forefront Protection 2010 cho SharePoint tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
-  ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908968"
 name: Forefront Protection 2010 cho SharePoint
-summary: >+
+summary: |+
   Forefront Protection 2010 cho SharePoint tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 07/15/2010
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Lộ trình của các sản phẩm bảo mật thuộc thương hiệu Forefront đã thay đổi.  Sản phẩm này đã ngừng hoạt động vào ngày 31/12/2015.\n\n\n"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Lộ trình của các sản phẩm bảo mật thuộc thương hiệu Forefront đã thay đổi. \_Sản phẩm này đã ngừng hoạt động vào ngày 31/12/2015.\n\n\n"

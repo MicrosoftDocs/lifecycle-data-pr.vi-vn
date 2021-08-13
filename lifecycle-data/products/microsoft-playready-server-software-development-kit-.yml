@@ -3,25 +3,19 @@ metadata:
   title: 'Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady '
   description: Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady tuân theo Chính sách Vòng đời Cố định.
   ms.date: 08/21/2020
-  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "908044"
 name: 'Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady '
-summary: >+
+summary: |+
   Bộ công cụ Phát triển Phần mềm Máy chủ Microsoft PlayReady tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/15/2009
   end: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 07/15/2009
-  endDate: 10/14/2014
-content: ''
+  - version: Original Release
+    startDate: 07/15/2009
+    endDate: 10/14/2014
+content: |+

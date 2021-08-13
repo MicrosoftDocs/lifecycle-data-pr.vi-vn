@@ -3,29 +3,37 @@ metadata:
   title: Windows Storage Server 2008 Embedded
   description: Windows Storage Server 2008 Embedded tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939098"
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
 name: Windows Storage Server 2008 Embedded
-summary: >+
+summary: |+
   Windows Storage Server 2008 Embedded tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-
-  Chính sách này áp dụng cho các phiên bản: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+  Bài viết này áp dụng với các phiên bản sau: 32 Bit, 64 Bit, Cơ bản, Cơ bản 32-Bit, Enterprise, Tiêu chuẩn, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Sản phẩm này đã hết thời gian được hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.\n\n## <a name=\"editions\"></a>Phiên bản \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > Sản phẩm này đã hết thời gian được hỗ trợ. Xem bên dưới để biết hướng dẫn di chuyển.
+
+  ## <a name="editions"></a>Phiên bản 
+  * 32 Bit
+  * 64 Bit
+  * Basic
+  * Cơ bản 32-Bit:
+  * Enterprise
+  * Tiêu Chuẩn
+  * Nhóm làm việc
