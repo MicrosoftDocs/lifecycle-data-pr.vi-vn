@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 cho Windows Desktops
-  description: Microsoft Application Virtualization Hosting 4.6 cho Windows Desktops tuân theo Chính sách Vòng Đời Cố định.
+  title: Microsoft Application Virtualization Hosting 4.6 dành cho Máy tính để bàn Windows
+  description: Microsoft Application Virtualization Hosting 4.6 cho Máy tính chạy Windows tuân theo Chính sách Vòng Đời Cố định.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935472"
-name: Microsoft Application Virtualization Hosting 4.6 cho Windows Desktops
-summary: >+
-  Microsoft Application Virtualization Hosting  4.6 cho Windows Desktops tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+name: Microsoft Application Virtualization Hosting 4.6 dành cho Máy tính để bàn Windows
+summary: |+
+  Microsoft Application Virtualization Hosting  4.6 cho Windows máy tính để bàn tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-
-  Chính sách này áp dụng cho các phiên bản: cho Windows Desktops
+  Chính sách này áp dụng cho các phiên bản sau: cho Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Vì khách hàng App-V 4.6 sử dụng App-V 4.5 Server nên App-V 4.5 Server sẽ tiếp tục được hỗ trợ theo ngày vòng đời của App-V 4.6 khi được sử dụng với App-V 4.6 client được hỗ trợ.\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin sản phẩm và di chuyển](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > Vì khách hàng App-V 4.6 sử dụng App-V 4.5 Server nên App-V 4.5 Server sẽ tiếp tục được hỗ trợ theo ngày vòng đời của App-V 4.6 khi được sử dụng với App-V 4.6 client được hỗ trợ.
+
+  ## <a name="editions"></a>Phiên bản 
+  * cho Windows Desktops

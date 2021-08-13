@@ -3,29 +3,22 @@ metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
-  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002004"
+  keywords: '9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager'
 name: Microsoft Antigen
-summary: >+
+summary: |+
   Microsoft Antigen tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: 9.0 cho Exchange, Trình quản lý Doanh nghiệp 9.0, cho cổng SMTP, Trình quản lý Thư rác
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/17/2006
   end: 04/08/2014
   extendedEnd: 12/31/2015
 releases:
-- version: Original Release
-  startDate: 07/17/2006
-  endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Lộ trình của các sản phẩm bảo mật thuộc thương hiệu Forefront đã thay đổi. Sản phẩm này đã ngừng hoạt động vào ngày 31/12/2015.\n\n## <a name=\"editions\"></a>Phiên bản \n* 9.0 cho Exchange\n* Trình quản lý Doanh nghiệp 9.0\n* cho cổng SMTP\n* Trình quản lý Thư rác\n"
+  - version: Original Release
+    startDate: 07/17/2006
+    endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> Lộ trình của các sản phẩm bảo mật thuộc thương hiệu Forefront đã thay đổi.\_Sản phẩm này đã ngừng hoạt động vào ngày 31/12/2015.\n\n## <a name=\"editions\"></a>Phiên bản \n* 9.0 cho Exchange\n* Trình quản lý Doanh nghiệp 9.0\n* cho cổng SMTP\n* Trình quản lý Thư rác\n"

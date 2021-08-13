@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172063"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 
 
-
   > [!IMPORTANT]
-
   > Vui lòng lưu ý rằng phiên bản cũ của sản phẩm sẽ kết thúc hỗ trợ vào ngày 9 tháng 3 năm 2021. Truy cập vào [đây](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) để tìm hiểu thêm.
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Câu hỏi Thường gặp về Vòng đời - Internet Explorer và Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Chính sách Vòng đời sản phẩm Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>Liên kết 
+  * [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
+  * [Câu hỏi Thường gặp về Vòng đời - Internet Explorer và Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  * [Chính sách Vòng đời sản phẩm Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)

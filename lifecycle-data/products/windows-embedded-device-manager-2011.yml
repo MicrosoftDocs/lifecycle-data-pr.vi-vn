@@ -3,36 +3,36 @@ metadata:
   title: Windows Embedded Device Manager 2011
   description: Windows Embedded Device Manager 2011 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Client,SDK,Server
-  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939949"
+  keywords: 'Client,SDK,Server'
 name: Windows Embedded Device Manager 2011
-summary: >
+summary: |
   Windows Embedded Device Manager 2011 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng cho các phiên bản: Client, SDK, Server
 
-
   > [!IMPORTANT]
-
   > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/29/2011
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/07/2011
-  endDate: 01/09/2018
-- version: Original Release
-  startDate: 05/29/2011
-  endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Client\n* SDK\n* Server"
+  - version: Service Pack 1
+    startDate: 12/07/2011
+    endDate: 01/09/2018
+  - version: Original Release
+    startDate: 05/29/2011
+    endDate: 01/08/2013
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Máy khách
+  * SDK
+  * Máy chủ

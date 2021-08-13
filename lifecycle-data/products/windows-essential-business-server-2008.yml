@@ -4,30 +4,26 @@ metadata:
   description: Windows Essential Business Server 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: 3fdedf81f3a27848e4225c7b36b64c751c15f758
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162097"
 name: Windows Essential Business Server 2008
-summary: >
+summary: |
   Windows Essential Business Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các vòng đời tương ứng của sản phẩm thành phần riêng lẻ. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/12/2008
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 12/12/2008
-  endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin sản phẩm](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 12/12/2008
+    endDate: 02/13/2020
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)
+  * [Thông tin sản phẩm](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)

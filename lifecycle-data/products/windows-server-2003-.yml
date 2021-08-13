@@ -3,35 +3,46 @@ metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
-  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939616"
+  keywords: 'Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web'
 name: 'Windows Server 2003 '
-summary: >+
+summary: |+
   Windows Server 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Datacenter (32-bit x86), Datacenter (x64), Datacenter cho hệ thống vi xử lý Itanium, Enterprise (32-bit x86), Enterprise cho hệ thống vi xử lý Itanium, Enterprise X64, Standard (32-bit x86), Web
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/28/2003
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Service Pack 1
-  startDate: 03/30/2005
-  endDate: 04/14/2009
-- version: Original Release
-  startDate: 05/28/2003
-  endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Các đường dẫn được hỗ trợ khi nâng cấp từ Windows Server 2003 lên Windows Server 2008](https://support.microsoft.com/vi-vn/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Chuẩn bị các thiết bị chạy Windows Server 2003 sẵn sàng cho quá trình chuyển đổi](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> Hệ thống dùng vi xử lý Itanium có ngày bắt đầu vòng đời từ ngày 19/6/2003.\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter (32-bit x86)\n* Datacenter (x64)\n* Datacenter cho Hệ thống dùng vi xử lý Itanium\n* Enterprise (32-bit x86)\n* Enterprise cho Hệ thống dựa trên Itanium\n* Enterprise X64\n* Standard (32-bit x86)\n* Web"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Service Pack 1
+    startDate: 03/30/2005
+    endDate: 04/14/2009
+  - version: Original Release
+    startDate: 05/28/2003
+    endDate: 04/10/2007
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Các đường dẫn được hỗ trợ khi nâng cấp từ Windows Server 2003 lên Windows Server 2008](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+  * [Chuẩn bị các thiết bị chạy Windows Server 2003 sẵn sàng cho quá trình chuyển đổi](/azure/migrate/prepare-windows-server-2003-migration)
+
+  > [!NOTE]
+  > Hệ thống dùng vi xử lý Itanium có ngày bắt đầu vòng đời từ ngày 19/6/2003.
+
+  ## <a name="editions"></a>Phiên bản 
+  * Datacenter (32-bit x86)
+  * Datacenter (x64)
+  * Datacenter cho Hệ thống dùng vi xử lý Itanium
+  * Enterprise (32-bit x86)
+  * Enterprise cho Hệ thống dựa trên Itanium
+  * Enterprise X64
+  * Standard (32-bit x86)
+  * Web
