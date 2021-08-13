@@ -3,25 +3,19 @@ metadata:
   title: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront
   description: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846998"
 name: Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront
-summary: >+
+summary: |+
   Bảng điều khiển Quản lý Bảo mật Máy chủ Microsoft Forefront tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/10/2008
   end: 04/08/2014
 releases:
-- version: Original Release
-  startDate: 01/10/2008
-  endDate: 04/08/2014
-content: ''
+  - version: Original Release
+    startDate: 01/10/2008
+    endDate: 04/08/2014
+content: |+

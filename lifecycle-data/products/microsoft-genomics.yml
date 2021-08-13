@@ -3,23 +3,20 @@ metadata:
   title: Microsoft Genomics
   description: Microsoft Genomics tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "873155"
 name: Microsoft Genomics
-summary: >+
+summary: |+
   Microsoft Genomics tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
-- azure
+  - azure
 policyType: modern-online
 supportDates:
   start: 11/01/2017
 releases:
-- version: Original Release
-  startDate: 11/01/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/azure/genomics/version-release-history-genomics)"
+  - version: Original Release
+    startDate: 11/01/2017
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin dịch vụ](/azure/genomics/version-release-history-genomics)

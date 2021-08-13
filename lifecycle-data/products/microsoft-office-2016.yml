@@ -3,29 +3,32 @@ metadata:
   title: Microsoft Office 2016
   description: Microsoft Office 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
-  ms.openlocfilehash: 7d2f310c7edad1f2fb5f6b6151add26c277c6ffe
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930514"
+  keywords: 'Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard'
 name: Microsoft Office 2016
-summary: >+
+summary: |+
   Microsoft Office 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Điều này áp dụng cho các phiên bản sau đây: Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home và Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Home và Business
+  * Home and Student
+  * Personal
+  * Professional
+  * Professional Plus
+  * Tiêu Chuẩn

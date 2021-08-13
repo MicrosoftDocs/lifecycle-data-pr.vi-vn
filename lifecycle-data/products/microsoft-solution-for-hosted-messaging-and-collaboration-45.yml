@@ -3,25 +3,19 @@ metadata:
   title: Giải pháp của Microsoft dành cho Lưu trữ Tin nhắn và Cộng tác 4.5
   description: Giải pháp của Microsoft dành cho Lưu trữ Tin nhắn và Cộng tác 4.5 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846635"
 name: Giải pháp của Microsoft dành cho Lưu trữ Tin nhắn và Cộng tác 4.5
-summary: >+
+summary: |+
   Giải pháp của Microsoft dành cho Lưu trữ Tin nhắn và Cộng tác 4.5 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/11/2008
   end: 12/12/2011
 releases:
-- version: Original Release
-  startDate: 09/11/2008
-  endDate: 12/12/2011
-content: ''
+  - version: Original Release
+    startDate: 09/11/2008
+    endDate: 12/12/2011
+content: |+

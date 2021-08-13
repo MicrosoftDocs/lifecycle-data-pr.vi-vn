@@ -3,23 +3,20 @@ metadata:
   title: Gói độc lập Service Fabric cho Windows Server
   description: Gói độc lập Service Fabric cho Windows Server tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866187"
 name: Gói độc lập Service Fabric cho Windows Server
-summary: >+
+summary: |+
   Gói độc lập Service Fabric cho Windows Server tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin dịch vụ](/azure/service-fabric/service-fabric-support)
