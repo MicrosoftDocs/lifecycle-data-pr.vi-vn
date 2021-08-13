@@ -4,28 +4,30 @@ metadata:
   description: Windows 10 2015 LTSB tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 201717bb796cb84e455c4f4e81f0a1b32516e1c7
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938482"
 name: Windows 10 2015 LTSB
-summary: >+
+summary: |+
   Windows 10 2015 LTSB tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/29/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 07/29/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Phát hành lại Bản cập nhật Windows 10 (phiên bản 1809) vào tháng 10/2018 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise"
+  - version: Original Release
+    startDate: 07/29/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)
+  * [Câu hỏi Thường gặp về Windows 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)
+  * [Phát hành lại Bản cập nhật Windows 10 (phiên bản 1809) vào tháng 10/2018 ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise
