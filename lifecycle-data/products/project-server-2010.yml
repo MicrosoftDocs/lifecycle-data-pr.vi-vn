@@ -3,32 +3,34 @@ metadata:
   title: Project Server 2010
   description: Project Server 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846384"
 name: Project Server 2010
-summary: >+
+summary: |+
   Project Server 2010 tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/19/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/28/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Project Server Roadmap](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021."
+  - version: Service Pack 2
+    startDate: 07/19/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/28/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Mở rộng hỗ trợ](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Project Server Roadmap](/office365/enterprise/project-server-2010-end-of-support)
+
+  > [!NOTE]
+  > Thời gian kết thúc dịch vụ của sản phẩm này đã được trì hoãn từ ngày 13 tháng 10 năm 2020 đến ngày 13 tháng 4 năm 2021.

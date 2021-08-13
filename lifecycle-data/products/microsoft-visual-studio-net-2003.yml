@@ -3,32 +3,36 @@ metadata:
   title: Microsoft Visual Studio .NET 2003
   description: Microsoft Visual Studio .NET 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: Enterprise Architect,Enterprise Developer,J#,Professional,Standard
-  ms.openlocfilehash: 4046adf6f4a20e8c0edfd77c6314c2ecbd321cb2
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "999414"
+  keywords: 'Enterprise Architect,Enterprise Developer,J#,Professional,Standard'
 name: Microsoft Visual Studio .NET 2003
-summary: >+
+summary: |+
   Microsoft Visual Studio .NET 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-
-  Chính sách này áp dụng cho các phiên bản: Enterprise Architect, Enterprise Developer, J#, Professional, Standard
+  Chính sách này áp dụng với các phiên bản: Enterprise Architect, Enterprise Developer, J#, Professional, Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/10/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Service Pack 1
-  startDate: 09/15/2006
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 07/10/2003
-  endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional\n* Standard"
+  - version: Service Pack 1
+    startDate: 09/15/2006
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 07/10/2003
+    endDate: 10/09/2007
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise Architect
+  * Enterprise Developer
+  * J#
+  * Professional
+  * Tiêu Chuẩn

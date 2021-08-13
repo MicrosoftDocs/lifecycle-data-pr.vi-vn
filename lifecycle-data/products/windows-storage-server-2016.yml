@@ -3,29 +3,31 @@ metadata:
   title: Windows Storage Server 2016
   description: Windows Storage Server 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938987"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2016
-summary: >+
+summary: |+
   Windows Storage Server 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng cho các phiên bản: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn\n* Nhóm làm việc"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)
+  * [Thông tin sản phẩm](/windows-server/storage/whats-new-in-storage)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Tiêu Chuẩn
+  * Nhóm làm việc

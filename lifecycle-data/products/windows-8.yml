@@ -3,32 +3,36 @@ metadata:
   title: Windows 8
   description: Windows 8 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002337"
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
 name: Windows 8
-summary: >
+summary: |
   Windows 8 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise, Enterprise N, N, Pro với Media Center, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Hỗ trợ dành cho sản phẩm này đã kết thúc Khách hàng cần cập nhật lên Windows 8.1 để được duy trì hỗ trợ.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời sản phẩm - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Enterprise N\n* N\n* Pro với Media Center\n* Professional\n* Professional N\n* S"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Câu hỏi thường gặp về Vòng đời sản phẩm - Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro với Media Center
+  * Professional
+  * Professional N
+  * S

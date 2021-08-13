@@ -3,30 +3,22 @@ metadata:
   title: Microsoft System Center Capacity Planner 2007
   description: Trình hoạch định Công suất Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846955"
 name: Microsoft System Center Capacity Planner 2007
-summary: >
+summary: |
   Trình hoạch định Công suất Hệ thống Trung tâm Microsoft 2007 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-
   > [!IMPORTANT]
-
   > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 02/09/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Original Release
-  startDate: 02/09/2008
-  endDate: 04/10/2018
-content: ''
+  - version: Original Release
+    startDate: 02/09/2008
+    endDate: 04/10/2018
+content: |+

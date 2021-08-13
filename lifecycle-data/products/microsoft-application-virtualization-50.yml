@@ -3,38 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 5.0
   description: Microsoft Application Virtualization 5.0 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 9606d01862383fc90e328d1fe65da5151014db76
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935546"
+  keywords: 'for Remote Desktop Services,for Terminal Services,for Windows Desktops'
 name: Microsoft Application Virtualization 5.0
-summary: >+
+summary: |+
   Microsoft Application Virtualization 5.0 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-
-  Chính sách này áp dụng cho các phiên bản: cho Remote Desktop Services, cho Terminal Services, cho Windows Desktops
+  Điều này áp dụng cho các phiên bản sau: cho Dịch vụ Máy tính Từ xa, Dịch vụ Đầu cuối, Máy tính chạy Windows
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 01/10/2023
-- version: Service Pack 2
-  startDate: 12/02/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* cho Remote Desktop Services\n* cho Terminal Services\n* cho Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 01/10/2023
+  - version: Service Pack 2
+    startDate: 12/02/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin sản phẩm](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * cho Remote Desktop Services
+  * cho Dịch vụ Đầu cuối
+  * cho Windows Desktops

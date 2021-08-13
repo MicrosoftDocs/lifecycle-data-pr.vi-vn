@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Word 2010
   description: Microsoft Word 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Home and Student,Standard
-  ms.openlocfilehash: 23a0866d6135a39d7b7895604cc2c3687c5f578f
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929066"
+  keywords: 'Home and Student,Standard'
 name: Microsoft Word 2010
-summary: >+
+summary: |+
   Microsoft Word 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Bài viết này áp dụng với các phiên bản sau: Home và Student, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home and Student\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Home and Student
+  * Tiêu Chuẩn

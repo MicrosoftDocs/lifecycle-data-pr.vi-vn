@@ -3,26 +3,25 @@ metadata:
   title: Dịch vụ Cập nhật Windows Server cho Windows Server 2012 R2
   description: Dịch vụ Cập nhật Windows Server cho Windows Server 2012 R2 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 01/22/2021
-  keywords: 
-  ms.openlocfilehash: efa11337dbeba8601a1ef70ef003f709f286e6b6
-  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 01/23/2021
-  ms.locfileid: "1416772"
+  keywords: null
 name: Dịch vụ Cập nhật Windows Server cho Windows Server 2012 R2
-summary: >+
+summary: |+
   Dịch vụ Cập nhật Windows Server cho Windows Server 2012 R2 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 11/25/2013
   end: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 11/25/2013
-  endDate: 10/10/2023
-content: "> [!TIP]\n> Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2012 R2\n\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2012 R2](/lifecycle/)"
+  - version: Original Release
+    startDate: 11/25/2013
+    endDate: 10/10/2023
+content: |+
+  > [!TIP]
+  > Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2012 R2
+
+  ## <a name="links"></a>Liên kết 
+  * [Windows Server 2012 R2](/lifecycle/)
