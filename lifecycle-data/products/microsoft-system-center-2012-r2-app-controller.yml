@@ -3,26 +3,24 @@ metadata:
   title: Trình điều khiển Ứng dụng Hệ thống Trung tâm Microsoft 2012 R2
   description: Trình điều khiển Ứng dụng Hệ thống Trung tâm Microsoft 2012 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: df618e70dc7d07bc88c666674936f9e7b255a65b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866084"
 name: Trình điều khiển Ứng dụng Hệ thống Trung tâm Microsoft 2012 R2
-summary: >+
+summary: |+
   Trình điều khiển Ứng dụng Hệ thống Trung tâm Microsoft 2012 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 01/16/2014
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-- version: Original Release
-  startDate: 01/16/2014
-  endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>Liên kết \n* [System Center Documentation](/system-center/#pivot=components&panel=components-all)\n* [System Center Resources](https://www.microsoft.com/system-center/resources)"
+  - version: Original Release
+    startDate: 01/16/2014
+    endDate: 07/12/2022
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [System Center Documentation](/system-center/#pivot=components&panel=components-all)
+  * [System Center Resources](https://www.microsoft.com/system-center/resources)

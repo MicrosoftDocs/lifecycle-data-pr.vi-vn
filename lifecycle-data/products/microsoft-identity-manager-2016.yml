@@ -3,32 +3,32 @@ metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "866005"
 name: Microsoft Identity Manager 2016
-summary: >+
+summary: |+
   Microsoft Identity Manager 2016 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/28/2015
   end: 01/12/2021
   extendedEnd: 01/13/2026
 releases:
-- version: Service Pack 2
-  startDate: 11/04/2019
-  endDate: 01/13/2026
-- version: Service Pack 1
-  startDate: 09/20/2016
-  endDate: 11/04/2020
-- version: Original Release
-  startDate: 09/28/2015
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Dịch vụ hỗ trợ của Azure có sẵn đối với các thành phần tích hợp Azure AD cho đến cuối Dịch vụ hỗ trợ Mở rộng đối với Trình quản lý Danh tính Microsoft 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Kế hoạch hỗ trợ Azure.](https://azure.microsoft.com/support/plans/)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n* [Thông tin sản phẩm](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+  - version: Service Pack 2
+    startDate: 11/04/2019
+    endDate: 01/13/2026
+  - version: Service Pack 1
+    startDate: 09/20/2016
+    endDate: 11/04/2020
+  - version: Original Release
+    startDate: 09/28/2015
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Dịch vụ hỗ trợ của Azure có sẵn đối với các thành phần tích hợp Azure AD cho đến cuối Dịch vụ hỗ trợ Mở rộng đối với Trình quản lý Danh tính Microsoft 2016.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)
+  * [Kế hoạch hỗ trợ Azure.](https://azure.microsoft.com/support/plans/)
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+  * [Thông tin sản phẩm](/microsoft-identity-manager/microsoft-identity-manager-2016)

@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Expression tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936249"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
+summary: |
+  Expression tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+  Bài viết này áp dụng với các phiên bản sau: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Ngày bắt đầu vòng đời cho Expression Blend là ngày 13/07/2007. \n\n## <a name=\"editions\"></a>Phiên bản \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Ngày bắt đầu vòng đời cho Expression Blend là ngày 13/07/2007. 
+
+  ## <a name="editions"></a>Phiên bản 
+  * Blend
+  * Design
+  * Encoder
+  * Studio
