@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 10/20/2020
-  keywords: 
-  ms.openlocfilehash: a9bb16d3231175342172806518fbae8913450493
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162837"
+  keywords: null
 name: Microsoft Lync 2010
-summary: >+
+summary: |+
   Microsoft Lync 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng với các phiên bản: Attendant, Attendee, Group Chat, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/25/2011
   end: 04/12/2016
   extendedEnd: 04/13/2021
 releases:
-- version: Original Release
-  startDate: 01/25/2011
-  endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Attendant\n* Attendee\n* Group Chat\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 01/25/2011
+    endDate: 04/13/2021
+content: |
+
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Attendant
+  * Attendee
+  * Group Chat
+  * Tiêu Chuẩn

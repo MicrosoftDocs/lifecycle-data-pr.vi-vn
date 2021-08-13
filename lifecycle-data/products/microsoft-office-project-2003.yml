@@ -3,33 +3,41 @@ metadata:
   title: Microsoft Office Project 2003
   description: Microsoft Office Project 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d27a4ac1b21778f175b31fd897a986ec8159342
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932845"
+  keywords: 'Professional,Standard'
 name: Microsoft Office Project 2003
-summary: "Microsoft Office Project 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Professional, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n"
+summary: |
+  Microsoft Office Project 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+  Bài viết này áp dụng với các phiên bản sau: Professional, Standard
+
+  > [!IMPORTANT]
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 11/17/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 3
-  startDate: 09/17/2007
-  endDate: 04/08/2014
-- version: Service Pack 2
-  startDate: 09/26/2005
-  endDate: 10/14/2008
-- version: Service Pack 1
-  startDate: 07/27/2004
-  endDate: 10/10/2006
-- version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Professional\n* Tiêu Chuẩn"
+  - version: Service Pack 3
+    startDate: 09/17/2007
+    endDate: 04/08/2014
+  - version: Service Pack 2
+    startDate: 09/26/2005
+    endDate: 10/14/2008
+  - version: Service Pack 1
+    startDate: 07/27/2004
+    endDate: 10/10/2006
+  - version: Original Release
+    startDate: 11/17/2003
+    endDate: 07/27/2005
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Professional
+  * Tiêu Chuẩn

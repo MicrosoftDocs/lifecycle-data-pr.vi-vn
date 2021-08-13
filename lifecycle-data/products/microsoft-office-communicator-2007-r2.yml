@@ -3,24 +3,32 @@ metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: All applicable,Phone
-  ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001745"
+  keywords: 'All applicable,Phone'
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nChính sách này áp dụng cho các phiên bản: Tất cả phiên bản áp dụng, Phone\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn chuyển đổi. \n"
+summary: |
+  Microsoft Office Communicator 2007 R2 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+  Chính sách này áp dụng cho các phiên bản: Tất cả các phiên bản áp dụng, Phone
+
+  > [!IMPORTANT]
+  > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn chuyển đổi. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/19/2009
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Original Release
-  startDate: 03/19/2009
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tất cả phiên bản áp dụng\n* Phone"
+  - version: Original Release
+    startDate: 03/19/2009
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * All applicable
+  * Phone

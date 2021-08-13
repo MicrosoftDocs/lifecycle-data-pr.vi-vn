@@ -4,22 +4,29 @@ metadata:
   description: Office Live Meeting tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "928923"
 name: Office Live Meeting
-summary: "Office Live Meeting tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).\n\nBài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho dịch vụ này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. \n"
+summary: |
+  Office Live Meeting tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+  Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
+
+  > [!IMPORTANT]
+  > Hỗ trợ dành cho dịch vụ này đã kết thúc. Xem hướng dẫn di chuyển bên dưới. 
 products:
-- office
+  - office
 policyType: modern-online
 supportDates:
   start: 04/10/2009
   end: 12/31/2017
 releases:
-- version: Original Release
-  startDate: 04/10/2009
-  endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 04/10/2009
+    endDate: 12/31/2017
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Hướng dẫn di chuyển](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Tiêu Chuẩn
