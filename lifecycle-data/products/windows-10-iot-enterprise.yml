@@ -3,63 +3,61 @@ metadata:
   title: Windows 10 IoT Enterprise
   description: Windows 10 IoT Enterprise tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: b0fc2bfb3e4bb760ab22e7b5d08396c13b4d3432
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029010"
+  keywords: null
 name: Windows 10 IoT Enterprise
-summary: >
+summary: |
   Windows 10 IoT Enterprise tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
-
   > [!IMPORTANT]
-
   > Microsoft sẽ tiếp tục hỗ trợ ít nhất một kênh nửa năm Windows 10 cho đến ngày 14/10/2025.
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
-- version: Version 21H1
-  startDate: 05/18/2021
-  endDate: 12/13/2022
-- version: Version 20H2
-  startDate: 10/20/2020
-  endDate: 05/09/2023
-- version: Version 2004
-  startDate: 05/27/2020
-  endDate: 12/14/2021
-- version: Version 1909
-  startDate: 11/12/2019
-  endDate: 05/10/2022
-- version: Version 1903
-  startDate: 08/29/2019
-  endDate: 12/08/2020
-- version: Version 1809
-  startDate: 11/13/2018
-  endDate: 05/11/2021
-- version: Version 1803
-  startDate: 04/30/2018
-  endDate: 05/11/2021
-- version: Version 1709
-  startDate: 10/17/2017
-  endDate: 10/13/2020
-- version: Version 1703
-  startDate: 04/11/2017
-  endDate: 10/08/2019
-- version: Version 1607
-  startDate: 08/02/2016
-  endDate: 04/09/2019
-- version: Version 1511
-  startDate: 11/10/2015
-  endDate: 10/10/2017
-- version: Version 1507
-  startDate: 07/29/2015
-  endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê."
+  - version: Version 21H1
+    startDate: 05/18/2021
+    endDate: 12/13/2022
+  - version: Version 20H2
+    startDate: 10/20/2020
+    endDate: 05/09/2023
+  - version: Version 2004
+    startDate: 05/27/2020
+    endDate: 12/14/2021
+  - version: Version 1909
+    startDate: 11/12/2019
+    endDate: 05/10/2022
+  - version: Version 1903
+    startDate: 08/29/2019
+    endDate: 12/08/2020
+  - version: Version 1809
+    startDate: 11/13/2018
+    endDate: 05/11/2021
+  - version: Version 1803
+    startDate: 04/30/2018
+    endDate: 05/11/2021
+  - version: Version 1709
+    startDate: 10/17/2017
+    endDate: 10/13/2020
+  - version: Version 1703
+    startDate: 04/11/2017
+    endDate: 10/08/2019
+  - version: Version 1607
+    startDate: 08/02/2016
+    endDate: 04/09/2019
+  - version: Version 1511
+    startDate: 11/10/2015
+    endDate: 10/10/2017
+  - version: Version 1507
+    startDate: 07/29/2015
+    endDate: 05/09/2017
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)
+
+  > [!NOTE]
+  > Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Kênh cập nhật nửa năm của Windows 10 có thể được cài đặt trước khi kết thúc ngày Hỗ trợ Chính được liệt kê.

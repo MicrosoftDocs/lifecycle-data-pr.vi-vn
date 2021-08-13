@@ -3,28 +3,30 @@ metadata:
   title: Tuỳ chọn cài đặt Nano Server cho Windows Server 2016
   description: Tùy chọn cài đặt Nano Server cho Windows Server 2016 tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939431"
+  keywords: 'Datacenter,Standard'
 name: Tuỳ chọn cài đặt Nano Server cho Windows Server 2016
-summary: >+
+summary: |+
   Tùy chọn cài đặt Nano Server cho Windows Server 2016 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
-
 
   Bài viết này áp dụng với các phiên bản sau: Datacenter, Standard
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Thông tin dịch vụ](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Datacenter
+  * Tiêu Chuẩn

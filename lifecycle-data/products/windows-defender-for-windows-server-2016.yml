@@ -3,24 +3,24 @@ metadata:
   title: Bộ bảo vệ Windows dành cho Windows Server 2016
   description: Windows Defender cho Windows Server 2016 tuân theo Chính sách Vòng đời Thành phần.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "846883"
 name: Bộ bảo vệ Windows dành cho Windows Server 2016
-summary: >+
+summary: |+
   Windows Defender cho Windows Server 2016 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/15/2016
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2016."
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>Liên kết 
+  * [Windows Server 2016](/lifecycle/products/windows-server-2016)
+
+  > [!NOTE]
+  > Thành phần này tuân theo vòng đời của sản phẩm cấp trên, Windows Server 2016.

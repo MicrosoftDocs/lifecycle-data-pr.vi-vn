@@ -3,33 +3,32 @@ metadata:
   title: Bản quyền Phần mềm và Bảo mật Máy chủ
   description: Bản quyền Phần mềm và Bảo mật Máy chủ tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/10/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 567392e4c49c46a29c7f9f80730542f0ded21608
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001079"
+  keywords: 'Enterprise,Standard'
 name: Bản quyền Phần mềm và Bảo mật Máy chủ
-summary: >
+summary: |
   Bản quyền Phần mềm và Bảo mật Máy chủ tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
 
   Chính sách này áp dụng cho các phiên bản sau: Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Do Bản quyền Phần mềm và Bảo mật Máy chủ (SLPS) bị tước bỏ, Microsoft hỗ trợ SLPS đến hết ngày 24/9/2009.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/30/2007
   end: 09/24/2009
   extendedEnd: 09/24/2009
 releases:
-- version: Original Release
-  startDate: 12/30/2007
-  endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Bản quyền phần mềm và Bảo mật máy chủ (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Tiêu Chuẩn"
+  - version: Original Release
+    startDate: 12/30/2007
+    endDate: 01/09/2018
+content: |
+
+  ## <a name="links"></a>Liên kết 
+  * [Bản quyền phần mềm và Bảo mật máy chủ (SLPS)](https://www.microsoft.com/slps)
+
+
+  ## <a name="editions"></a>Phiên bản 
+  * Enterprise
+  * Tiêu Chuẩn
