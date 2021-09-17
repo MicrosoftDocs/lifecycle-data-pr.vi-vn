@@ -2,23 +2,26 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework tuân theo Chính sách Vòng đời Thành phần.
-  ms.date: 04/26/2021
+  ms.date: 09/13/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f49285dd25e5227b9903b04ab1a7e82f720a3233
+  ms.sourcegitcommit: 997d3fcd1eb2b32835a349b558316fb0ae245510
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489581"
+  ms.lasthandoff: 09/15/2021
+  ms.locfileid: "3452650"
 name: Microsoft .NET Framework
-summary: >
+summary: >+
   Microsoft .NET Framework tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
   > .NET Framework 4.5.2, 4.6 và 4.6.1 sẽ ngừng hoạt động vào ngày 26/4/2022. Các bản phát hành cụ thể này trước đây đã được ký kỹ thuật số bằng chứng chỉ Thuật giải băm an toàn (SHA-1). Thuật toán này đã không còn an toàn nữa. Khách hàng được khuyến khích chuyển sang SHA-2. Truy cập vào [đây](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) để tìm hiểu thêm.
+
 products:
 - dotnet
 policyType: component
@@ -50,6 +53,9 @@ releases:
 - version: .NET Framework 4.5
   startDate: 10/09/2012
   endDate: 01/12/2016
+- version: .NET Framework 4.0
+  startDate: 04/12/2010
+  endDate: 01/12/2016
 - version: .NET Framework 3.5 Service Pack 1
   startDate: 11/19/2007
   endDate: 01/09/2029
@@ -59,4 +65,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 ngưng hoạt động](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Gói Dịch Vụ 1 (SP1) là một sản phẩm độc lập tuân theo Chính sách Vòng đời Cố định, bắt đầu với Windows 10 phiên bản 1809 và Windows Server 2019. Trước đó, .NET Framework 3.5 SP1 được coi là một thành phần của hệ điều hành Windows mà .NET Framework 3.5 SP1 được cài đặt trên đó."
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi thường gặp về Vòng đời - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Thông tin sản phẩm](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework 4.5.2, 4.6, 4.61 ngưng hoạt động](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n\n> [!NOTE]\n> .NET Framework 3.5 Gói Dịch Vụ 1 (SP1) là một sản phẩm độc lập tuân theo Chính sách Vòng đời Cố định, bắt đầu với Windows 10 phiên bản 1809 và Windows Server 2019. Trước đó, .NET Framework 3.5 SP1 được coi là một thành phần của hệ điều hành Windows mà .NET Framework 3.5 SP1 được cài đặt trên đó."
