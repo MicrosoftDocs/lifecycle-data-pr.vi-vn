@@ -2,25 +2,28 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 04/23/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d1c189ee825c9294e0e5161ded5a56a55526066
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504640"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460664"
 name: Windows Server 2008
-summary: >
+summary: >+
   Windows Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
 
 
   Bài viết này áp dụng với các phiên bản sau: Datacenter, Datacenter không có Hyper-V, Enterprise, Enterprise without Hyper-V, cho Hệ thống dựa trên Itanium, Foundation, Tiêu chuẩn, Tiêu chuẩn không có Hyper-V, Web
 
 
+
   > [!IMPORTANT]
 
   > Hỗ trợ dành cho sản phẩm này đã kết thúc Xem hướng dẫn di chuyển bên dưới.
+
 products:
 - windows
 policyType: fixed
@@ -29,11 +32,14 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
 - version: Extended Security Update Year 3
-  startDate: 01/11/2022
+  startDate: 01/12/2022
   endDate: 01/10/2023
 - version: Extended Security Update Year 2
-  startDate: 01/12/2021
+  startDate: 01/13/2021
   endDate: 01/11/2022
 - version: Extended Security Update Year 1
   startDate: 01/14/2020
@@ -44,4 +50,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "> [!TIP]\n> *Chương trình Cập nhật Bảo mật Mở rộng (ESU) sẵn có thông qua các chương trình cấp phép số lượng cụ thể cho phiên bản Datacenter, Standard, Enterprise và Embedded của sản phẩm này. Các bản cập nhật sẽ kéo dài thêm ba năm kể từ khi kết thúc dịch vụ hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft của bạn để tìm hiểu thêm. \n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation phát hành vào ngày 21/5/2009\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter không có Hyper-V\n* Enterprise\n* Enterprise không có Hyper-V\n* cho Hệ thống dựa trên Itanium\n* Foundation\n* Tiêu Chuẩn\n* Tiêu chuẩn không có Hyper-V\n* Web"
+content: "> [!TIP]\n> *Chương trình Cập nhật Bảo mật Mở rộng (ESU) sẵn có thông qua các chương trình cấp phép số lượng cụ thể cho phiên bản Datacenter, Standard, Enterprise và Embedded của sản phẩm này. Các bản cập nhật sẽ kéo dài thêm ba năm kể từ khi kết thúc dịch vụ hỗ trợ. Liên hệ với đối tác hoặc nhóm tài khoản Microsoft của bạn để tìm hiểu thêm. \n\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Thông tin Nâng cấp Máy chủ](/windows-server/upgrade/upgrade-overview)\n* [Chương trình Cập nhật Bảo mật Mở rộng (ESU)](/lifecycle/faq/extended-security-updates)\n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Windows Server 2008 Foundation phát hành vào ngày 21/5/2009\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter không có Hyper-V\n* Enterprise\n* Enterprise không có Hyper-V\n* cho Hệ thống dựa trên Itanium\n* Foundation\n* Tiêu Chuẩn\n* Tiêu chuẩn không có Hyper-V\n* Web"
