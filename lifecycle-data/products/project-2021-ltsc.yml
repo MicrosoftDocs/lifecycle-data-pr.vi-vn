@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project 2021 (LTSC)
+  description: Project 2021 (LTSC) tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 09/16/2021
+  keywords: Office,Professional,Standard
+  ms.openlocfilehash: aee4c7de5a5febca50ef3530632ae4ef27bf3f24
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3458066"
+name: Project 2021 (LTSC)
+summary: >+
+  Project 2021 (LTSC) tuân theo chính sách Vòng đời [cố định](/lifecycle/policies/fixed).
+
+
+
+  Bài viết này áp dụng với các phiên bản sau: Professional, Standard
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Professional\n* Tiêu Chuẩn"
