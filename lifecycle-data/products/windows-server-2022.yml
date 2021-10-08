@@ -2,21 +2,21 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173059"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508039"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 
-  Chính sách này áp dụng với các phiên bản: Datacenter, Datacenter: Phiên bản Azure, Tiêu huẩn
+  Chính sách này áp dụng với các phiên bản: Datacenter, Datacenter: Phiên bản Azure, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Các Container được phát hành cùng với Windows Server 2022 tuân theo cùng ngày với vòng đời sản phẩm. \n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter: Phiên bản Azure\n* Tiêu Chuẩn"
+content: "> [!TIP]\n> Microsoft Edge tuân theo [Chính sách Vòng đời Hiện đại](https://docs.microsoft.com/lifecycle/policies/modern). Vui lòng tham khảo [tài liệu về vòng đời của Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) để biết cách duy trì cập nhật và hỗ trợ cho trình duyệt này.\n\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Các Container được phát hành cùng với Windows Server 2022 tuân theo cùng ngày với vòng đời sản phẩm. \n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter: Phiên bản Azure\n* Essentials\n* Tiêu Chuẩn"

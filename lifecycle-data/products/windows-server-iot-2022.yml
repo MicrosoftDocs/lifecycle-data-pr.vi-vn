@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508107"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+
+
+  Chính sách này áp dụng cho các phiên bản sau: Datacenter, Tiêu chuẩn, Lưu trữ Tiêu chuẩn, Storage Workgroup, Telecommunications
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge tuân theo [Chính sách Vòng đời Hiện đại](https://docs.microsoft.com/lifecycle/policies/modern). Vui lòng tham khảo [tài liệu về vòng đời của Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) để biết cách duy trì cập nhật và hỗ trợ cho trình duyệt này.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Tiêu Chuẩn\n* Lưu trữ Tiêu chuẩn\n* Storage Workgroup\n* Telecommunications"
