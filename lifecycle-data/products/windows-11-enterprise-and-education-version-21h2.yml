@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Enterprise and Education (Phiên bản 21H2)
+  description: Windows 11 Enterprise và Education (Phiên bản 21H2) tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 09/22/2021
+  keywords: 
+  ms.openlocfilehash: 8bccbb271d78ef9b03d0a2d9f92c78984e775f88
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509452"
+name: Windows 11 Enterprise and Education (Phiên bản 21H2)
+summary: >+
+  Windows 11 Enterprise và Education (Phiên bản 21H2) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+  Bài viết này áp dụng với các phiên bản sau: Education, Enterprise
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Các tài nguyên Windows khác](/windows/resources/)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n* [Windows 11 Home và Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 11 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Education\n* Enterprise"

@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509310"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Visual Studio 2015 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
-  Bài viết này áp dụng với các phiên bản sau: Agents, Community, Enterprise, ESM, Express cho Web, Express cho Windows 10, Express cho Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (Tích hợp), Shell (Độc lập), Test Professional, TPS, Visual C++ Redistributable
+
+
+  Chính sách này áp dụng với các phiên bản sau: Community, Enterprise, Express cho web, Express cho Windows 10, Express cho Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>Liên kết 
-  * [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Agents
-  * Community
-  * Enterprise
-  * ESM
-  * Express cho Web
-  * Express cho Windows 10
-  * Express cho Windows Desktop
-  * Modeling SDK
-  * Professional
-  * PSM
-  * Release Management
-  * Công cụ Từ xa
-  * SDK
-  * Shell (Tích hợp)
-  * Shell (Độc lập)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ cho các phiên bản cũ hơn của Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Chính sách Gói Dịch vụ](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2015 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Community\n* Enterprise\n* Express cho Web\n* Express cho Windows 10\n* Express cho Windows Desktop\n* Professional\n* Release Management\n* Test Professional"

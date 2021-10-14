@@ -2,65 +2,36 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 05/28/2021
-  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510969"
 name: Visual Studio 2010
-summary: |+
+summary: >+
   Visual Studio 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
-  Chính sách này áp dụng cho các phiên bản: Agents, Tất cả các phiên bản, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+  Bài viết này áp dụng với các phiên bản sau: Express cho Web, Express cho Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-  - version: Service Pack 1
-    startDate: 03/08/2011
-    endDate: 07/14/2020
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 04/10/2012
-content: |+
-
-
-  ## <a name="links"></a>Liên kết 
-  * [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)
-
-
-  > [!NOTE]
-  > Visual Studio 2010 Tools for Office (VSTO) Runtime đi kèm với các phiên bản khác nhau của Visual Studio và Microsoft Office và tuân theo vòng đời của sản phẩm gốc. Chương trình cũng có thể được tải xuống riêng rẽ, [tại đây](https://www.microsoft.com/download/details.aspx?id=56961).
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Agents
-  * All
-  * ASP .NET MVC 4
-  * Express
-  * F# 2.0 Runtime
-  * Lab Management
-  * Performance Tools
-  * Premium
-  * Professional
-  * Professional w/MSDN 
-  * PSM
-  * Remote Debugger
-  * SDK
-  * Shell (Tích hợp)
-  * Shell (Độc lập)
-  * Team Agents
-  * Team Explorer
-  * Test Professional
-  * Ultimate
-  * Ultimate với MSDN
-  * Visual Basic Express
-  * Visual C# Express
-  * Visual C++ Express
-  * Visual Web Developer Express
-  * Visualization & Modeling SDK
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Chính sách gói dịch vụ](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2010 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2010: Agents, All, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Performance Tools, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Tích hợp), Shell (Cô lập), Team Agents, Team Explorer, Ultimate with MSDN, Visualization & Modelling SDK.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Express cho Web\n* Express cho Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
