@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/23/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509273"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514250"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2013 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2013: Agents, IntelliTrace Collector, Modelling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Community\n* Express cho Web\n* Express cho Windows\n* Express cho Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2013 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2013: Agents, IntelliTrace Collector, Modelling SDK, Multibyte MFC Library, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), Team Explorer, Visual C++ Redistributable, Web Tools Extensions\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Community\n* Express cho Web\n* Express cho Windows\n* Express cho Windows Desktop\n* Premium\n* Professional\n* Release Management\n* Test Professional\n* Ultimate"

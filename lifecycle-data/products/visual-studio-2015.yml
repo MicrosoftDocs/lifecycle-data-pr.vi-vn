@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 1e07a427245d7d9fd41ca9628cdacdaf1d888241
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509310"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514253"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ cho các phiên bản cũ hơn của Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [Chính sách Gói Dịch vụ](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2015 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Community\n* Enterprise\n* Express cho Web\n* Express cho Windows 10\n* Express cho Windows Desktop\n* Professional\n* Release Management\n* Test Professional"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ cho các phiên bản cũ hơn của Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2015 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Tích hợp), Shell (Cô lập), TPS, Visual C++ Redistributable.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Community\n* Enterprise\n* Express cho Web\n* Express cho Windows 10\n* Express cho Windows Desktop\n* Professional\n* Release Management\n* Test Professional"

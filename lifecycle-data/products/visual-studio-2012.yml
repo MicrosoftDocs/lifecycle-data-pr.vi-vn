@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509199"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514254"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ cho các phiên bản cũ hơn của Visual Studio](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [Chính sách Gói Dịch vụ](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2021 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2012: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Tích hợp), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Express cho Web\n* Express cho Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin về dịch vụ cho các phiên bản cũ hơn của Visual Studio](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> Các phiên bản Visual Studio 2021 của những thành phần sau được đính kèm và hỗ trợ như một phần của vòng đời sản phẩm Visual Studio 2012: Agents, IntelliTrace Collector, Microsoft Azure Tools, Remote Tools, SDK, Shell (Tích hợp), Shell (Isolated), SQL Server Data Tools, Team Explorer, Visual C++ Redistributable, Web Tools Extensions.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Express cho Web\n* Express cho Windows Desktop\n* Premium\n* Professional\n* Team Explorer\n* Ultimate"
