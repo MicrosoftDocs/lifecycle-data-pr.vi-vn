@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: OneNote 2021
+  description: OneNote 2021 tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 10/15/2021
+  keywords: office,Standard,Standard for Mac
+  ms.openlocfilehash: 75f6eed10a29393d72c8729536518d1df8f55e77
+  ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "3517999"
+name: OneNote 2021
+summary: >+
+  OneNote 2021 tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+  Chính sách này áp dụng cho các phiên bản sau: Tiêu chuẩn, Tiêu chuẩn dành cho máy Mac
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn\n* Tiêu chuẩn dành cho máy Mac"
