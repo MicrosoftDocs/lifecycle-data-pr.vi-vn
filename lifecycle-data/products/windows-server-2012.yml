@@ -2,11 +2,18 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: 4aaf6ab9c89c90bd7017bf7048a93890cd7f396e
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560154"
 name: Windows Server 2012
-summary: |+
+summary: >+
   Windows Server 2012 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
 
 
   Bài viết này áp dụng với các phiên bản sau: Datacenter, Essentials, External Connector, cho Hệ thống Nhúng, Foundation, Tiêu chuẩn
@@ -14,42 +21,23 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 10/14/2025
-    endDate: 10/13/2026
-  - version: Extended Security Update Year 2
-    startDate: 10/08/2024
-    endDate: 10/14/2025
-  - version: Extended Security Update Year 1
-    startDate: 10/10/2023
-    endDate: 10/08/2024
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |+
-
-
-  ## <a name="links"></a>Liên kết 
-  * [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)
-  * [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)
-  * [Câu hỏi Thường gặp về Vòng đời Sản phẩm - Cập nhật Bảo mật Mở rộng](/lifecycle/faq/extended-security-updates)
-
-
-  > [!NOTE]
-  > Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 02/01/2013.
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Datacenter
-  * Essentials
-  * External Connector
-  * cho Hệ thống Nhúng
-  * Foundation
-  * Tiêu Chuẩn
+- version: Extended Security Update Year 3
+  startDate: 10/15/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/09/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/11/2023
+  endDate: 10/08/2024
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/windows-server/upgrade/upgrade-overview)\n* [Thông tin sản phẩm](/windows/release-information/status-windows-server-2012)\n* [Câu hỏi Thường gặp về Vòng đời Sản phẩm - Cập nhật Bảo mật Mở rộng](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho sản phẩm này đã được gia hạn để cung cấp cho khách hàng dòng thời gian chuyển đổi vòng đời tiêu chuẩn. Windows Server Essentials phát hành vào ngày 02/01/2013.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Essentials\n* External Connector\n* cho Hệ thống Nhúng\n* Foundation\n* Tiêu Chuẩn"

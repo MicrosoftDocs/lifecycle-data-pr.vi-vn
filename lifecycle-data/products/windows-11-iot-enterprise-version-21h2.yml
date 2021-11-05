@@ -2,14 +2,14 @@
 metadata:
   title: Windows 11 IoT Enterprise (Phiên bản 21H2)
   description: Windows 11 IoT Enterprise (Phiên bản 21H2) tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 09/23/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509453"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546620"
 name: Windows 11 IoT Enterprise (Phiên bản 21H2)
 summary: >+
   Windows 11 IoT Enterprise (Phiên bản 21H2) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -28,4 +28,4 @@ releases:
 - version: Original release (Version 21H2)
   startDate: 10/04/2021
   endDate: 10/08/2024
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Bắt đầu với Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Các tài nguyên Windows khác](/windows/resources/)\n* [Windows 11 Enterprise và Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 Home và Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 11 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo."
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Bắt đầu với Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Các tài nguyên Windows khác](/windows/resources/)\n* [Windows 11 Enterprise và Education](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home và Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 11 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo."
