@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Active Directory (AD) Connect
+  description: Azure Active Directory (AD) Connect tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 11/02/2021
+  keywords: AD Connect,AD Sync
+  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560424"
+name: Azure Active Directory (AD) Connect
+summary: >+
+  Azure Active Directory (AD) Connect tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Vào ngày 31/8/2022, tất cả các phiên bản 1.x của Azure Active Directory (Azure AD) Connect sẽ ngừng hoạt động vì các phiên bản này bao gồm các cấu phần SQL Server 2012 không còn được hỗ trợ. Vui lòng nâng cấp lên bản phát hành [mới nhất của Azure AD Connect 2.x](https://www.microsoft.com/download/details.aspx?id=47594) hoặc [Azure AD Connect cho đồng bộ đám mây](https://docs.microsoft.com/azure/active-directory/cloud-sync/what-is-cloud-sync).
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/01/2014
+releases:
+- version: Version 2.x
+  startDate: 09/30/2021
+- version: Version 1.x
+  startDate: 09/01/2014
+  endDate: 08/31/2022
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin dịch vụ](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD Connect cho đồng bộ đám mây](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD Connect v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> Được phát hành lần đầu vào tháng 9 năm 2014, Azure AD Sync đã đổi tên thành Azure AD Connect vào tháng 6 năm 2015, bắt đầu với phiên bản 1.0.8641.0."

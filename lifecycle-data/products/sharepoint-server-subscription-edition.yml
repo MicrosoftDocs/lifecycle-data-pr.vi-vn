@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint Server Phiên bản Đăng ký
+  description: Phiên bản Đăng ký SharePoint Server tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3547001"
+name: SharePoint Server Phiên bản Đăng ký
+summary: >+
+  SharePoint Server Phiên bản Đăng ký tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> Xem [tài liệu về sản phẩm](https://docs.microsoft.com/sharepoint/sharepoint-server) và tài liệu dành cho [nhà phát triển](https://docs.microsoft.com/sharepoint/dev/)."

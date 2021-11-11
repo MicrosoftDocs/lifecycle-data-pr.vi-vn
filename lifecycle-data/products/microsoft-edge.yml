@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560080"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 
 
+
   > [!IMPORTANT]
+
   > Vui lòng lưu ý rằng phiên bản cũ của sản phẩm sẽ kết thúc hỗ trợ vào ngày 9 tháng 3 năm 2021. Truy cập vào [đây](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) để tìm hiểu thêm.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Liên kết 
-  * [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Câu hỏi Thường gặp về Vòng đời - Internet Explorer và Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Chính sách Vòng đời sản phẩm Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Các tài nguyên mới để đẩy nhanh quá trình chuyển sang Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Câu hỏi Thường gặp về Vòng đời - Internet Explorer và Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Chính sách Vòng đời sản phẩm Microsoft Edge](/deployedge/microsoft-edge-support-lifecycle)"
