@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2022
   description: Windows Server 2022 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/23/2021
+  ms.date: 2022/03/16
   keywords: 
-  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
-  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.openlocfilehash: eab49a6ae7dbfa393d83d01710cf0ac48b43054c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 09/30/2021
-  ms.locfileid: "3508039"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134817"
 name: Windows Server 2022
 summary: >+
   Windows Server 2022 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -24,11 +24,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 08/18/2021
-  end: 10/13/2026
-  extendedEnd: 10/14/2031
+  start: 2021-11-02T00:00:00.000-08:00
+  end: 2026-10-13T22:59:59.999-08:00
+  extendedEnd: 2031-10-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 08/18/2021
-  endDate: 10/14/2031
-content: "> [!TIP]\n> Microsoft Edge tuân theo [Chính sách Vòng đời Hiện đại](https://docs.microsoft.com/lifecycle/policies/modern). Vui lòng tham khảo [tài liệu về vòng đời của Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) để biết cách duy trì cập nhật và hỗ trợ cho trình duyệt này.\n\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Các Container được phát hành cùng với Windows Server 2022 tuân theo cùng ngày với vòng đời sản phẩm. \n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter: Phiên bản Azure\n* Essentials\n* Tiêu Chuẩn"
+  startDate: 2021-11-02T00:00:00.000-08:00
+  endDate: 2031-10-14T22:59:59.999-08:00
+content: "> [!TIP]\n> Microsoft Edge tuân theo [Chính sách Vòng đời Hiện đại](https://docs.microsoft.com/lifecycle/policies/modern). Vui lòng tham khảo [tài liệu về vòng đời của Edge](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) để biết cách duy trì cập nhật và hỗ trợ cho trình duyệt này.\n\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Thông tin sản phẩm](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Các Container được phát hành cùng với Windows Server 2022 tuân theo cùng ngày với vòng đời sản phẩm. \n> [!NOTE]\n> [Hotpatching](https://docs.microsoft.com/azure/automanage/automanage-hotpatch) được hỗ trợ trên Trung tâm Dữ liệu Windows Server 2022: Phiên bản Azure Core cho tới khi kết thúc Hỗ trợ Chính.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Datacenter\n* Datacenter: Phiên bản Azure\n* Essentials\n* Tiêu Chuẩn"

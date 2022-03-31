@@ -2,14 +2,14 @@
 metadata:
   title: Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9 (cập nhật tại chỗ)
   description: Ứng dụng Dynamics 365 cho Customer Engagement, phiên bản 9 (cập nhật tại chỗ) tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 06/08/2021
-  keywords: customer engagement
-  ms.openlocfilehash: f083bb8f1b2ddef13a8eea8c1d87b735bdc26cc316879795e0521e2583a1476b
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 2022/03/01
+  keywords: crm,customer engagement
+  ms.openlocfilehash: 71ea20e24df4f3bc5f98085ca992591ce76ee060
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2503937"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141662"
 name: Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9 (cập nhật tại chỗ)
 summary: >+
   Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9 (cập nhật tại chỗ) tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -22,14 +22,14 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 10/31/2018
-  end: 01/14/2025
-  extendedEnd: 01/13/2026
+  start: 2018-10-31T00:00:00.000-08:00
+  end: 2027-01-12T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Service Pack 1 (ver 9.1)
-  startDate: 06/07/2021
-  endDate: 01/13/2026
+  startDate: 2021-06-07T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 - version: Original Release (ver 9.0)
-  startDate: 10/31/2018
-  endDate: 07/11/2023
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Hỗ trợ](https://support.microsoft.com/topic/microsoft-dynamics-365-on-premises-cumulative-updates-ed51f905-cf4e-3641-dc7c-afe2b868eeb9)"
+  startDate: 2018-10-31T00:00:00.000-08:00
+  endDate: 2023-07-11T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin Hỗ trợ](https://support.microsoft.com/topic/microsoft-dynamics-365-on-premises-cumulative-updates-ed51f905-cf4e-3641-dc7c-afe2b868eeb9)\n\n\n> [!NOTE]\n> Đối với Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9, thời gian kết thúc Hỗ trợ Chính được mở rộng đến 12 tháng một năm 2027, và thời gian kết thúc Hỗ trợ Mở rộng được kéo dài đến 9 tháng một năm 2029."
