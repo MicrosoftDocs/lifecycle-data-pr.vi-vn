@@ -3,29 +3,26 @@ metadata:
   title: Dynamics 365 cho Tài chính và Vận hành
   description: Dynamics 365 cho Tài chính và Vận hành tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5792f8d75e78d9e8bb14db6f7039fd2f32f489fc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122496"
 name: Dynamics 365 cho Tài chính và Vận hành
-summary: |+
+summary: >+
   Dynamics 365 Cho Tài chính và Vận hành tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
 
   Bài viết này áp dụng với các phiên bản sau: Enterprise
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 02/19/2016
+  start: 2016-02-19T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 02/19/2016
-content: |
-
-  ## <a name="links"></a>Liên kết 
-  * [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)
-  * [Các tính năng bị loại bỏ hoặc không còn dùng đến](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [Thông tin dịch vụ](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
-  * [Yêu cầu hệ thống](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Enterprise
+- version: Original Release
+  startDate: 2016-02-19T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Microsoft Dynamics 365 Roadmap](https://roadmap.dynamics.com/)\n* [Các tính năng bị loại bỏ hoặc không còn dùng đến](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [Thông tin dịch vụ](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [Yêu cầu hệ thống](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise"

@@ -1,0 +1,23 @@
+### YamlMime:Lifecycle
+metadata:
+  title: OneDrive dành cho Người tiêu dùng
+  description: OneDrive dành cho Người tiêu dùng tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 12/13/2021
+  keywords: 
+  ms.openlocfilehash: 261cce38eacc1db43d2be764b1aa9c959a52f751
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156345"
+name: OneDrive dành cho Người tiêu dùng
+summary: "OneDrive cho Người tiêu dùng tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).\n\n\n\n\n> [!IMPORTANT]\n> Bắt đầu từ ngày 1 tháng một năm 2022, các bản cập nhật cho ứng dụng OneDrive dành cho máy tính để bàn sẽ không còn được cung cấp, áp dụng cho ứng dụng cài đặt trên các thiết bị máy tính cá nhân chạy Windows 7, 8 và 8.1. Truy cập vào [đây](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/end-of-support-for-onedrive-desktop-application-on-windows-7-8/ba-p/2929066) để tìm hiểu thêm. \n\n"
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2001-05-31T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2001-05-31T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Yêu cầu hệ thống](https://support.microsoft.com/office/onedrive-system-requirements-cc0cb2b8-f446-445c-9b52-d3c2627d681e)\n* [Ghi chú phát hành](https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0)\n* [Thông tin dịch vụ](/onedrive/sync-client-update-process)"

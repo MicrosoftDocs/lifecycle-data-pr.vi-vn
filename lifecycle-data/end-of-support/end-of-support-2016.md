@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2016
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029569"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117575"
 ---
 # <a name="products-ending-support-in-2016"></a>Sản phẩm kết thúc hỗ trợ vào năm 2016
 
@@ -20,13 +20,6 @@ Nếu bạn có bất kỳ câu hỏi nào về hỗ trợ dành cho một sản
 
 
 
-## <a name="release-end-of-servicing"></a>Bản phát hành kết thúc dịch vụ
-
-Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chính sách hiện đại](/lifecycle/policies/modern) sau đây sẽ kết thúc hỗ trợ vào năm 2016.
-
-| Sản phẩm | Kết thúc Dịch vụ |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, Phiên bản 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 08/12/2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Các sản phẩm sắp kết thúc hỗ trợ

@@ -4,12 +4,12 @@ metadata:
   description: Access 2010 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/21/2020
   keywords: Standard
-  ms.openlocfilehash: 02f79941a3504f28bb6438ee299098c4dae530ca3b15e39412968d507f49a341
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: ac61d58b1513de659c16b1399cdac2b693c74750
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497129"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4116650"
 name: Access 2010
 summary: >+
   Access 2010 tuân theo Chính [sách Vòng](/lifecycle/policies/fixed) đời Cố định.
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 07/15/2010
-  end: 10/13/2015
-  extendedEnd: 10/13/2020
+  start: 2010-07-15T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2020-10-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
+  startDate: 2010-07-15T00:00:00.000-08:00
+  endDate: 2020-10-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/office365/enterprise/plan-upgrade-previous-versions-office)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"

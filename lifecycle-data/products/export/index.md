@@ -1,14 +1,14 @@
 ---
 title: Xuất dữ liệu vòng đời sản phẩm
 description: Xuất dữ liệu về thông tin vòng đời sản phẩm
-ms.date: 11/01/2021
+ms.date: 01/05/2022
 layout: ContentPage
-ms.openlocfilehash: be7a11f46a034a396e6e74877834d847557cc708
-ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+ms.openlocfilehash: 6299bdc744eecf7591d3d57bc72bc8299464e904
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "3547000"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4150949"
 ---
 # <a name="lifecycle-data-export"></a>Xuất dữ liệu vòng đời sản phẩm
 
@@ -87,7 +87,6 @@ Chọn một năm để xem sản phẩm kết thúc hỗ trợ. Lưu ý: Xuấ
 > [!div class="op_single_selector"]
 > - [12 Tháng Tiếp theo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [6 Tháng Tiếp theo](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
 > - [2019](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2019))
@@ -103,3 +102,4 @@ Chọn một năm để xem sản phẩm kết thúc hỗ trợ. Lưu ý: Xuấ
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
 > - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
+> - [2032](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2032))

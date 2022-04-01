@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2030
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2030.
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4029520"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116835"
 ---
 # <a name="products-ending-support-in-2030"></a>Sản phẩm kết thúc hỗ trợ vào năm 2030
 
@@ -29,6 +29,7 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 | Sản phẩm | Kết thúc Hỗ trợ |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | Ngày 08/01/2030 |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | Ngày 9 tháng Tư năm 2030 |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | Ngày 09/07/2030 |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft Robotics](/lifecycle/products/microsoft-robotics?branch=live)<br> | Ngày 08/10/2030 |
 

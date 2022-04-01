@@ -3,17 +3,23 @@ metadata:
   title: Máy chủ Office Trực tuyến
   description: Office Online Server tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 5f330559e84add244a30cccb574a573ceb5d9347
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136815"
 name: Máy chủ Office Trực tuyến
-summary: |+
+summary: >+
   Office Online Server tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 05/04/2016
+  start: 2016-05-04T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 05/04/2016
-content: |+
+- version: Original Release
+  startDate: 2016-05-04T00:00:00.000-08:00
+content: ''

@@ -3,36 +3,23 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: 'Premium,Standard'
+  keywords: Premium,Standard
+  ms.openlocfilehash: 1f482af63ad9c63c40e628fba82ca5dbaf330e82
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123051"
 name: Windows Small Business Server 2008
-summary: |
-  Windows Small Business Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
-
-  Bài viết này áp dụng với các phiên bản sau: Premium, Standard
-
-  > [!IMPORTANT]
-  > Hỗ trợ dành cho sản phẩm này đã kết thúc 
-
-  Ngày hỗ trợ cho gói sản phẩm này được xác định bởi các vòng đời tương ứng của sản phẩm thành phần riêng lẻ. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.
+summary: "Windows Small Business Server 2008 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\nBài viết này áp dụng với các phiên bản sau: Premium, Standard\n\n> [!IMPORTANT]\n> Hỗ trợ dành cho sản phẩm này đã kết thúc \n\nNgày hỗ trợ cho gói sản phẩm này được xác định bởi các vòng đời tương ứng của sản phẩm thành phần riêng lẻ. Vui lòng đánh giá vòng đời của sản phẩm thành phần riêng lẻ để xác định thời lượng hỗ trợ.\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/21/2008
-  extendedEnd: 01/14/2020
+  start: 2008-11-21T00:00:00.000-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/21/2008
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>Liên kết 
-  * [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)
-  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
-  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
-  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Premium
-  * Tiêu Chuẩn
+- version: Original Release
+  startDate: 2008-11-21T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Premium\n* Tiêu Chuẩn"

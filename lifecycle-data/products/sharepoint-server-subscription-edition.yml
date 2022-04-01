@@ -4,12 +4,12 @@ metadata:
   description: Phiên bản Đăng ký SharePoint Server tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 10/19/2021
   keywords: 
-  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
-  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.openlocfilehash: b515d7ca4be8413a55707d64e6f3fedca9352e8e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "3547001"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131265"
 name: SharePoint Server Phiên bản Đăng ký
 summary: >+
   SharePoint Server Phiên bản Đăng ký tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -22,8 +22,8 @@ products:
 - office
 policyType: modern-on-prem
 supportDates:
-  start: 11/02/2021
+  start: 2021-11-02T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/02/2021
+  startDate: 2021-11-02T00:00:00.000-08:00
 content: "\n\n\n\n> [!NOTE]\n> Xem [tài liệu về sản phẩm](https://docs.microsoft.com/sharepoint/sharepoint-server) và tài liệu dành cho [nhà phát triển](https://docs.microsoft.com/sharepoint/dev/)."

@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2028
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4029481"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116983"
 ---
 # <a name="products-ending-support-in-2028"></a>Sản phẩm kết thúc hỗ trợ vào năm 2028
 
@@ -39,3 +39,11 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | Ngày 11/07/2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Các sản phẩm chuyển sang Hỗ trợ Mở rộng
+
+Các sản phẩm sau sẽ chuyển từ Hỗ trợ Chính sang Hỗ trợ Mở rộng trong năm 2028. Hỗ trợ Mở rộng sbao gồm các cập nhật bảo mật miễn phí, hỗ trợ và cập nhật có tính phí không liên quan đến bảo mật. Ngoài ra, Microsoft sẽ không chấp nhận yêu cầu thay đổi thiết kế hoặc tính năng mới trong giai đoạn Hỗ trợ mở rộng.
+
+| Sản phẩm | Kết thúc Hỗ trợ Chính |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | Ngày 11 Tháng Tư năm 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | Ngày 11/07/2028 |

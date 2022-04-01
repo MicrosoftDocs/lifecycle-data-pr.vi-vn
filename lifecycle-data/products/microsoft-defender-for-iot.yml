@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Bộ bảo vệ Microsoft cho IoT
+  description: Bộ bảo vệ Microsoft cho IoT tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 01/12/2022
+  keywords: Azure Defender for IoT
+  ms.openlocfilehash: 83da229791471d07d50fc96de0b5a6a0aebf8448
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156980"
+name: Bộ bảo vệ Microsoft cho IoT
+summary: >+
+  Bộ bảo vệ Microsoft cho IoT tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- azure
+policyType: modern-on-prem
+supportDates:
+  start: 2021-01-04T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2021-01-04T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn dịch vụ](/azure/defender-for-iot/release-notes#versions-and-support-dates)"

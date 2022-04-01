@@ -4,12 +4,12 @@ metadata:
   description: Windows 11 IoT Enterprise (Phiên bản 21H2) tuân theo Chính sách Vòng đời Hiện đại.
   ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: 54c4bc26956a13152fad262355c6ea9d61e1a186
-  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.openlocfilehash: cf2a1cdda45810567860359c9a3d1fd4259dd6bb
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 11/02/2021
-  ms.locfileid: "3546620"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123828"
 name: Windows 11 IoT Enterprise (Phiên bản 21H2)
 summary: >+
   Windows 11 IoT Enterprise (Phiên bản 21H2) tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
@@ -22,10 +22,10 @@ products:
 - office
 policyType: modern-on-prem
 supportDates:
-  start: 10/04/2021
-  end: 10/08/2024
+  start: 2021-10-04T00:00:00.000-08:00
+  end: 2024-10-08T22:59:59.999-08:00
 releases:
 - version: Original release (Version 21H2)
-  startDate: 10/04/2021
-  endDate: 10/08/2024
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2024-10-08T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Bắt đầu với Windows 11 IoT Enterprise](https://aka.ms/Windows11IoTEnterprise)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Các tài nguyên Windows khác](/windows/resources/)\n* [Windows 11 Enterprise và Education](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n* [Windows 11 Home và Pro](/lifecycle/products/windows-11-home-and-pro-version-21h2)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 11 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo."

@@ -3,27 +3,29 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 29084ce2a70a665cf844ba45a7704878133677b2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118019"
 name: Windows Phone 8.1
-summary: |
+summary: >
   Windows Phone 8.1 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
+
   > [!IMPORTANT]
+
   > Hỗ trợ dành cho sản phẩm này đã kết thúc
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 06/24/2014
-  end: 07/11/2017
+  start: 2014-06-24T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/24/2014
-    endDate: 07/11/2017
-content: |+
-
-  ## <a name="links"></a>Liên kết 
-  * [Câu hỏi Thường gặp về Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
-
-  > [!NOTE]
-  > Microsoft sẽ phát hành các bản cập nhật cho Hệ Điều hành này, bao gồm cả các bản cập nhật bảo mật trong tối thiểu 36 tháng kể từ ngày bắt đầu vòng đời. Số lượng các bản cập nhật này sẽ tăng lên, với mỗi bản cập nhật được xây dựng dựa trên bản cập nhật trước đó. Khách hàng cần phải cài đặt mỗi bản cập nhật để được duy trì hỗ trợ. Việc phân phối các bản cập nhật gia tăng này có thể do nhà cung cấp dịch vụ di động hoặc hãng sản xuất mà bạn đã mua điện thoại thực hiện kiểm soát và việc cài đặt sẽ yêu cầu điện thoại của bạn có bất kỳ bản cập nhật nào trước đó. Tính khả dụng của bản cập nhật cũng sẽ thay đổi theo quốc gia, khu vực và tính năng phần cứng.
+- version: Original Release
+  startDate: 2014-06-24T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft sẽ phát hành các bản cập nhật cho Hệ Điều hành này, bao gồm cả các bản cập nhật bảo mật trong tối thiểu 36 tháng kể từ ngày bắt đầu vòng đời. Số lượng các bản cập nhật này sẽ tăng lên, với mỗi bản cập nhật được xây dựng dựa trên bản cập nhật trước đó. Khách hàng cần phải cài đặt mỗi bản cập nhật để được duy trì hỗ trợ. Việc phân phối các bản cập nhật gia tăng này có thể do nhà cung cấp dịch vụ di động hoặc hãng sản xuất mà bạn đã mua điện thoại thực hiện kiểm soát và việc cài đặt sẽ yêu cầu điện thoại của bạn có bất kỳ bản cập nhật nào trước đó. Tính khả dụng của bản cập nhật cũng sẽ thay đổi theo quốc gia, khu vực và tính năng phần cứng."

@@ -4,26 +4,28 @@ metadata:
   description: Publisher 2013 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Standard
+  ms.openlocfilehash: b53a470e0e44fd2274104149e5d27e48522fd2d1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4105513"
 name: Publisher 2013
-summary: |+
+summary: >+
   Publisher 2013 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
 
   Bài viết này áp dụng với các phiên bản sau: Tiêu Chuẩn
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2018-04-10T22:59:59.999-08:00
+  extendedEnd: 2023-04-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/09/2013
-    endDate: 04/11/2023
-content: |
-
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Tiêu Chuẩn
+- version: Original Release
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2023-04-11T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"

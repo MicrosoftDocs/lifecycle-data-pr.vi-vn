@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Office 2019 cho máy Mac
   description: Microsoft Office 2019 cho máy Mac tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
-  keywords: 'Academic,Home and Business,Home and Student,Standard'
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: c48992e8a23900c03aa26c28630031eb1fbf3954
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107104"
 name: Microsoft Office 2019 cho máy Mac
-summary: |+
+summary: >+
   Microsoft Office 2019 cho máy Mac tuân theo Chính sách Vòng đời  [Cố định](/lifecycle/policies/fixed).
+
 
   Bài viết này áp dụng với các phiên bản sau: Home and Business, Home and Student, Standard
 
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/10/2023
-content: |
-
-
-
-  ## <a name="editions"></a>Phiên bản 
-  * Academic
-  * Home và Business
-  * Home and Student
-  * Tiêu Chuẩn
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Academic\n* Home và Business\n* Home and Student\n* Tiêu Chuẩn"

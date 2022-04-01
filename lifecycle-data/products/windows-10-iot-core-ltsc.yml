@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT Core LTSC
+  description: Windows 10 IoT Core LTSC tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: f76d40924e9cd5e57e8cb3373424b1ab1be18bfc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156950"
+name: Windows 10 IoT Core LTSC
+summary: "Windows 10 IoT Core LTSC tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).\n\n\n\n\n> [!IMPORTANT]\n> Windows 10 IoT Core LTSC cần [Dịch vụ Windows 10 IoT Core](http://aka.ms/IoTCoreServices). \n\n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về Dịch vụ Windows 10 IoT Core](http://aka.ms/IoTCoreServices)\n* [Tổng quan về Windows 10 IoT Core](https://aka.ms/windowsiotcore)\n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Bản cập nhật Windows ngày 10/10/2018](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)"

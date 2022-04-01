@@ -4,12 +4,12 @@ metadata:
   description: Cloud Platform System tuân theo Chính sách Vòng đời Cố định.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 448affd48bc634814f54888410f728dccf178711d943addbdd2cec6388c4135e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 0f2c6241b0d7a814fbc29cf15994b5c1e0537fba
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492393"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4109324"
 name: Cloud Platform System
 summary: >+
   Cloud Platform System tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
@@ -21,11 +21,11 @@ products:
 - azure
 policyType: fixed
 supportDates:
-  start: 01/29/2015
-  end: 04/14/2020
-  extendedEnd: 07/12/2022
+  start: 2015-01-29T00:00:00.000-08:00
+  end: 2020-04-14T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/29/2015
-  endDate: 07/12/2022
+  startDate: 2015-01-29T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> Hỗ trợ cho Cloud Platform System được mở rộng như hiển thị để cung cấp cho tất cả khách hàng với dòng thời gian chuyển đổi vòng đời tiêu chuẩn.\n> [!NOTE]\n> Cloud Platform System Standard đã ra mắt vào ngày 18/9/2017.\n\n## <a name=\"editions\"></a>Phiên bản \n* Tiêu Chuẩn"

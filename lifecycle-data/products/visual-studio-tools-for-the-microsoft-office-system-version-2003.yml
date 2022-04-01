@@ -3,20 +3,26 @@ metadata:
   title: Công cụ Visual Studio cho Hệ thống Microsoft Office phiên bản 2003
   description: Công cụ Visual Studio cho Hệ thống Microsoft Office phiên bản 2003 tuân theo Chính sách Vòng đời Cố định.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 53598cf2f8dc9a924e67b57882df13c904f16b88
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119314"
 name: Công cụ Visual Studio cho Hệ thống Microsoft Office phiên bản 2003
-summary: |+
+summary: >+
   Công cụ Visual Studio cho phiên bản Hệ thống Microsoft Office 2003 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 12/04/2003
-  end: 01/13/2009
-  extendedEnd: 01/14/2014
+  start: 2003-12-04T00:00:00.000-08:00
+  end: 2009-01-13T22:59:59.999-08:00
+  extendedEnd: 2014-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/04/2003
-    endDate: 01/14/2014
-content: |+
+- version: Original Release
+  startDate: 2003-12-04T00:00:00.000-08:00
+  endDate: 2014-01-14T22:59:59.999-08:00
+content: ''

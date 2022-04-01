@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core services
-  description: Windows 10 IoT Core services tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  title: Dịch vụ Chủ chốt Windows 10 IoT
+  description: Dịch vụ Chủ chốt Windows 10 IoT tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497499"
-name: Windows 10 IoT Core services
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130451"
+name: Windows 10 IoT Core Services
 summary: >+
-  Windows 10 IoT Core services tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+  Dịch vụ Chủ chốt Windows 10 IoT tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services là gói đăng ký cung cấp hỗ trợ phần mềm như một dịch vụ, bao gồm kiểm soát bản cập nhật với Trung tâm Cập nhật Thiết bị và tính bảo mật được tăng cường với Chứng thực Tình trạng Thiết bị, miễn là bạn đang dùng phiên bản được hỗ trợ của Windows 10 IoT Core Software."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> Sản phẩm này được hỗ trợ qua [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc).\n\n\n## <a name=\"links\"></a>Liên kết \n* [Tổng quan về Dịch vụ Chủ chốt Windows 10 IoT](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Dịch vụ Chủ chốt Windows 10 IoT là một gói đăng ký hỗ trợ có sẵn với các phiên bản được hỗ trợ của [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)."

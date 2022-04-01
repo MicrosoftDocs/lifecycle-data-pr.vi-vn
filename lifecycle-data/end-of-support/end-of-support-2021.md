@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm Kết thúc Hỗ trợ năm 2021
 description: Tìm hiểu những sản phẩm sẽ bị ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng trong năm 2021.
-ms.date: 11/03/2021
-ms.openlocfilehash: a3404257f04c2f022e648e067f78204a220bd3fc
-ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+ms.date: 01/14/2022
+ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "4029656"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117501"
 ---
 # <a name="products-ending-support-in-2021"></a>Sản phẩm Kết thúc Hỗ trợ trong năm 2021
 
@@ -24,7 +24,7 @@ Các sản phẩm sau đây chịu sự điều chỉnh của [Chính sách hi�
 
 | Sản phẩm | Ngừng cung cấp |
 | --- | --- |
-| [Azure Information Protection client](/lifecycle/products/azure-information-protection-client?branch=live)<br> | Ngày 31/03/2021 |
+| [Máy khách Azure Information Protection cổ điển](/lifecycle/products/azure-information-protection-classic-client?branch=live)<br> | Ngày 31/03/2021 |
 | [Azure Dev Spaces](/lifecycle/products/azure-dev-spaces?branch=live)<br> | Ngày 15/05/2021 |
 | [Skype for Business Online](/lifecycle/products/skype-for-business-online?branch=live)<br> | Ngày 31/07/2021 |
 | [Dynamics 365 Layout](/lifecycle/products/dynamics-365-layout?branch=live)<br> | Ngày 31/12/2021 |
@@ -39,7 +39,7 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 | [Microsoft Endpoint Configuration Manager, Phiên bản 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 26/01/2021 |
 | [Dynamics 365 Business Central tại chỗ (Chính sách hiện đại), đợt phát hành thứ 2 năm 2019, phiên bản 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 tháng 4 năm 2021 |
 | [Windows 10 Enterprise và Education, Phiên bản 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise và Education, Phiên bản 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home và Pro, Phiên bản 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, Phiên bản 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, Phiên bản 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Phiên bản 1909](/lifecycle/products/windows-server?branch=live)<br> | Ngày 11/05/2021 |
-| [Microsoft Endpoint Configuration Manager, Phiên bản 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 29/05/2021 |
+| [Microsoft Endpoint Configuration Manager, Phiên bản 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, Phiên bản 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 29/05/2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | Ngày 21/08/2021 |
 | [Microsoft Endpoint Configuration Manager, Phiên bản 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 01/10/2021 |
 | [Dynamics 365 Business Central tại chỗ (Chính sách hiện đại), đợt phát hành thứ 1 năm 2020, phiên bản 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | Ngày 12/10/2021 |
