@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Internet Explorer 11 trên kênh Semi-Annual Windows 10 (SAC)
+  description: Internet Explorer 11 trên kênh Semi-Annual Window 10 (SAC) tuân theo Chính sách Vòng đời Thành phần.
+  ms.date: 2022/06/23
+  keywords: browser,ie,IE11,sac,kênh semi-annual
+  ms.openlocfilehash: 345e9952b9b3e16724e8e13bc928eb50605e031f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519141"
+name: Internet Explorer 11 trên kênh Semi-Annual Windows 10 (SAC)
+summary: >+
+  Internet Explorer 11 trên Kênh Semi-Annual Window 10 tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Ứng dụng Internet Explorer (IE) 11 dành cho máy tính để bàn sẽ ngừng hỗ trợ trên Window 10 kênh bán niên kể từ ngày 15 tháng sáu năm 2022. Khách hàng được khuyến khích chuyển sang Microsoft Edge với chế độ IE. Chế độ IE cho phép tương thích ngược và sẽ được hỗ trợ ít nhất đến năm 2029. Ngoài ra, Microsoft sẽ đưa ra thông báo một năm trước khi ngừng sử dụng chế độ IE. Truy cập vào [đây](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) để biết danh sách các hệ điều hành được hỗ trợ cho Internet Explorer, bao gồm cả các phiên bản bị ảnh hưởng bởi thông báo này.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Câu hỏi Thường gặp về vòng đời sản phẩm Internet Explorer & Microsoft Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Hệ điều hành hỗ trợ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Hệ điều hành hỗ trợ Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)"

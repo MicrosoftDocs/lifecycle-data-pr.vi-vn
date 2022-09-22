@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2022
+  description: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2022 tuân theo Chính sách Vòng đời Cố định.
+  ms.date: 2022/05/05
+  keywords: Data Protection Manager
+  ms.openlocfilehash: 0b0f4ef91109905222b5dd5a63aeb958c900b3da
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519437"
+name: Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2022
+summary: >+
+  Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2022 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+
+
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 2022-04-01T00:00:00.000-08:00
+  end: 2027-04-13T22:59:59.999-08:00
+  extendedEnd: 2032-04-13T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2022-04-01T00:00:00.000-08:00
+  endDate: 2032-04-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Thông tin sản phẩm](/system-center/)"

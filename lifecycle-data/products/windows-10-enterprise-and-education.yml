@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 Enterprise và Education
   description: Windows 10 Enterprise và Education tuân theo Chính sách Vòng đời Hiện đại.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130525"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519104"
 name: Windows 10 Enterprise và Education
 summary: >+
   Windows 10 Enterprise và Education tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
 
 
 
-  Bài viết này áp dụng với các phiên bản sau: Education, Enterprise
+  Điều này áp dụng với các phiên bản sau: Education, Enterprise, Enterprise đa phiên
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Thông tin Sản phẩm](/windows/windows-10/)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home và Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 10 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Education\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Thông tin Sản phẩm](/windows/windows-10/)\n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home và Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> Trừ khi bị trì hoãn, các bản cập nhật tính năng tiếp theo của Windows 10 có thể được cài đặt trước ngày kết thúc Hỗ trợ Chính được thông báo.\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Education\n* Enterprise\n* Enterprise đa phiên"

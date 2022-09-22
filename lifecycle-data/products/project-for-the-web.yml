@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dự án cho web
+  description: Dự án cho web tuân theo Chính sách Vòng đời Hiện đại.
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519548"
+name: Dự án cho web
+summary: >+
+  Dự án cho web tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Yêu cầu hệ thống](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [Thông tin dịch vụ](/officeupdates/update-history-microsoft365-apps-by-date)\n* [Tài liệu về sản phẩm](/projectonline/project-online)\n* [Dự án cho mô tả dịch vụ web](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"

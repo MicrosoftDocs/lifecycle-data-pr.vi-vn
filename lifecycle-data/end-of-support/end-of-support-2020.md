@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2020
 description: Tìm hiểu những sản phẩm sẽ bị ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng trong năm 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117612"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518216"
 ---
 # <a name="products-ending-support-in-2020"></a>Sản phẩm kết thúc hỗ trợ vào năm 2020
 
@@ -38,7 +38,7 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Phiên bản 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 31 tháng 1 năm 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | Ngày 03/03/2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | Ngày 04/09/2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | Ngày 04/09/2020 |
 | [Microsoft Endpoint Configuration Manager, Phiên bản 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 27/09/2020 |
 | [Visio Services trong SharePoint (trong Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | Ngày 30/09/2020 |
 | [Windows 10 Enterprise và Education, Phiên bản 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Phiên bản 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | Ngày 13 tháng 10 năm 2020 |

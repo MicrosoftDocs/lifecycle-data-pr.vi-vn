@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2027
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2027.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117057"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517957"
 ---
 # <a name="products-ending-support-in-2027"></a>Sản phẩm kết thúc hỗ trợ vào năm 2027
 
@@ -40,4 +40,5 @@ Các sản phẩm sau sẽ chuyển từ Hỗ trợ Chính sang Hỗ trợ Mở 
 
 | Sản phẩm | Kết thúc Hỗ trợ Chính |
 | --- | --- |
-| [Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9 (cập nhật tại chỗ)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | Ngày 12/01/2027 |
+| [Ứng dụng Dynamics 365 for Customer Engagement, phiên bản 9 (cập nhật tại chỗ)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | Ngày 12/01/2027 |
+| [Trình quản lý Bảo vệ Dữ liệu Hệ thống Trung tâm 2022](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[Trình quản lý Vận hành Hệ thống Trung tâm 2022](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[Trình Quản lý Dịch vụ Hệ thống Trung tâm 2022](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[Trình quản lý Máy Ảo Hệ thống Trung tâm 2022](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | Ngày 13/04/2027 |

@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2019
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029640"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518253"
 ---
 # <a name="products-ending-support-in-2019"></a>Sản phẩm kết thúc hỗ trợ vào năm 2019
 
@@ -24,7 +24,6 @@ Các sản phẩm sau đây chịu sự điều chỉnh của [Chính sách Hi�
 
 | Sản phẩm | Ngừng cung cấp |
 | --- | --- |
-| [Trình Lập lịch trình Azure](/lifecycle/products/azure-scheduler?branch=live)<br> | Ngày 30/09/2019 |
 | [Ứng dụng Hockey](/lifecycle/products/hockeyapp?branch=live)<br> | Ngày 16/11/2019 |
 
 
@@ -34,6 +33,7 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 
 | Sản phẩm | Kết thúc Dịch vụ |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | Ngày 13 Tháng Hai 2019 |
 | [Visual Studio cho máy Mac, Visual Studio 2017 cho máy Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | Ngày 08/03/2019 |
 | [Windows 10 Enterprise và Education, Phiên bản 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home và Pro, Phiên bản 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, Phiên bản 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, Phiên bản 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, Phiên bản 1709](/lifecycle/products/windows-server?branch=live)<br> | Ngày 09/04/2019 |
 | [Microsoft Endpoint Configuration Manager, Phiên bản 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 20/05/2019 |

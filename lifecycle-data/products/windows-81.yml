@@ -2,20 +2,27 @@
 metadata:
   title: Windows 8.1
   description: Windows 8.1 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: a3447c6de9bea75452ae7ebf216b401eaab71833
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: 2dc2e2b41fbb73cbd8456da3fa472c2289ef5c65
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4123754"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518475"
 name: Windows 8.1
 summary: >+
   Windows 8.1 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
 
 
+
   Bài viết này áp dụng với các phiên bản sau: Enterprise, Enterprise N, N, Pro với Media Center, Professional, Professional N, SL
+
+
+
+  > [!IMPORTANT]
+
+  > Xin nhắc lại, Windows 8.1 sẽ kết thúc hỗ trợ từ ngày 10 tháng 01 năm 2023. Sau ngày này, sản phẩm này sẽ không còn nhận được các bản cập nhật bảo mật, các bản cập nhật không liên quan đến bảo mật, các bản sửa lỗi, hỗ trợ kỹ thuật, hoặc các cập nhật nội dung kỹ thuật trực tuyến nữa.  Nếu thiết bị không đáp ứng các yêu cầu kỹ thuật để chạy một bản phát hành mới hơn của Windows, Microsoft khuyên bạn nên thay thế thiết bị bằng một thiết bị có hỗ trợ Windows 11. Truy cập [vào đây](https://docs.microsoft.com/lifecycle/announcements/windows-8-1-end-support-january-2023) để biết thêm thông tin chi tiết.
 
 products:
 - windows
@@ -28,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 2013-11-13T00:00:00.000-08:00
   endDate: 2023-01-10T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Enterprise N\n* N\n* Pro với Media Center\n* Professional\n* Professional N\n* S"
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Câu hỏi Thường gặp về Vòng đời - sản phẩm Windows](/lifecycle/faq/windows)\n* [Câu hỏi Thường gặp về Kỹ thuật đối với Windows 8.1](https://prod.support.services.microsoft.com/windows/windows-8-1-support-will-end-on-january-10-2023-3cfd4cde-f611-496a-8057-923fba401e93?preview=true)\n\n\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Enterprise\n* Enterprise N\n* N\n* Pro với Media Center\n* Professional\n* Professional N\n* S"

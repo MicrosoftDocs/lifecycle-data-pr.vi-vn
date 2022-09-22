@@ -2,22 +2,26 @@
 metadata:
   title: Service Bus cho Windows Server
   description: Service Bus cho Windows Server tuân theo Chính sách Vòng đời Thành phần.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2d94e7c188c7164e0f7be80bc8eca33c3ede0edf
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/03/24
+  keywords: 
+  ms.openlocfilehash: c8a4ac8dc6f815bcc7b2a8caeb9d42bb1bf2aa7e
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147656"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518845"
 name: Service Bus cho Windows Server
-summary: >
+summary: >+
   Service Bus cho Windows Server tuân theo Chính sách Vòng đời [Thành phần](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
+
+
 
 
 
   > [!IMPORTANT]
 
-  > Khi Service Bus 1.1 là một thành phần của SharePoint Server 2016 hoặc SharePoint Server 2013, Service Bus sẽ được hỗ trợ dựa trên ngày kết thúc hỗ trợ của phiên bản SharePoint Server tương ứng.
+  > Service Bus 1.1 là một thành phần của SharePoint Server Subscription Edition, SharePoint Server 2019, SharePoint Server 2016, và SharePoint Server 2013, và tuân theo vòng đời của sản phẩm gốc của nó.
+
 products:
 - windows
 policyType: component

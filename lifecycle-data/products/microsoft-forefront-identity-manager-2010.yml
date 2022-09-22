@@ -2,16 +2,20 @@
 metadata:
   title: Microsoft Forefront Identity Manager 2010
   description: Microsoft Forefront Identity Manager 2010 tuân theo Chính sách Vòng đời Cố định.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 360725840480f09dc84f17aba07d7405c5227f7d
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 09/02/2022
+  keywords: 
+  ms.openlocfilehash: f05e9b68adceb588067fc8fb3028b029d714b19f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4153354"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518734"
 name: Microsoft Forefront Identity Manager 2010
 summary: >+
   Microsoft Forefront Identity Manager 2010 tuân theo Chính sách Vòng đời [Cố định](/lifecycle/policies/fixed).
+
+
+
 
 
 products:
@@ -25,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 2010-05-27T00:00:00.000-08:00
   endDate: 2022-10-11T22:59:59.999-08:00
-content: "\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho Microsoft Forefront Identity Manager 2010 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng với dòng thời gian chuyển đổi vòng đời tiêu chuẩn."
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Hướng dẫn di chuyển](/microsoft-identity-manager/microsoft-identity-manager-2016-service-pack-2-upgrade-path)\n* [Microsoft Identity Manager 2016 (sản phẩm kế nhiệm) Ngày vòng đời](/lifecycle/products/microsoft-identity-manager-2016)\n\n\n> [!NOTE]\n> Hỗ trợ Chính và Mở rộng cho Microsoft Forefront Identity Manager 2010 được mở rộng như hiển thị để cung cấp cho tất cả khách hàng với dòng thời gian chuyển đổi vòng đời tiêu chuẩn."
