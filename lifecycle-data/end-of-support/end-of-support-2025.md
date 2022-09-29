@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào 2025
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2025.
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517956"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526178"
 ---
 # <a name="products-ending-support-in-2025"></a>Sản phẩm kết thúc hỗ trợ vào năm 2025
 
@@ -27,6 +27,13 @@ Các sản phẩm sau đây chịu sự điều chỉnh của [Chính sách hi�
 | [Windows 10 Enterprise và Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home và Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | Ngày 14 tháng 10 năm 2025 |
 
 
+## <a name="release-end-of-servicing"></a>Bản phát hành kết thúc dịch vụ
+
+Các bản phát hành sản phẩm sau đây, chịu sự điều chỉnh của [Chính sách hiện đại](/lifecycle/policies/modern), sẽ kết thúc hỗ trợ vào năm 2025.
+
+| Sản phẩm | Kết thúc Dịch vụ |
+| --- | --- |
+| [Windows 11 Enterprise and Education, Phiên bản 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, Phiên bản 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | Ngày 14 tháng 10 năm 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Các sản phẩm sắp kết thúc hỗ trợ

@@ -1,13 +1,13 @@
 ---
 title: Sản phẩm kết thúc hỗ trợ vào năm 2023
 description: Tìm hiểu những sản phẩm sẽ ngừng cung cấp, chạm mốc thời điểm kết thúc hỗ trợ hoặc chuyển từ hỗ trợ chính sang hỗ trợ mở rộng vào năm 2023.
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521081"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526889"
 ---
 # <a name="products-ending-support-in-2023"></a>Sản phẩm kết thúc hỗ trợ vào năm 2023
 
@@ -36,13 +36,12 @@ Các sản phẩm và bản phát hành chịu sự điều chỉnh của [Chín
 | Sản phẩm | Kết thúc Dịch vụ |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, Phiên bản 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 02/02/2023 |
-| [Trình quản lý Cấu hình Điểm cuối Microsoft, phiên bản 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 12 Tháng Hai, 2023 |
 | [Dynamics 365 Business Central tại chỗ (Chính sách hiện đại), đợt phát hành thứ 2 năm 2021, phiên bản 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | Ngày 12/04/2023 |
 | [Windows 10 Enterprise và Education, Phiên bản 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, Phiên bản 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | Ngày 09/05/2023 |
 | [Trình quản lý Cấu hình Điểm cuối Microsoft, phiên bản 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 1 tháng Sáu năm 2023 |
 | [Windows 10 Home và Pro, Phiên bản 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | Ngày 13 tháng Sáu năm 2023 |
 | [Trình quản lý Cấu hình Điểm cuối Microsoft, phiên bản 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | Ngày 6 Tháng Mười, 2023 |
-| [Dynamics 365 Business Central tại chỗ (Chính sách mới), đợt phát hành thứ 1 năm 2022, phiên bản 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro (Phiên bản 21H2), Bản phát hành gốc (Phiên bản 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | Ngày 10 tháng 10 năm 2023 |
+| [Dynamics 365 Business Central tại chỗ (Chính sách mới), đợt phát hành thứ 1 năm 2022, phiên bản 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home và Pro, Phiên bản 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | Ngày 10 tháng 10 năm 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Các sản phẩm sắp kết thúc hỗ trợ

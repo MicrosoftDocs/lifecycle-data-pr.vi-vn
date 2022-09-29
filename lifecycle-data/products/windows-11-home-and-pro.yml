@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Home và Pro
+  description: Windows 11 Home và Pro tuân thủ Chính sách Vòng đời Hiện đại.
+  ms.date: 09/15/2022
+  keywords: win11,Home,Pro,Pro Education,Pro for Workstations,SE
+  ms.openlocfilehash: 6a3600f3ab8bbb303af68313e97f39d75bcb8173
+  ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
+  ms.translationtype: HT
+  ms.contentlocale: vi-VN
+  ms.lasthandoff: 09/20/2022
+  ms.locfileid: "4526426"
+name: Windows 11 Home và Pro
+summary: "Windows 11 Home và Pro tuân theo Chính sách Vòng đời [Hiện đại](/lifecycle/policies/modern).\n\n\nChính sách này áp dụng với các phiên bản: Home, Pro, Pro Education, Pro for Workstations, \n\n\n\n"
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 2021-10-04T00:00:00.000-08:00
+releases:
+- version: Version 22H2
+  startDate: 2022-09-20T00:00:00.000-08:00
+  endDate: 2024-10-14T22:59:59.999-08:00
+- version: Version 21H2
+  startDate: 2021-10-04T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>Liên kết \n* [Windows như một Dịch vụ (WaaS)](/windows/deployment/update/waas-overview)\n* [Câu hỏi Thường gặp về Vòng đời - Windows](/lifecycle/faq/windows)\n* [Các tài nguyên Windows khác](/windows/resources/)\n* [Windows 11 Enterprise và Education](/lifecycle/products/windows-11-enterprise-and-education-version-21h2)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise-version-21h2)\n\n\n\n\n## <a name=\"editions\"></a>Phiên bản \n* Home\n* Pro\n* Pro Education\n* Pro cho Workstations\n* SE"
